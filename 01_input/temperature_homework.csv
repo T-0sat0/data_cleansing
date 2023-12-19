@@ -1,0 +1,3286 @@
+date,region,country,state,city,avg_temperature
+2019-01-01,Africa,Kenya,,Nairobi,67.6
+2019-01-02,Africa,Kenya,,Nairobi,69.6
+2019-01-03,Africa,Kenya,,Nairobi,69.8
+2019-01-04,Africa,Kenya,,Nairobi,65.8
+2019-01-05,Africa,Kenya,,Nairobi,68.2
+2019-01-06,Africa,Kenya,,Nairobi,68.8
+2019-01-07,Africa,Kenya,,Nairobi,70.3
+2019-01-08,Africa,Kenya,,Nairobi,67.4
+2019-01-09,Africa,Kenya,,Nairobi,70.5
+2019-01-10,Africa,Kenya,,Nairobi,70.1
+2019-01-11,Africa,Kenya,,Nairobi,71.1
+2019-01-12,Africa,Kenya,,Nairobi,69.5
+2019-01-13,Africa,Kenya,,Nairobi,69.3
+2019-01-14,Africa,Kenya,,Nairobi,70.8
+2019-01-15,Africa,Kenya,,Nairobi,71.2
+2019-01-16,Africa,Kenya,,Nairobi,70.5
+2019-01-17,Africa,Kenya,,Nairobi,72.3
+2019-01-18,Africa,Kenya,,Nairobi,72.0
+2019-01-19,Africa,Kenya,,Nairobi,71.8
+2019-01-20,Africa,Kenya,,Nairobi,72.8
+2019-01-21,Africa,Kenya,,Nairobi,71.7
+2019-01-22,Africa,Kenya,,Nairobi,71.0
+2019-01-23,Africa,Kenya,,Nairobi,-99
+2019-01-24,Africa,Kenya,,Nairobi,72.2
+2019-01-25,Africa,Kenya,,Nairobi,73.4
+2019-01-26,Africa,Kenya,,Nairobi,71.1
+2019-01-27,Africa,Kenya,,Nairobi,71.2
+2019-01-28,Africa,Kenya,,Nairobi,70.3
+2019-01-29,Africa,Kenya,,Nairobi,69.6
+2019-01-30,Africa,Kenya,,Nairobi,72.2
+2019-01-31,Africa,Kenya,,Nairobi,72.8
+2019-02-01,Africa,Kenya,,Nairobi,73.3
+2019-02-02,Africa,Kenya,,Nairobi,75.8
+2019-02-03,Africa,Kenya,,Nairobi,72.3
+2019-02-04,Africa,Kenya,,Nairobi,72.4
+2019-02-05,Africa,Kenya,,Nairobi,70.2
+2019-02-06,Africa,Kenya,,Nairobi,61.5
+2019-02-07,Africa,Kenya,,Nairobi,71.9
+2019-02-08,Africa,Kenya,,Nairobi,71.2
+2019-02-09,Africa,Kenya,,Nairobi,71.0
+2019-02-10,Africa,Kenya,,Nairobi,69.6
+2019-02-11,Africa,Kenya,,Nairobi,66.5
+2019-02-12,Africa,Kenya,,Nairobi,73.7
+2019-02-13,Africa,Kenya,,Nairobi,70.2
+2019-02-14,Africa,Kenya,,Nairobi,69.3
+2019-02-15,Africa,Kenya,,Nairobi,73.4
+2019-02-16,Africa,Kenya,,Nairobi,67.7
+2019-02-17,Africa,Kenya,,Nairobi,-99
+2019-02-18,Africa,Kenya,,Nairobi,67.4
+2019-02-19,Africa,Kenya,,Nairobi,77.7
+2019-02-20,Africa,Kenya,,Nairobi,65.6
+2019-02-21,Africa,Kenya,,Nairobi,-99
+2019-02-22,Africa,Kenya,,Nairobi,75.0
+2019-02-23,Africa,Kenya,,Nairobi,70.2
+2019-02-24,Africa,Kenya,,Nairobi,75.4
+2019-02-25,Africa,Kenya,,Nairobi,72.5
+2019-02-26,Africa,Kenya,,Nairobi,73.5
+2019-02-27,Africa,Kenya,,Nairobi,71.6
+2019-02-28,Africa,Kenya,,Nairobi,74.5
+2019-03-01,Africa,Kenya,,Nairobi,75.3
+2019-03-02,Africa,Kenya,,Nairobi,76.0
+2019-03-03,Africa,Kenya,,Nairobi,75.0
+2019-03-04,Africa,Kenya,,Nairobi,72.5
+2019-03-05,Africa,Kenya,,Nairobi,75.8
+2019-03-06,Africa,Kenya,,Nairobi,76.7
+2019-03-07,Africa,Kenya,,Nairobi,75.1
+2019-03-08,Africa,Kenya,,Nairobi,74.9
+2019-03-09,Africa,Kenya,,Nairobi,73.1
+2019-03-10,Africa,Kenya,,Nairobi,72.9
+2019-03-11,Africa,Kenya,,Nairobi,73.0
+2019-03-12,Africa,Kenya,,Nairobi,75.5
+2019-03-13,Africa,Kenya,,Nairobi,71.6
+2019-03-14,Africa,Kenya,,Nairobi,71.2
+2019-03-15,Africa,Kenya,,Nairobi,71.8
+2019-03-16,Africa,Kenya,,Nairobi,74.5
+2019-03-17,Africa,Kenya,,Nairobi,74.6
+2019-03-18,Africa,Kenya,,Nairobi,74.1
+2019-03-19,Africa,Kenya,,Nairobi,74.1
+2019-03-20,Africa,Kenya,,Nairobi,74.6
+2019-03-21,Africa,Kenya,,Nairobi,75.1
+2019-03-22,Africa,Kenya,,Nairobi,75.4
+2019-03-23,Africa,Kenya,,Nairobi,75.2
+2019-03-24,Africa,Kenya,,Nairobi,74.4
+2019-03-25,Africa,Kenya,,Nairobi,76.6
+2019-03-26,Africa,Kenya,,Nairobi,76.8
+2019-03-27,Africa,Kenya,,Nairobi,73.6
+2019-03-28,Africa,Kenya,,Nairobi,63.9
+2019-03-29,Africa,Kenya,,Nairobi,76.6
+2019-03-30,Africa,Kenya,,Nairobi,74.0
+2019-03-31,Africa,Kenya,,Nairobi,74.4
+2019-04-01,Africa,Kenya,,Nairobi,73.3
+2019-04-02,Africa,Kenya,,Nairobi,74.3
+2019-04-03,Africa,Kenya,,Nairobi,73.7
+2019-04-04,Africa,Kenya,,Nairobi,71.9
+2019-04-05,Africa,Kenya,,Nairobi,71.5
+2019-04-06,Africa,Kenya,,Nairobi,72.5
+2019-04-07,Africa,Kenya,,Nairobi,73.0
+2019-04-08,Africa,Kenya,,Nairobi,75.6
+2019-04-09,Africa,Kenya,,Nairobi,73.1
+2019-04-10,Africa,Kenya,,Nairobi,74.2
+2019-04-11,Africa,Kenya,,Nairobi,72.5
+2019-04-12,Africa,Kenya,,Nairobi,70.5
+2019-04-13,Africa,Kenya,,Nairobi,73.9
+2019-04-14,Africa,Kenya,,Nairobi,73.5
+2019-04-15,Africa,Kenya,,Nairobi,73.0
+2019-04-16,Africa,Kenya,,Nairobi,73.8
+2019-04-17,Africa,Kenya,,Nairobi,64.4
+2019-04-18,Africa,Kenya,,Nairobi,76.6
+2019-04-19,Africa,Kenya,,Nairobi,73.4
+2019-04-20,Africa,Kenya,,Nairobi,74.0
+2019-04-21,Africa,Kenya,,Nairobi,73.4
+2019-04-22,Africa,Kenya,,Nairobi,64.5
+2019-04-23,Africa,Kenya,,Nairobi,72.2
+2019-04-24,Africa,Kenya,,Nairobi,-99
+2019-04-25,Africa,Kenya,,Nairobi,69.5
+2019-04-26,Africa,Kenya,,Nairobi,69.5
+2019-04-27,Africa,Kenya,,Nairobi,68.9
+2019-04-28,Africa,Kenya,,Nairobi,71.4
+2019-04-29,Africa,Kenya,,Nairobi,70.4
+2019-04-30,Africa,Kenya,,Nairobi,68.6
+2019-05-01,Africa,Kenya,,Nairobi,70.1
+2019-05-02,Africa,Kenya,,Nairobi,71.4
+2019-05-03,Africa,Kenya,,Nairobi,70.0
+2019-05-04,Africa,Kenya,,Nairobi,69.0
+2019-05-05,Africa,Kenya,,Nairobi,69.4
+2019-05-06,Africa,Kenya,,Nairobi,67.9
+2019-05-07,Africa,Kenya,,Nairobi,69.5
+2019-05-08,Africa,Kenya,,Nairobi,68.2
+2019-05-09,Africa,Kenya,,Nairobi,68.5
+2019-05-10,Africa,Kenya,,Nairobi,68.8
+2019-05-11,Africa,Kenya,,Nairobi,68.1
+2019-05-12,Africa,Kenya,,Nairobi,68.2
+2019-05-13,Africa,Kenya,,Nairobi,68.4
+2019-05-14,Africa,Kenya,,Nairobi,69.5
+2019-05-15,Africa,Kenya,,Nairobi,70.2
+2019-05-16,Africa,Kenya,,Nairobi,-99
+2019-05-17,Africa,Kenya,,Nairobi,-99
+2019-05-18,Africa,Kenya,,Nairobi,-99
+2019-05-19,Africa,Kenya,,Nairobi,-99
+2019-05-20,Africa,Kenya,,Nairobi,65.8
+2019-05-21,Africa,Kenya,,Nairobi,67.6
+2019-05-22,Africa,Kenya,,Nairobi,67.3
+2019-05-23,Africa,Kenya,,Nairobi,66.5
+2019-05-24,Africa,Kenya,,Nairobi,66.0
+2019-05-25,Africa,Kenya,,Nairobi,65.2
+2019-05-26,Africa,Kenya,,Nairobi,64.9
+2019-05-27,Africa,Kenya,,Nairobi,65.7
+2019-05-28,Africa,Kenya,,Nairobi,66.6
+2019-05-29,Africa,Kenya,,Nairobi,65.3
+2019-05-30,Africa,Kenya,,Nairobi,68.7
+2019-05-31,Africa,Kenya,,Nairobi,67.8
+2019-06-01,Africa,Kenya,,Nairobi,68.6
+2019-06-02,Africa,Kenya,,Nairobi,65.7
+2019-06-03,Africa,Kenya,,Nairobi,66.4
+2019-06-04,Africa,Kenya,,Nairobi,66.0
+2019-06-05,Africa,Kenya,,Nairobi,62.5
+2019-06-06,Africa,Kenya,,Nairobi,64.3
+2019-06-07,Africa,Kenya,,Nairobi,65.3
+2019-06-08,Africa,Kenya,,Nairobi,65.1
+2019-06-09,Africa,Kenya,,Nairobi,62.4
+2019-06-10,Africa,Kenya,,Nairobi,61.7
+2019-06-11,Africa,Kenya,,Nairobi,65.7
+2019-06-12,Africa,Kenya,,Nairobi,64.2
+2019-06-13,Africa,Kenya,,Nairobi,68.6
+2019-06-14,Africa,Kenya,,Nairobi,65.9
+2019-06-15,Africa,Kenya,,Nairobi,63.5
+2019-06-16,Africa,Kenya,,Nairobi,68.9
+2019-06-17,Africa,Kenya,,Nairobi,66.4
+2019-06-18,Africa,Kenya,,Nairobi,63.7
+2019-06-19,Africa,Kenya,,Nairobi,67.5
+2019-06-20,Africa,Kenya,,Nairobi,65.9
+2019-06-21,Africa,Kenya,,Nairobi,62.7
+2019-06-22,Africa,Kenya,,Nairobi,66.1
+2019-06-23,Africa,Kenya,,Nairobi,66.1
+2019-06-24,Africa,Kenya,,Nairobi,66.5
+2019-06-25,Africa,Kenya,,Nairobi,63.8
+2019-06-26,Africa,Kenya,,Nairobi,66.1
+2019-06-27,Africa,Kenya,,Nairobi,64.9
+2019-06-28,Africa,Kenya,,Nairobi,64.2
+2019-06-29,Africa,Kenya,,Nairobi,66.5
+2019-06-30,Africa,Kenya,,Nairobi,65.8
+2019-07-01,Africa,Kenya,,Nairobi,67.5
+2019-07-02,Africa,Kenya,,Nairobi,67.3
+2019-07-03,Africa,Kenya,,Nairobi,65.3
+2019-07-04,Africa,Kenya,,Nairobi,66.7
+2019-07-05,Africa,Kenya,,Nairobi,66.4
+2019-07-06,Africa,Kenya,,Nairobi,65.0
+2019-07-07,Africa,Kenya,,Nairobi,64.2
+2019-07-08,Africa,Kenya,,Nairobi,66.1
+2019-07-09,Africa,Kenya,,Nairobi,66.5
+2019-07-10,Africa,Kenya,,Nairobi,67.2
+2019-07-11,Africa,Kenya,,Nairobi,66.3
+2019-07-12,Africa,Kenya,,Nairobi,66.8
+2019-07-13,Africa,Kenya,,Nairobi,64.0
+2019-07-14,Africa,Kenya,,Nairobi,65.5
+2019-07-15,Africa,Kenya,,Nairobi,65.5
+2019-07-16,Africa,Kenya,,Nairobi,63.0
+2019-07-17,Africa,Kenya,,Nairobi,63.0
+2019-07-18,Africa,Kenya,,Nairobi,64.0
+2019-07-19,Africa,Kenya,,Nairobi,64.0
+2019-07-20,Africa,Kenya,,Nairobi,63.6
+2019-07-21,Africa,Kenya,,Nairobi,67.1
+2019-07-22,Africa,Kenya,,Nairobi,64.7
+2019-07-23,Africa,Kenya,,Nairobi,65.8
+2019-07-24,Africa,Kenya,,Nairobi,66.4
+2019-07-25,Africa,Kenya,,Nairobi,66.2
+2019-07-26,Africa,Kenya,,Nairobi,65.6
+2019-07-27,Africa,Kenya,,Nairobi,64.1
+2019-07-28,Africa,Kenya,,Nairobi,64.2
+2019-07-29,Africa,Kenya,,Nairobi,65.0
+2019-07-30,Africa,Kenya,,Nairobi,63.5
+2019-07-31,Africa,Kenya,,Nairobi,65.8
+2019-08-01,Africa,Kenya,,Nairobi,66.9
+2019-08-02,Africa,Kenya,,Nairobi,64.0
+2019-08-03,Africa,Kenya,,Nairobi,64.1
+2019-08-04,Africa,Kenya,,Nairobi,64.4
+2019-08-05,Africa,Kenya,,Nairobi,66.4
+2019-08-06,Africa,Kenya,,Nairobi,68.3
+2019-08-07,Africa,Kenya,,Nairobi,66.9
+2019-08-08,Africa,Kenya,,Nairobi,66.8
+2019-08-09,Africa,Kenya,,Nairobi,67.3
+2019-08-10,Africa,Kenya,,Nairobi,67.3
+2019-08-11,Africa,Kenya,,Nairobi,63.0
+2019-08-12,Africa,Kenya,,Nairobi,64.3
+2019-08-13,Africa,Kenya,,Nairobi,65.6
+2019-08-14,Africa,Kenya,,Nairobi,64.2
+2019-08-15,Africa,Kenya,,Nairobi,62.7
+2019-08-16,Africa,Kenya,,Nairobi,62.8
+2019-08-17,Africa,Kenya,,Nairobi,65.3
+2019-08-18,Africa,Kenya,,Nairobi,67.6
+2019-08-19,Africa,Kenya,,Nairobi,62.2
+2019-08-20,Africa,Kenya,,Nairobi,63.9
+2019-08-21,Africa,Kenya,,Nairobi,64.9
+2019-08-22,Africa,Kenya,,Nairobi,66.6
+2019-08-23,Africa,Kenya,,Nairobi,66.7
+2019-08-24,Africa,Kenya,,Nairobi,63.2
+2019-08-25,Africa,Kenya,,Nairobi,66.2
+2019-08-26,Africa,Kenya,,Nairobi,65.9
+2019-08-27,Africa,Kenya,,Nairobi,67.1
+2019-08-28,Africa,Kenya,,Nairobi,65.5
+2019-08-29,Africa,Kenya,,Nairobi,65.2
+2019-08-30,Africa,Kenya,,Nairobi,65.6
+2019-08-31,Africa,Kenya,,Nairobi,65.7
+2019-09-01,Africa,Kenya,,Nairobi,66.6
+2019-09-02,Africa,Kenya,,Nairobi,65.1
+2019-09-03,Africa,Kenya,,Nairobi,66.2
+2019-09-04,Africa,Kenya,,Nairobi,64.8
+2019-09-05,Africa,Kenya,,Nairobi,64.8
+2019-09-06,Africa,Kenya,,Nairobi,66.7
+2019-09-07,Africa,Kenya,,Nairobi,63.7
+2019-09-08,Africa,Kenya,,Nairobi,62.3
+2019-09-09,Africa,Kenya,,Nairobi,68.8
+2019-09-10,Africa,Kenya,,Nairobi,65.4
+2019-09-11,Africa,Kenya,,Nairobi,66.1
+2019-09-12,Africa,Kenya,,Nairobi,67.4
+2019-09-13,Africa,Kenya,,Nairobi,57.6
+2019-09-14,Africa,Kenya,,Nairobi,72.0
+2019-09-15,Africa,Kenya,,Nairobi,68.9
+2019-09-16,Africa,Kenya,,Nairobi,68.2
+2019-09-17,Africa,Kenya,,Nairobi,68.1
+2019-09-18,Africa,Kenya,,Nairobi,70.4
+2019-09-19,Africa,Kenya,,Nairobi,66.8
+2019-09-20,Africa,Kenya,,Nairobi,66.2
+2019-09-21,Africa,Kenya,,Nairobi,67.2
+2019-09-22,Africa,Kenya,,Nairobi,56.6
+2019-09-23,Africa,Kenya,,Nairobi,70.2
+2019-09-24,Africa,Kenya,,Nairobi,66.9
+2019-09-25,Africa,Kenya,,Nairobi,68.6
+2019-09-26,Africa,Kenya,,Nairobi,66.4
+2019-09-27,Africa,Kenya,,Nairobi,65.1
+2019-09-28,Africa,Kenya,,Nairobi,70.1
+2019-09-29,Africa,Kenya,,Nairobi,70.1
+2019-09-30,Africa,Kenya,,Nairobi,71.9
+2019-10-01,Africa,Kenya,,Nairobi,69.5
+2019-10-02,Africa,Kenya,,Nairobi,67.1
+2019-10-03,Africa,Kenya,,Nairobi,68.9
+2019-10-04,Africa,Kenya,,Nairobi,66.2
+2019-10-05,Africa,Kenya,,Nairobi,67.1
+2019-10-06,Africa,Kenya,,Nairobi,63.1
+2019-10-07,Africa,Kenya,,Nairobi,68.1
+2019-10-08,Africa,Kenya,,Nairobi,68.8
+2019-10-09,Africa,Kenya,,Nairobi,69.3
+2019-10-10,Africa,Kenya,,Nairobi,66.3
+2019-10-11,Africa,Kenya,,Nairobi,65.8
+2019-10-12,Africa,Kenya,,Nairobi,65.2
+2019-10-13,Africa,Kenya,,Nairobi,64.0
+2019-10-14,Africa,Kenya,,Nairobi,65.8
+2019-10-15,Africa,Kenya,,Nairobi,67.6
+2019-10-16,Africa,Kenya,,Nairobi,69.9
+2019-10-17,Africa,Kenya,,Nairobi,64.1
+2019-10-18,Africa,Kenya,,Nairobi,64.4
+2019-10-19,Africa,Kenya,,Nairobi,63.9
+2019-10-20,Africa,Kenya,,Nairobi,66.4
+2019-10-21,Africa,Kenya,,Nairobi,69.1
+2019-10-22,Africa,Kenya,,Nairobi,68.7
+2019-10-23,Africa,Kenya,,Nairobi,67.6
+2019-10-24,Africa,Kenya,,Nairobi,66.8
+2019-10-25,Africa,Kenya,,Nairobi,67.4
+2019-10-26,Africa,Kenya,,Nairobi,64.9
+2019-10-27,Africa,Kenya,,Nairobi,68.9
+2019-10-28,Africa,Kenya,,Nairobi,67.9
+2019-10-29,Africa,Kenya,,Nairobi,66.5
+2019-10-30,Africa,Kenya,,Nairobi,67.9
+2019-10-31,Africa,Kenya,,Nairobi,67.5
+2019-11-01,Africa,Kenya,,Nairobi,67.7
+2019-11-02,Africa,Kenya,,Nairobi,66.7
+2019-11-03,Africa,Kenya,,Nairobi,68.1
+2019-11-04,Africa,Kenya,,Nairobi,68.4
+2019-11-05,Africa,Kenya,,Nairobi,68.4
+2019-11-06,Africa,Kenya,,Nairobi,70.5
+2019-11-07,Africa,Kenya,,Nairobi,69.2
+2019-11-08,Africa,Kenya,,Nairobi,69.1
+2019-11-09,Africa,Kenya,,Nairobi,69.0
+2019-11-10,Africa,Kenya,,Nairobi,69.5
+2019-11-11,Africa,Kenya,,Nairobi,68.7
+2019-11-12,Africa,Kenya,,Nairobi,66.7
+2019-11-13,Africa,Kenya,,Nairobi,66.2
+2019-11-14,Africa,Kenya,,Nairobi,66.5
+2019-11-15,Africa,Kenya,,Nairobi,69.1
+2019-11-16,Africa,Kenya,,Nairobi,68.8
+2019-11-17,Africa,Kenya,,Nairobi,68.6
+2019-11-18,Africa,Kenya,,Nairobi,68.9
+2019-11-19,Africa,Kenya,,Nairobi,69.1
+2019-11-20,Africa,Kenya,,Nairobi,69.2
+2019-11-21,Africa,Kenya,,Nairobi,69.3
+2019-11-22,Africa,Kenya,,Nairobi,69.7
+2019-11-23,Africa,Kenya,,Nairobi,64.5
+2019-11-24,Africa,Kenya,,Nairobi,65.6
+2019-11-25,Africa,Kenya,,Nairobi,64.5
+2019-11-26,Africa,Kenya,,Nairobi,64.4
+2019-11-27,Africa,Kenya,,Nairobi,67.6
+2019-11-28,Africa,Kenya,,Nairobi,67.9
+2019-11-29,Africa,Kenya,,Nairobi,66.6
+2019-11-30,Africa,Kenya,,Nairobi,66.3
+2019-12-01,Africa,Kenya,,Nairobi,65.0
+2019-12-02,Africa,Kenya,,Nairobi,66.3
+2019-12-03,Africa,Kenya,,Nairobi,65.9
+2019-12-04,Africa,Kenya,,Nairobi,67.1
+2019-12-05,Africa,Kenya,,Nairobi,66.3
+2019-12-06,Africa,Kenya,,Nairobi,67.7
+2019-12-07,Africa,Kenya,,Nairobi,66.8
+2019-12-08,Africa,Kenya,,Nairobi,66.1
+2019-12-09,Africa,Kenya,,Nairobi,67.2
+2019-12-10,Africa,Kenya,,Nairobi,65.6
+2019-12-11,Africa,Kenya,,Nairobi,66.6
+2019-12-12,Africa,Kenya,,Nairobi,66.7
+2019-12-13,Africa,Kenya,,Nairobi,67.9
+2019-12-14,Africa,Kenya,,Nairobi,67.0
+2019-12-15,Africa,Kenya,,Nairobi,66.6
+2019-12-16,Africa,Kenya,,Nairobi,67.7
+2019-12-17,Africa,Kenya,,Nairobi,68.4
+2019-12-18,Africa,Kenya,,Nairobi,68.0
+2019-12-19,Africa,Kenya,,Nairobi,67.2
+2019-12-20,Africa,Kenya,,Nairobi,67.4
+2019-12-21,Africa,Kenya,,Nairobi,67.0
+2019-12-22,Africa,Kenya,,Nairobi,66.6
+2019-12-23,Africa,Kenya,,Nairobi,67.5
+2019-12-24,Africa,Kenya,,Nairobi,68.5
+2019-12-25,Africa,Kenya,,Nairobi,69.8
+2019-12-26,Africa,Kenya,,Nairobi,68.1
+2019-12-27,Africa,Kenya,,Nairobi,68.7
+2019-12-28,Africa,Kenya,,Nairobi,68.0
+2019-12-29,Africa,Kenya,,Nairobi,70.2
+2019-12-30,Africa,Kenya,,Nairobi,68.5
+2019-12-31,Africa,Kenya,,Nairobi,67.3
+2019-01-01,Asia,China,,Beijing,22.7
+2019-01-02,Asia,China,,Beijing,22.2
+2019-01-03,Asia,China,,Beijing,23.9
+2019-01-04,Asia,China,,Beijing,27.2
+2019-01-05,Asia,China,,Beijing,22.6
+2019-01-06,Asia,China,,Beijing,20.3
+2019-01-07,Asia,China,,Beijing,28.1
+2019-01-08,Asia,China,,Beijing,20.4
+2019-01-09,Asia,China,,Beijing,20.7
+2019-01-10,Asia,China,,Beijing,26.4
+2019-01-11,Asia,China,,Beijing,26.9
+2019-01-12,Asia,China,,Beijing,25.6
+2019-01-13,Asia,China,,Beijing,28.2
+2019-01-14,Asia,China,,Beijing,29.1
+2019-01-15,Asia,China,,Beijing,22.9
+2019-01-16,Asia,China,,Beijing,24.5
+2019-01-17,Asia,China,,Beijing,28.7
+2019-01-18,Asia,China,,Beijing,32.6
+2019-01-19,Asia,China,,Beijing,34.2
+2019-01-20,Asia,China,,Beijing,36.8
+2019-01-21,Asia,China,,Beijing,40.4
+2019-01-22,Asia,China,,Beijing,37.8
+2019-01-23,Asia,China,,Beijing,-99
+2019-01-24,Asia,China,,Beijing,32.2
+2019-01-25,Asia,China,,Beijing,31.8
+2019-01-26,Asia,China,,Beijing,29.8
+2019-01-27,Asia,China,,Beijing,35.5
+2019-01-28,Asia,China,,Beijing,32.7
+2019-01-29,Asia,China,,Beijing,31.2
+2019-01-30,Asia,China,,Beijing,29.6
+2019-01-31,Asia,China,,Beijing,22.4
+2019-02-01,Asia,China,,Beijing,25.3
+2019-02-02,Asia,China,,Beijing,30.6
+2019-02-03,Asia,China,,Beijing,33.9
+2019-02-04,Asia,China,,Beijing,27.1
+2019-02-05,Asia,China,,Beijing,29.7
+2019-02-06,Asia,China,,Beijing,24.2
+2019-02-07,Asia,China,,Beijing,19.7
+2019-02-08,Asia,China,,Beijing,22.8
+2019-02-09,Asia,China,,Beijing,21.7
+2019-02-10,Asia,China,,Beijing,20.8
+2019-02-11,Asia,China,,Beijing,29.1
+2019-02-12,Asia,China,,Beijing,22.2
+2019-02-13,Asia,China,,Beijing,25.9
+2019-02-14,Asia,China,,Beijing,24.0
+2019-02-15,Asia,China,,Beijing,25.1
+2019-02-16,Asia,China,,Beijing,28.1
+2019-02-17,Asia,China,,Beijing,34.6
+2019-02-18,Asia,China,,Beijing,34.6
+2019-02-19,Asia,China,,Beijing,34.3
+2019-02-20,Asia,China,,Beijing,35.2
+2019-02-21,Asia,China,,Beijing,38.4
+2019-02-22,Asia,China,,Beijing,38.7
+2019-02-23,Asia,China,,Beijing,41.3
+2019-02-24,Asia,China,,Beijing,42.0
+2019-02-25,Asia,China,,Beijing,40.7
+2019-02-26,Asia,China,,Beijing,39.7
+2019-02-27,Asia,China,,Beijing,41.8
+2019-02-28,Asia,China,,Beijing,43.2
+2019-03-01,Asia,China,,Beijing,43.2
+2019-03-02,Asia,China,,Beijing,45.1
+2019-03-03,Asia,China,,Beijing,44.3
+2019-03-04,Asia,China,,Beijing,51.9
+2019-03-05,Asia,China,,Beijing,52.3
+2019-03-06,Asia,China,,Beijing,40.9
+2019-03-07,Asia,China,,Beijing,42.2
+2019-03-08,Asia,China,,Beijing,46.0
+2019-03-09,Asia,China,,Beijing,45.4
+2019-03-10,Asia,China,,Beijing,43.7
+2019-03-11,Asia,China,,Beijing,48.8
+2019-03-12,Asia,China,,Beijing,46.0
+2019-03-13,Asia,China,,Beijing,49.0
+2019-03-14,Asia,China,,Beijing,51.1
+2019-03-15,Asia,China,,Beijing,45.7
+2019-03-16,Asia,China,,Beijing,50.8
+2019-03-17,Asia,China,,Beijing,54.8
+2019-03-18,Asia,China,,Beijing,54.6
+2019-03-19,Asia,China,,Beijing,65.2
+2019-03-20,Asia,China,,Beijing,55.5
+2019-03-21,Asia,China,,Beijing,43.3
+2019-03-22,Asia,China,,Beijing,48.2
+2019-03-23,Asia,China,,Beijing,45.7
+2019-03-24,Asia,China,,Beijing,52.1
+2019-03-25,Asia,China,,Beijing,58.5
+2019-03-26,Asia,China,,Beijing,53.3
+2019-03-27,Asia,China,,Beijing,55.3
+2019-03-28,Asia,China,,Beijing,42.7
+2019-03-29,Asia,China,,Beijing,46.4
+2019-03-30,Asia,China,,Beijing,43.7
+2019-03-31,Asia,China,,Beijing,49.2
+2019-04-01,Asia,China,,Beijing,52.0
+2019-04-02,Asia,China,,Beijing,52.0
+2019-04-03,Asia,China,,Beijing,53.3
+2019-04-04,Asia,China,,Beijing,66.2
+2019-04-05,Asia,China,,Beijing,55.5
+2019-04-06,Asia,China,,Beijing,56.1
+2019-04-07,Asia,China,,Beijing,53.9
+2019-04-08,Asia,China,,Beijing,54.5
+2019-04-09,Asia,China,,Beijing,43.4
+2019-04-10,Asia,China,,Beijing,58.0
+2019-04-11,Asia,China,,Beijing,56.0
+2019-04-12,Asia,China,,Beijing,60.5
+2019-04-13,Asia,China,,Beijing,61.4
+2019-04-14,Asia,China,,Beijing,62.4
+2019-04-15,Asia,China,,Beijing,67.6
+2019-04-16,Asia,China,,Beijing,65.8
+2019-04-17,Asia,China,,Beijing,71.2
+2019-04-18,Asia,China,,Beijing,61.2
+2019-04-19,Asia,China,,Beijing,57.2
+2019-04-20,Asia,China,,Beijing,51.7
+2019-04-21,Asia,China,,Beijing,59.2
+2019-04-22,Asia,China,,Beijing,66.7
+2019-04-23,Asia,China,,Beijing,71.0
+2019-04-24,Asia,China,,Beijing,-99
+2019-04-25,Asia,China,,Beijing,56.1
+2019-04-26,Asia,China,,Beijing,58.9
+2019-04-27,Asia,China,,Beijing,50.3
+2019-04-28,Asia,China,,Beijing,55.7
+2019-04-29,Asia,China,,Beijing,60.7
+2019-04-30,Asia,China,,Beijing,65.1
+2019-05-01,Asia,China,,Beijing,70.6
+2019-05-02,Asia,China,,Beijing,72.9
+2019-05-03,Asia,China,,Beijing,73.5
+2019-05-04,Asia,China,,Beijing,71.6
+2019-05-05,Asia,China,,Beijing,60.7
+2019-05-06,Asia,China,,Beijing,66.1
+2019-05-07,Asia,China,,Beijing,71.5
+2019-05-08,Asia,China,,Beijing,66.1
+2019-05-09,Asia,China,,Beijing,71.3
+2019-05-10,Asia,China,,Beijing,72.9
+2019-05-11,Asia,China,,Beijing,73.0
+2019-05-12,Asia,China,,Beijing,59.4
+2019-05-13,Asia,China,,Beijing,64.8
+2019-05-14,Asia,China,,Beijing,69.3
+2019-05-15,Asia,China,,Beijing,73.7
+2019-05-16,Asia,China,,Beijing,-99
+2019-05-17,Asia,China,,Beijing,-99
+2019-05-18,Asia,China,,Beijing,-99
+2019-05-19,Asia,China,,Beijing,-99
+2019-05-20,Asia,China,,Beijing,67.3
+2019-05-21,Asia,China,,Beijing,72.1
+2019-05-22,Asia,China,,Beijing,77.4
+2019-05-23,Asia,China,,Beijing,81.3
+2019-05-24,Asia,China,,Beijing,78.8
+2019-05-25,Asia,China,,Beijing,83.4
+2019-05-26,Asia,China,,Beijing,68.2
+2019-05-27,Asia,China,,Beijing,72.9
+2019-05-28,Asia,China,,Beijing,76.6
+2019-05-29,Asia,China,,Beijing,80.3
+2019-05-30,Asia,China,,Beijing,75.7
+2019-05-31,Asia,China,,Beijing,77.5
+2019-06-01,Asia,China,,Beijing,74.3
+2019-06-02,Asia,China,,Beijing,76.6
+2019-06-03,Asia,China,,Beijing,77.7
+2019-06-04,Asia,China,,Beijing,71.6
+2019-06-05,Asia,China,,Beijing,76.3
+2019-06-06,Asia,China,,Beijing,70.4
+2019-06-07,Asia,China,,Beijing,76.4
+2019-06-08,Asia,China,,Beijing,82.4
+2019-06-09,Asia,China,,Beijing,77.4
+2019-06-10,Asia,China,,Beijing,78.5
+2019-06-11,Asia,China,,Beijing,78.1
+2019-06-12,Asia,China,,Beijing,81.9
+2019-06-13,Asia,China,,Beijing,79.0
+2019-06-14,Asia,China,,Beijing,82.9
+2019-06-15,Asia,China,,Beijing,79.0
+2019-06-16,Asia,China,,Beijing,67.1
+2019-06-17,Asia,China,,Beijing,72.6
+2019-06-18,Asia,China,,Beijing,79.9
+2019-06-19,Asia,China,,Beijing,79.9
+2019-06-20,Asia,China,,Beijing,83.3
+2019-06-21,Asia,China,,Beijing,77.9
+2019-06-22,Asia,China,,Beijing,85.8
+2019-06-23,Asia,China,,Beijing,83.5
+2019-06-24,Asia,China,,Beijing,87.7
+2019-06-25,Asia,China,,Beijing,84.9
+2019-06-26,Asia,China,,Beijing,81.1
+2019-06-27,Asia,China,,Beijing,84.0
+2019-06-28,Asia,China,,Beijing,81.1
+2019-06-29,Asia,China,,Beijing,85.2
+2019-06-30,Asia,China,,Beijing,79.8
+2019-07-01,Asia,China,,Beijing,86.1
+2019-07-02,Asia,China,,Beijing,77.0
+2019-07-03,Asia,China,,Beijing,87.0
+2019-07-04,Asia,China,,Beijing,90.2
+2019-07-05,Asia,China,,Beijing,74.1
+2019-07-06,Asia,China,,Beijing,73.2
+2019-07-07,Asia,China,,Beijing,74.1
+2019-07-08,Asia,China,,Beijing,80.4
+2019-07-09,Asia,China,,Beijing,74.8
+2019-07-10,Asia,China,,Beijing,77.4
+2019-07-11,Asia,China,,Beijing,79.2
+2019-07-12,Asia,China,,Beijing,84.3
+2019-07-13,Asia,China,,Beijing,82.3
+2019-07-14,Asia,China,,Beijing,82.1
+2019-07-15,Asia,China,,Beijing,84.7
+2019-07-16,Asia,China,,Beijing,81.2
+2019-07-17,Asia,China,,Beijing,76.9
+2019-07-18,Asia,China,,Beijing,82.5
+2019-07-19,Asia,China,,Beijing,82.5
+2019-07-20,Asia,China,,Beijing,80.5
+2019-07-21,Asia,China,,Beijing,89.8
+2019-07-22,Asia,China,,Beijing,82.0
+2019-07-23,Asia,China,,Beijing,87.0
+2019-07-24,Asia,China,,Beijing,88.6
+2019-07-25,Asia,China,,Beijing,85.0
+2019-07-26,Asia,China,,Beijing,87.0
+2019-07-27,Asia,China,,Beijing,88.9
+2019-07-28,Asia,China,,Beijing,84.4
+2019-07-29,Asia,China,,Beijing,77.0
+2019-07-30,Asia,China,,Beijing,81.4
+2019-07-31,Asia,China,,Beijing,87.0
+2019-08-01,Asia,China,,Beijing,84.6
+2019-08-02,Asia,China,,Beijing,76.3
+2019-08-03,Asia,China,,Beijing,81.2
+2019-08-04,Asia,China,,Beijing,78.9
+2019-08-05,Asia,China,,Beijing,77.9
+2019-08-06,Asia,China,,Beijing,81.2
+2019-08-07,Asia,China,,Beijing,79.1
+2019-08-08,Asia,China,,Beijing,83.9
+2019-08-09,Asia,China,,Beijing,78.6
+2019-08-10,Asia,China,,Beijing,77.0
+2019-08-11,Asia,China,,Beijing,76.3
+2019-08-12,Asia,China,,Beijing,77.3
+2019-08-13,Asia,China,,Beijing,80.4
+2019-08-14,Asia,China,,Beijing,78.5
+2019-08-15,Asia,China,,Beijing,79.8
+2019-08-16,Asia,China,,Beijing,79.4
+2019-08-17,Asia,China,,Beijing,77.0
+2019-08-18,Asia,China,,Beijing,78.1
+2019-08-19,Asia,China,,Beijing,81.7
+2019-08-20,Asia,China,,Beijing,69.5
+2019-08-21,Asia,China,,Beijing,78.4
+2019-08-22,Asia,China,,Beijing,73.7
+2019-08-23,Asia,China,,Beijing,76.2
+2019-08-24,Asia,China,,Beijing,78.6
+2019-08-25,Asia,China,,Beijing,78.4
+2019-08-26,Asia,China,,Beijing,73.0
+2019-08-27,Asia,China,,Beijing,82.3
+2019-08-28,Asia,China,,Beijing,79.0
+2019-08-29,Asia,China,,Beijing,77.5
+2019-08-30,Asia,China,,Beijing,78.2
+2019-08-31,Asia,China,,Beijing,78.2
+2019-09-01,Asia,China,,Beijing,76.4
+2019-09-02,Asia,China,,Beijing,78.0
+2019-09-03,Asia,China,,Beijing,78.5
+2019-09-04,Asia,China,,Beijing,75.7
+2019-09-05,Asia,China,,Beijing,77.5
+2019-09-06,Asia,China,,Beijing,79.1
+2019-09-07,Asia,China,,Beijing,81.6
+2019-09-08,Asia,China,,Beijing,84.7
+2019-09-09,Asia,China,,Beijing,76.0
+2019-09-10,Asia,China,,Beijing,68.7
+2019-09-11,Asia,China,,Beijing,70.9
+2019-09-12,Asia,China,,Beijing,69.0
+2019-09-13,Asia,China,,Beijing,70.4
+2019-09-14,Asia,China,,Beijing,72.1
+2019-09-15,Asia,China,,Beijing,70.6
+2019-09-16,Asia,China,,Beijing,71.8
+2019-09-17,Asia,China,,Beijing,71.2
+2019-09-18,Asia,China,,Beijing,65.1
+2019-09-19,Asia,China,,Beijing,66.1
+2019-09-20,Asia,China,,Beijing,69.9
+2019-09-21,Asia,China,,Beijing,70.9
+2019-09-22,Asia,China,,Beijing,70.3
+2019-09-23,Asia,China,,Beijing,75.1
+2019-09-24,Asia,China,,Beijing,73.9
+2019-09-25,Asia,China,,Beijing,71.5
+2019-09-26,Asia,China,,Beijing,71.2
+2019-09-27,Asia,China,,Beijing,68.4
+2019-09-28,Asia,China,,Beijing,70.1
+2019-09-29,Asia,China,,Beijing,72.0
+2019-09-30,Asia,China,,Beijing,71.9
+2019-10-01,Asia,China,,Beijing,71.6
+2019-10-02,Asia,China,,Beijing,70.8
+2019-10-03,Asia,China,,Beijing,73.1
+2019-10-04,Asia,China,,Beijing,54.0
+2019-10-05,Asia,China,,Beijing,54.7
+2019-10-06,Asia,China,,Beijing,56.2
+2019-10-07,Asia,China,,Beijing,61.1
+2019-10-08,Asia,China,,Beijing,56.2
+2019-10-09,Asia,China,,Beijing,61.6
+2019-10-10,Asia,China,,Beijing,58.0
+2019-10-11,Asia,China,,Beijing,60.5
+2019-10-12,Asia,China,,Beijing,58.9
+2019-10-13,Asia,China,,Beijing,45.1
+2019-10-14,Asia,China,,Beijing,45.5
+2019-10-15,Asia,China,,Beijing,49.6
+2019-10-16,Asia,China,,Beijing,55.4
+2019-10-17,Asia,China,,Beijing,53.7
+2019-10-18,Asia,China,,Beijing,52.5
+2019-10-19,Asia,China,,Beijing,53.7
+2019-10-20,Asia,China,,Beijing,58.4
+2019-10-21,Asia,China,,Beijing,52.5
+2019-10-22,Asia,China,,Beijing,53.4
+2019-10-23,Asia,China,,Beijing,56.4
+2019-10-24,Asia,China,,Beijing,51.0
+2019-10-25,Asia,China,,Beijing,43.4
+2019-10-26,Asia,China,,Beijing,45.0
+2019-10-27,Asia,China,,Beijing,52.0
+2019-10-28,Asia,China,,Beijing,46.2
+2019-10-29,Asia,China,,Beijing,46.3
+2019-10-30,Asia,China,,Beijing,52.6
+2019-10-31,Asia,China,,Beijing,56.3
+2019-11-01,Asia,China,,Beijing,55.4
+2019-11-02,Asia,China,,Beijing,54.2
+2019-11-03,Asia,China,,Beijing,46.5
+2019-11-04,Asia,China,,Beijing,49.6
+2019-11-05,Asia,China,,Beijing,53.2
+2019-11-06,Asia,China,,Beijing,48.1
+2019-11-07,Asia,China,,Beijing,45.6
+2019-11-08,Asia,China,,Beijing,44.2
+2019-11-09,Asia,China,,Beijing,50.3
+2019-11-10,Asia,China,,Beijing,51.4
+2019-11-11,Asia,China,,Beijing,52.8
+2019-11-12,Asia,China,,Beijing,54.1
+2019-11-13,Asia,China,,Beijing,35.6
+2019-11-14,Asia,China,,Beijing,35.1
+2019-11-15,Asia,China,,Beijing,43.6
+2019-11-16,Asia,China,,Beijing,45.6
+2019-11-17,Asia,China,,Beijing,39.7
+2019-11-18,Asia,China,,Beijing,32.3
+2019-11-19,Asia,China,,Beijing,33.0
+2019-11-20,Asia,China,,Beijing,34.1
+2019-11-21,Asia,China,,Beijing,36.5
+2019-11-22,Asia,China,,Beijing,45.0
+2019-11-23,Asia,China,,Beijing,49.7
+2019-11-24,Asia,China,,Beijing,32.3
+2019-11-25,Asia,China,,Beijing,28.5
+2019-11-26,Asia,China,,Beijing,34.1
+2019-11-27,Asia,China,,Beijing,28.1
+2019-11-28,Asia,China,,Beijing,26.2
+2019-11-29,Asia,China,,Beijing,32.0
+2019-11-30,Asia,China,,Beijing,33.0
+2019-12-01,Asia,China,,Beijing,32.8
+2019-12-02,Asia,China,,Beijing,35.2
+2019-12-03,Asia,China,,Beijing,38.5
+2019-12-04,Asia,China,,Beijing,37.1
+2019-12-05,Asia,China,,Beijing,24.1
+2019-12-06,Asia,China,,Beijing,26.3
+2019-12-07,Asia,China,,Beijing,28.3
+2019-12-08,Asia,China,,Beijing,26.5
+2019-12-09,Asia,China,,Beijing,30.4
+2019-12-10,Asia,China,,Beijing,34.1
+2019-12-11,Asia,China,,Beijing,29.5
+2019-12-12,Asia,China,,Beijing,26.5
+2019-12-13,Asia,China,,Beijing,35.8
+2019-12-14,Asia,China,,Beijing,30.6
+2019-12-15,Asia,China,,Beijing,34.0
+2019-12-16,Asia,China,,Beijing,32.0
+2019-12-17,Asia,China,,Beijing,29.1
+2019-12-18,Asia,China,,Beijing,26.3
+2019-12-19,Asia,China,,Beijing,24.9
+2019-12-20,Asia,China,,Beijing,21.9
+2019-12-21,Asia,China,,Beijing,26.8
+2019-12-22,Asia,China,,Beijing,28.8
+2019-12-23,Asia,China,,Beijing,30.4
+2019-12-24,Asia,China,,Beijing,28.1
+2019-12-25,Asia,China,,Beijing,32.2
+2019-12-26,Asia,China,,Beijing,28.7
+2019-12-27,Asia,China,,Beijing,25.3
+2019-12-28,Asia,China,,Beijing,26.9
+2019-12-29,Asia,China,,Beijing,31.3
+2019-12-30,Asia,China,,Beijing,16.0
+2019-12-31,Asia,China,,Beijing,16.3
+2019-01-01,Asia,Japan,,Tokyo,45.1
+2019-01-02,Asia,Japan,,Tokyo,44.7
+2019-01-03,Asia,Japan,,Tokyo,43.7
+2019-01-04,Asia,Japan,,Tokyo,43.9
+2019-01-05,Asia,Japan,,Tokyo,48.0
+2019-01-06,Asia,Japan,,Tokyo,42.2
+2019-01-07,Asia,Japan,,Tokyo,45.0
+2019-01-08,Asia,Japan,,Tokyo,44.5
+2019-01-09,Asia,Japan,,Tokyo,40.9
+2019-01-10,Asia,Japan,,Tokyo,39.5
+2019-01-11,Asia,Japan,,Tokyo,47.6
+2019-01-12,Asia,Japan,,Tokyo,43.4
+2019-01-13,Asia,Japan,,Tokyo,45.2
+2019-01-14,Asia,Japan,,Tokyo,43.9
+2019-01-15,Asia,Japan,,Tokyo,47.1
+2019-01-16,Asia,Japan,,Tokyo,46.2
+2019-01-17,Asia,Japan,,Tokyo,46.9
+2019-01-18,Asia,Japan,,Tokyo,44.4
+2019-01-19,Asia,Japan,,Tokyo,45.7
+2019-01-20,Asia,Japan,,Tokyo,46.0
+2019-01-21,Asia,Japan,,Tokyo,44.2
+2019-01-22,Asia,Japan,,Tokyo,44.1
+2019-01-23,Asia,Japan,,Tokyo,-99
+2019-01-24,Asia,Japan,,Tokyo,44.4
+2019-01-25,Asia,Japan,,Tokyo,43.5
+2019-01-26,Asia,Japan,,Tokyo,40.9
+2019-01-27,Asia,Japan,,Tokyo,43.0
+2019-01-28,Asia,Japan,,Tokyo,47.5
+2019-01-29,Asia,Japan,,Tokyo,43.8
+2019-01-30,Asia,Japan,,Tokyo,44.0
+2019-01-31,Asia,Japan,,Tokyo,41.9
+2019-02-01,Asia,Japan,,Tokyo,40.2
+2019-02-02,Asia,Japan,,Tokyo,47.1
+2019-02-03,Asia,Japan,,Tokyo,55.4
+2019-02-04,Asia,Japan,,Tokyo,52.2
+2019-02-05,Asia,Japan,,Tokyo,45.3
+2019-02-06,Asia,Japan,,Tokyo,44.3
+2019-02-07,Asia,Japan,,Tokyo,54.5
+2019-02-08,Asia,Japan,,Tokyo,41.2
+2019-02-09,Asia,Japan,,Tokyo,34.8
+2019-02-10,Asia,Japan,,Tokyo,40.7
+2019-02-11,Asia,Japan,,Tokyo,39.3
+2019-02-12,Asia,Japan,,Tokyo,44.7
+2019-02-13,Asia,Japan,,Tokyo,42.1
+2019-02-14,Asia,Japan,,Tokyo,41.1
+2019-02-15,Asia,Japan,,Tokyo,39.0
+2019-02-16,Asia,Japan,,Tokyo,44.8
+2019-02-17,Asia,Japan,,Tokyo,44.7
+2019-02-18,Asia,Japan,,Tokyo,49.6
+2019-02-19,Asia,Japan,,Tokyo,49.8
+2019-02-20,Asia,Japan,,Tokyo,52.3
+2019-02-21,Asia,Japan,,Tokyo,50.7
+2019-02-22,Asia,Japan,,Tokyo,50.1
+2019-02-23,Asia,Japan,,Tokyo,47.4
+2019-02-24,Asia,Japan,,Tokyo,52.3
+2019-02-25,Asia,Japan,,Tokyo,53.8
+2019-02-26,Asia,Japan,,Tokyo,48.6
+2019-02-27,Asia,Japan,,Tokyo,47.1
+2019-02-28,Asia,Japan,,Tokyo,46.6
+2019-03-01,Asia,Japan,,Tokyo,49.3
+2019-03-02,Asia,Japan,,Tokyo,50.8
+2019-03-03,Asia,Japan,,Tokyo,44.7
+2019-03-04,Asia,Japan,,Tokyo,46.7
+2019-03-05,Asia,Japan,,Tokyo,51.2
+2019-03-06,Asia,Japan,,Tokyo,52.9
+2019-03-07,Asia,Japan,,Tokyo,46.3
+2019-03-08,Asia,Japan,,Tokyo,46.7
+2019-03-09,Asia,Japan,,Tokyo,54.8
+2019-03-10,Asia,Japan,,Tokyo,54.4
+2019-03-11,Asia,Japan,,Tokyo,54.8
+2019-03-12,Asia,Japan,,Tokyo,53.6
+2019-03-13,Asia,Japan,,Tokyo,54.6
+2019-03-14,Asia,Japan,,Tokyo,48.9
+2019-03-15,Asia,Japan,,Tokyo,51.4
+2019-03-16,Asia,Japan,,Tokyo,47.6
+2019-03-17,Asia,Japan,,Tokyo,49.8
+2019-03-18,Asia,Japan,,Tokyo,52.9
+2019-03-19,Asia,Japan,,Tokyo,57.7
+2019-03-20,Asia,Japan,,Tokyo,60.4
+2019-03-21,Asia,Japan,,Tokyo,64.9
+2019-03-22,Asia,Japan,,Tokyo,56.0
+2019-03-23,Asia,Japan,,Tokyo,43.0
+2019-03-24,Asia,Japan,,Tokyo,49.4
+2019-03-25,Asia,Japan,,Tokyo,54.7
+2019-03-26,Asia,Japan,,Tokyo,52.3
+2019-03-27,Asia,Japan,,Tokyo,61.6
+2019-03-28,Asia,Japan,,Tokyo,52.1
+2019-03-29,Asia,Japan,,Tokyo,46.3
+2019-03-30,Asia,Japan,,Tokyo,49.5
+2019-03-31,Asia,Japan,,Tokyo,51.8
+2019-04-01,Asia,Japan,,Tokyo,46.5
+2019-04-02,Asia,Japan,,Tokyo,46.3
+2019-04-03,Asia,Japan,,Tokyo,48.9
+2019-04-04,Asia,Japan,,Tokyo,55.6
+2019-04-05,Asia,Japan,,Tokyo,63.8
+2019-04-06,Asia,Japan,,Tokyo,59.6
+2019-04-07,Asia,Japan,,Tokyo,59.7
+2019-04-08,Asia,Japan,,Tokyo,48.0
+2019-04-09,Asia,Japan,,Tokyo,53.6
+2019-04-10,Asia,Japan,,Tokyo,43.9
+2019-04-11,Asia,Japan,,Tokyo,52.8
+2019-04-12,Asia,Japan,,Tokyo,49.3
+2019-04-13,Asia,Japan,,Tokyo,56.6
+2019-04-14,Asia,Japan,,Tokyo,60.0
+2019-04-15,Asia,Japan,,Tokyo,60.1
+2019-04-16,Asia,Japan,,Tokyo,60.5
+2019-04-17,Asia,Japan,,Tokyo,60.5
+2019-04-18,Asia,Japan,,Tokyo,63.8
+2019-04-19,Asia,Japan,,Tokyo,62.4
+2019-04-20,Asia,Japan,,Tokyo,59.4
+2019-04-21,Asia,Japan,,Tokyo,64.5
+2019-04-22,Asia,Japan,,Tokyo,65.5
+2019-04-23,Asia,Japan,,Tokyo,66.5
+2019-04-24,Asia,Japan,,Tokyo,-99
+2019-04-25,Asia,Japan,,Tokyo,65.8
+2019-04-26,Asia,Japan,,Tokyo,51.6
+2019-04-27,Asia,Japan,,Tokyo,51.1
+2019-04-28,Asia,Japan,,Tokyo,56.8
+2019-04-29,Asia,Japan,,Tokyo,60.2
+2019-04-30,Asia,Japan,,Tokyo,60.4
+2019-05-01,Asia,Japan,,Tokyo,64.7
+2019-05-02,Asia,Japan,,Tokyo,63.5
+2019-05-03,Asia,Japan,,Tokyo,66.6
+2019-05-04,Asia,Japan,,Tokyo,64.8
+2019-05-05,Asia,Japan,,Tokyo,67.3
+2019-05-06,Asia,Japan,,Tokyo,65.5
+2019-05-07,Asia,Japan,,Tokyo,58.8
+2019-05-08,Asia,Japan,,Tokyo,66.3
+2019-05-09,Asia,Japan,,Tokyo,66.8
+2019-05-10,Asia,Japan,,Tokyo,69.0
+2019-05-11,Asia,Japan,,Tokyo,68.8
+2019-05-12,Asia,Japan,,Tokyo,61.8
+2019-05-13,Asia,Japan,,Tokyo,65.5
+2019-05-14,Asia,Japan,,Tokyo,64.3
+2019-05-15,Asia,Japan,,Tokyo,66.7
+2019-05-16,Asia,Japan,,Tokyo,-99
+2019-05-17,Asia,Japan,,Tokyo,-99
+2019-05-18,Asia,Japan,,Tokyo,-99
+2019-05-19,Asia,Japan,,Tokyo,-99
+2019-05-20,Asia,Japan,,Tokyo,69.7
+2019-05-21,Asia,Japan,,Tokyo,67.0
+2019-05-22,Asia,Japan,,Tokyo,67.8
+2019-05-23,Asia,Japan,,Tokyo,71.3
+2019-05-24,Asia,Japan,,Tokyo,74.1
+2019-05-25,Asia,Japan,,Tokyo,76.0
+2019-05-26,Asia,Japan,,Tokyo,77.3
+2019-05-27,Asia,Japan,,Tokyo,78.4
+2019-05-28,Asia,Japan,,Tokyo,71.9
+2019-05-29,Asia,Japan,,Tokyo,68.7
+2019-05-30,Asia,Japan,,Tokyo,71.5
+2019-05-31,Asia,Japan,,Tokyo,71.0
+2019-06-01,Asia,Japan,,Tokyo,71.6
+2019-06-02,Asia,Japan,,Tokyo,72.0
+2019-06-03,Asia,Japan,,Tokyo,71.6
+2019-06-04,Asia,Japan,,Tokyo,73.8
+2019-06-05,Asia,Japan,,Tokyo,73.3
+2019-06-06,Asia,Japan,,Tokyo,76.1
+2019-06-07,Asia,Japan,,Tokyo,69.5
+2019-06-08,Asia,Japan,,Tokyo,68.7
+2019-06-09,Asia,Japan,,Tokyo,64.7
+2019-06-10,Asia,Japan,,Tokyo,62.6
+2019-06-11,Asia,Japan,,Tokyo,66.1
+2019-06-12,Asia,Japan,,Tokyo,65.7
+2019-06-13,Asia,Japan,,Tokyo,71.9
+2019-06-14,Asia,Japan,,Tokyo,71.5
+2019-06-15,Asia,Japan,,Tokyo,65.4
+2019-06-16,Asia,Japan,,Tokyo,77.3
+2019-06-17,Asia,Japan,,Tokyo,74.9
+2019-06-18,Asia,Japan,,Tokyo,74.0
+2019-06-19,Asia,Japan,,Tokyo,74.8
+2019-06-20,Asia,Japan,,Tokyo,74.5
+2019-06-21,Asia,Japan,,Tokyo,75.9
+2019-06-22,Asia,Japan,,Tokyo,72.5
+2019-06-23,Asia,Japan,,Tokyo,70.3
+2019-06-24,Asia,Japan,,Tokyo,67.7
+2019-06-25,Asia,Japan,,Tokyo,73.7
+2019-06-26,Asia,Japan,,Tokyo,78.0
+2019-06-27,Asia,Japan,,Tokyo,78.5
+2019-06-28,Asia,Japan,,Tokyo,75.8
+2019-06-29,Asia,Japan,,Tokyo,69.7
+2019-06-30,Asia,Japan,,Tokyo,73.6
+2019-07-01,Asia,Japan,,Tokyo,74.0
+2019-07-02,Asia,Japan,,Tokyo,75.7
+2019-07-03,Asia,Japan,,Tokyo,77.6
+2019-07-04,Asia,Japan,,Tokyo,72.3
+2019-07-05,Asia,Japan,,Tokyo,71.4
+2019-07-06,Asia,Japan,,Tokyo,70.4
+2019-07-07,Asia,Japan,,Tokyo,68.3
+2019-07-08,Asia,Japan,,Tokyo,68.9
+2019-07-09,Asia,Japan,,Tokyo,67.9
+2019-07-10,Asia,Japan,,Tokyo,70.0
+2019-07-11,Asia,Japan,,Tokyo,69.0
+2019-07-12,Asia,Japan,,Tokyo,70.8
+2019-07-13,Asia,Japan,,Tokyo,74.6
+2019-07-14,Asia,Japan,,Tokyo,70.9
+2019-07-15,Asia,Japan,,Tokyo,70.7
+2019-07-16,Asia,Japan,,Tokyo,70.5
+2019-07-17,Asia,Japan,,Tokyo,75.5
+2019-07-18,Asia,Japan,,Tokyo,79.2
+2019-07-19,Asia,Japan,,Tokyo,80.8
+2019-07-20,Asia,Japan,,Tokyo,78.0
+2019-07-21,Asia,Japan,,Tokyo,75.6
+2019-07-22,Asia,Japan,,Tokyo,73.9
+2019-07-23,Asia,Japan,,Tokyo,76.9
+2019-07-24,Asia,Japan,,Tokyo,80.9
+2019-07-25,Asia,Japan,,Tokyo,83.2
+2019-07-26,Asia,Japan,,Tokyo,83.3
+2019-07-27,Asia,Japan,,Tokyo,82.2
+2019-07-28,Asia,Japan,,Tokyo,82.5
+2019-07-29,Asia,Japan,,Tokyo,84.1
+2019-07-30,Asia,Japan,,Tokyo,85.0
+2019-07-31,Asia,Japan,,Tokyo,85.4
+2019-08-01,Asia,Japan,,Tokyo,86.9
+2019-08-02,Asia,Japan,,Tokyo,85.5
+2019-08-03,Asia,Japan,,Tokyo,84.9
+2019-08-04,Asia,Japan,,Tokyo,85.2
+2019-08-05,Asia,Japan,,Tokyo,86.2
+2019-08-06,Asia,Japan,,Tokyo,86.2
+2019-08-07,Asia,Japan,,Tokyo,85.9
+2019-08-08,Asia,Japan,,Tokyo,85.4
+2019-08-09,Asia,Japan,,Tokyo,85.5
+2019-08-10,Asia,Japan,,Tokyo,85.6
+2019-08-11,Asia,Japan,,Tokyo,84.4
+2019-08-12,Asia,Japan,,Tokyo,84.1
+2019-08-13,Asia,Japan,,Tokyo,84.3
+2019-08-14,Asia,Japan,,Tokyo,85.7
+2019-08-15,Asia,Japan,,Tokyo,85.7
+2019-08-16,Asia,Japan,,Tokyo,84.8
+2019-08-17,Asia,Japan,,Tokyo,85.8
+2019-08-18,Asia,Japan,,Tokyo,85.5
+2019-08-19,Asia,Japan,,Tokyo,82.6
+2019-08-20,Asia,Japan,,Tokyo,82.0
+2019-08-21,Asia,Japan,,Tokyo,81.9
+2019-08-22,Asia,Japan,,Tokyo,82.6
+2019-08-23,Asia,Japan,,Tokyo,81.1
+2019-08-24,Asia,Japan,,Tokyo,81.1
+2019-08-25,Asia,Japan,,Tokyo,80.0
+2019-08-26,Asia,Japan,,Tokyo,77.6
+2019-08-27,Asia,Japan,,Tokyo,79.9
+2019-08-28,Asia,Japan,,Tokyo,82.0
+2019-08-29,Asia,Japan,,Tokyo,85.3
+2019-08-30,Asia,Japan,,Tokyo,80.0
+2019-08-31,Asia,Japan,,Tokyo,82.8
+2019-09-01,Asia,Japan,,Tokyo,81.7
+2019-09-02,Asia,Japan,,Tokyo,83.2
+2019-09-03,Asia,Japan,,Tokyo,78.0
+2019-09-04,Asia,Japan,,Tokyo,76.0
+2019-09-05,Asia,Japan,,Tokyo,80.7
+2019-09-06,Asia,Japan,,Tokyo,83.2
+2019-09-07,Asia,Japan,,Tokyo,82.9
+2019-09-08,Asia,Japan,,Tokyo,83.1
+2019-09-09,Asia,Japan,,Tokyo,85.3
+2019-09-10,Asia,Japan,,Tokyo,84.6
+2019-09-11,Asia,Japan,,Tokyo,82.1
+2019-09-12,Asia,Japan,,Tokyo,76.8
+2019-09-13,Asia,Japan,,Tokyo,72.4
+2019-09-14,Asia,Japan,,Tokyo,74.8
+2019-09-15,Asia,Japan,,Tokyo,77.4
+2019-09-16,Asia,Japan,,Tokyo,75.2
+2019-09-17,Asia,Japan,,Tokyo,77.4
+2019-09-18,Asia,Japan,,Tokyo,70.4
+2019-09-19,Asia,Japan,,Tokyo,73.0
+2019-09-20,Asia,Japan,,Tokyo,74.0
+2019-09-21,Asia,Japan,,Tokyo,71.9
+2019-09-22,Asia,Japan,,Tokyo,73.6
+2019-09-23,Asia,Japan,,Tokyo,82.4
+2019-09-24,Asia,Japan,,Tokyo,78.3
+2019-09-25,Asia,Japan,,Tokyo,74.8
+2019-09-26,Asia,Japan,,Tokyo,73.0
+2019-09-27,Asia,Japan,,Tokyo,74.7
+2019-09-28,Asia,Japan,,Tokyo,77.9
+2019-09-29,Asia,Japan,,Tokyo,77.0
+2019-09-30,Asia,Japan,,Tokyo,76.4
+2019-10-01,Asia,Japan,,Tokyo,75.7
+2019-10-02,Asia,Japan,,Tokyo,76.0
+2019-10-03,Asia,Japan,,Tokyo,78.2
+2019-10-04,Asia,Japan,,Tokyo,79.3
+2019-10-05,Asia,Japan,,Tokyo,78.0
+2019-10-06,Asia,Japan,,Tokyo,68.5
+2019-10-07,Asia,Japan,,Tokyo,69.3
+2019-10-08,Asia,Japan,,Tokyo,74.7
+2019-10-09,Asia,Japan,,Tokyo,69.6
+2019-10-10,Asia,Japan,,Tokyo,68.3
+2019-10-11,Asia,Japan,,Tokyo,71.6
+2019-10-12,Asia,Japan,,Tokyo,76.2
+2019-10-13,Asia,Japan,,Tokyo,73.4
+2019-10-14,Asia,Japan,,Tokyo,63.3
+2019-10-15,Asia,Japan,,Tokyo,64.7
+2019-10-16,Asia,Japan,,Tokyo,62.6
+2019-10-17,Asia,Japan,,Tokyo,63.3
+2019-10-18,Asia,Japan,,Tokyo,63.1
+2019-10-19,Asia,Japan,,Tokyo,67.7
+2019-10-20,Asia,Japan,,Tokyo,68.9
+2019-10-21,Asia,Japan,,Tokyo,64.4
+2019-10-22,Asia,Japan,,Tokyo,60.9
+2019-10-23,Asia,Japan,,Tokyo,67.1
+2019-10-24,Asia,Japan,,Tokyo,64.5
+2019-10-25,Asia,Japan,,Tokyo,60.9
+2019-10-26,Asia,Japan,,Tokyo,68.1
+2019-10-27,Asia,Japan,,Tokyo,65.5
+2019-10-28,Asia,Japan,,Tokyo,64.2
+2019-10-29,Asia,Japan,,Tokyo,58.8
+2019-10-30,Asia,Japan,,Tokyo,64.2
+2019-10-31,Asia,Japan,,Tokyo,63.1
+2019-11-01,Asia,Japan,,Tokyo,64.3
+2019-11-02,Asia,Japan,,Tokyo,62.0
+2019-11-03,Asia,Japan,,Tokyo,61.2
+2019-11-04,Asia,Japan,,Tokyo,60.3
+2019-11-05,Asia,Japan,,Tokyo,59.0
+2019-11-06,Asia,Japan,,Tokyo,60.6
+2019-11-07,Asia,Japan,,Tokyo,64.6
+2019-11-08,Asia,Japan,,Tokyo,59.2
+2019-11-09,Asia,Japan,,Tokyo,58.2
+2019-11-10,Asia,Japan,,Tokyo,59.9
+2019-11-11,Asia,Japan,,Tokyo,57.3
+2019-11-12,Asia,Japan,,Tokyo,63.4
+2019-11-13,Asia,Japan,,Tokyo,62.3
+2019-11-14,Asia,Japan,,Tokyo,62.2
+2019-11-15,Asia,Japan,,Tokyo,56.4
+2019-11-16,Asia,Japan,,Tokyo,58.3
+2019-11-17,Asia,Japan,,Tokyo,59.2
+2019-11-18,Asia,Japan,,Tokyo,65.1
+2019-11-19,Asia,Japan,,Tokyo,59.9
+2019-11-20,Asia,Japan,,Tokyo,54.4
+2019-11-21,Asia,Japan,,Tokyo,55.0
+2019-11-22,Asia,Japan,,Tokyo,49.7
+2019-11-23,Asia,Japan,,Tokyo,56.3
+2019-11-24,Asia,Japan,,Tokyo,64.0
+2019-11-25,Asia,Japan,,Tokyo,58.3
+2019-11-26,Asia,Japan,,Tokyo,48.7
+2019-11-27,Asia,Japan,,Tokyo,51.9
+2019-11-28,Asia,Japan,,Tokyo,46.1
+2019-11-29,Asia,Japan,,Tokyo,45.1
+2019-11-30,Asia,Japan,,Tokyo,48.2
+2019-12-01,Asia,Japan,,Tokyo,50.7
+2019-12-02,Asia,Japan,,Tokyo,56.5
+2019-12-03,Asia,Japan,,Tokyo,54.4
+2019-12-04,Asia,Japan,,Tokyo,52.5
+2019-12-05,Asia,Japan,,Tokyo,51.6
+2019-12-06,Asia,Japan,,Tokyo,47.2
+2019-12-07,Asia,Japan,,Tokyo,43.4
+2019-12-08,Asia,Japan,,Tokyo,48.7
+2019-12-09,Asia,Japan,,Tokyo,47.0
+2019-12-10,Asia,Japan,,Tokyo,54.7
+2019-12-11,Asia,Japan,,Tokyo,55.0
+2019-12-12,Asia,Japan,,Tokyo,54.3
+2019-12-13,Asia,Japan,,Tokyo,46.5
+2019-12-14,Asia,Japan,,Tokyo,52.6
+2019-12-15,Asia,Japan,,Tokyo,48.7
+2019-12-16,Asia,Japan,,Tokyo,50.4
+2019-12-17,Asia,Japan,,Tokyo,50.1
+2019-12-18,Asia,Japan,,Tokyo,55.7
+2019-12-19,Asia,Japan,,Tokyo,48.7
+2019-12-20,Asia,Japan,,Tokyo,52.8
+2019-12-21,Asia,Japan,,Tokyo,47.5
+2019-12-22,Asia,Japan,,Tokyo,45.6
+2019-12-23,Asia,Japan,,Tokyo,48.2
+2019-12-24,Asia,Japan,,Tokyo,48.1
+2019-12-25,Asia,Japan,,Tokyo,45.3
+2019-12-26,Asia,Japan,,Tokyo,49.7
+2019-12-27,Asia,Japan,,Tokyo,48.3
+2019-12-28,Asia,Japan,,Tokyo,46.3
+2019-12-29,Asia,Japan,,Tokyo,47.9
+2019-12-30,Asia,Japan,,Tokyo,47.5
+2019-12-31,Asia,Japan,,Tokyo,46.8
+2019-01-01,Australia/South Pacific,Australia,,Sydney,68.9
+2019-01-02,Australia/South Pacific,Australia,,Sydney,65.0
+2019-01-03,Australia/South Pacific,Australia,,Sydney,74.1
+2019-01-04,Australia/South Pacific,Australia,,Sydney,75.5
+2019-01-05,Australia/South Pacific,Australia,,Sydney,60.8
+2019-01-06,Australia/South Pacific,Australia,,Sydney,65.3
+2019-01-07,Australia/South Pacific,Australia,,Sydney,66.5
+2019-01-08,Australia/South Pacific,Australia,,Sydney,66.2
+2019-01-09,Australia/South Pacific,Australia,,Sydney,59.8
+2019-01-10,Australia/South Pacific,Australia,,Sydney,62.3
+2019-01-11,Australia/South Pacific,Australia,,Sydney,78.4
+2019-01-12,Australia/South Pacific,Australia,,Sydney,66.2
+2019-01-13,Australia/South Pacific,Australia,,Sydney,71.8
+2019-01-14,Australia/South Pacific,Australia,,Sydney,78.1
+2019-01-15,Australia/South Pacific,Australia,,Sydney,79.2
+2019-01-16,Australia/South Pacific,Australia,,Sydney,74.5
+2019-01-17,Australia/South Pacific,Australia,,Sydney,82.0
+2019-01-18,Australia/South Pacific,Australia,,Sydney,66.9
+2019-01-19,Australia/South Pacific,Australia,,Sydney,65.3
+2019-01-20,Australia/South Pacific,Australia,,Sydney,68.1
+2019-01-21,Australia/South Pacific,Australia,,Sydney,71.5
+2019-01-22,Australia/South Pacific,Australia,,Sydney,73.2
+2019-01-23,Australia/South Pacific,Australia,,Sydney,-99
+2019-01-24,Australia/South Pacific,Australia,,Sydney,93.8
+2019-01-25,Australia/South Pacific,Australia,,Sydney,79.2
+2019-01-26,Australia/South Pacific,Australia,,Sydney,70.1
+2019-01-27,Australia/South Pacific,Australia,,Sydney,68.6
+2019-01-28,Australia/South Pacific,Australia,,Sydney,73.8
+2019-01-29,Australia/South Pacific,Australia,,Sydney,74.8
+2019-01-30,Australia/South Pacific,Australia,,Sydney,78.9
+2019-01-31,Australia/South Pacific,Australia,,Sydney,61.4
+2019-02-01,Australia/South Pacific,Australia,,Sydney,64.0
+2019-02-02,Australia/South Pacific,Australia,,Sydney,81.4
+2019-02-03,Australia/South Pacific,Australia,,Sydney,76.9
+2019-02-04,Australia/South Pacific,Australia,,Sydney,65.7
+2019-02-05,Australia/South Pacific,Australia,,Sydney,68.5
+2019-02-06,Australia/South Pacific,Australia,,Sydney,77.8
+2019-02-07,Australia/South Pacific,Australia,,Sydney,72.4
+2019-02-08,Australia/South Pacific,Australia,,Sydney,64.1
+2019-02-09,Australia/South Pacific,Australia,,Sydney,57.3
+2019-02-10,Australia/South Pacific,Australia,,Sydney,63.9
+2019-02-11,Australia/South Pacific,Australia,,Sydney,72.2
+2019-02-12,Australia/South Pacific,Australia,,Sydney,55.3
+2019-02-13,Australia/South Pacific,Australia,,Sydney,57.4
+2019-02-14,Australia/South Pacific,Australia,,Sydney,65.4
+2019-02-15,Australia/South Pacific,Australia,,Sydney,65.8
+2019-02-16,Australia/South Pacific,Australia,,Sydney,66.9
+2019-02-17,Australia/South Pacific,Australia,,Sydney,76.5
+2019-02-18,Australia/South Pacific,Australia,,Sydney,62.7
+2019-02-19,Australia/South Pacific,Australia,,Sydney,59.0
+2019-02-20,Australia/South Pacific,Australia,,Sydney,61.6
+2019-02-21,Australia/South Pacific,Australia,,Sydney,63.1
+2019-02-22,Australia/South Pacific,Australia,,Sydney,64.5
+2019-02-23,Australia/South Pacific,Australia,,Sydney,65.2
+2019-02-24,Australia/South Pacific,Australia,,Sydney,78.3
+2019-02-25,Australia/South Pacific,Australia,,Sydney,79.2
+2019-02-26,Australia/South Pacific,Australia,,Sydney,64.0
+2019-02-27,Australia/South Pacific,Australia,,Sydney,74.8
+2019-02-28,Australia/South Pacific,Australia,,Sydney,87.7
+2019-03-01,Australia/South Pacific,Australia,,Sydney,85.8
+2019-03-02,Australia/South Pacific,Australia,,Sydney,86.2
+2019-03-03,Australia/South Pacific,Australia,,Sydney,77.8
+2019-03-04,Australia/South Pacific,Australia,,Sydney,69.5
+2019-03-05,Australia/South Pacific,Australia,,Sydney,65.1
+2019-03-06,Australia/South Pacific,Australia,,Sydney,54.0
+2019-03-07,Australia/South Pacific,Australia,,Sydney,63.1
+2019-03-08,Australia/South Pacific,Australia,,Sydney,66.9
+2019-03-09,Australia/South Pacific,Australia,,Sydney,66.4
+2019-03-10,Australia/South Pacific,Australia,,Sydney,67.7
+2019-03-11,Australia/South Pacific,Australia,,Sydney,64.1
+2019-03-12,Australia/South Pacific,Australia,,Sydney,55.8
+2019-03-13,Australia/South Pacific,Australia,,Sydney,57.8
+2019-03-14,Australia/South Pacific,Australia,,Sydney,60.6
+2019-03-15,Australia/South Pacific,Australia,,Sydney,62.2
+2019-03-16,Australia/South Pacific,Australia,,Sydney,67.0
+2019-03-17,Australia/South Pacific,Australia,,Sydney,69.1
+2019-03-18,Australia/South Pacific,Australia,,Sydney,70.4
+2019-03-19,Australia/South Pacific,Australia,,Sydney,67.2
+2019-03-20,Australia/South Pacific,Australia,,Sydney,68.9
+2019-03-21,Australia/South Pacific,Australia,,Sydney,69.1
+2019-03-22,Australia/South Pacific,Australia,,Sydney,74.7
+2019-03-23,Australia/South Pacific,Australia,,Sydney,70.5
+2019-03-24,Australia/South Pacific,Australia,,Sydney,73.0
+2019-03-25,Australia/South Pacific,Australia,,Sydney,56.6
+2019-03-26,Australia/South Pacific,Australia,,Sydney,57.9
+2019-03-27,Australia/South Pacific,Australia,,Sydney,61.4
+2019-03-28,Australia/South Pacific,Australia,,Sydney,71.8
+2019-03-29,Australia/South Pacific,Australia,,Sydney,60.6
+2019-03-30,Australia/South Pacific,Australia,,Sydney,52.5
+2019-03-31,Australia/South Pacific,Australia,,Sydney,57.3
+2019-04-01,Australia/South Pacific,Australia,,Sydney,53.1
+2019-04-02,Australia/South Pacific,Australia,,Sydney,67.0
+2019-04-03,Australia/South Pacific,Australia,,Sydney,62.7
+2019-04-04,Australia/South Pacific,Australia,,Sydney,63.9
+2019-04-05,Australia/South Pacific,Australia,,Sydney,72.8
+2019-04-06,Australia/South Pacific,Australia,,Sydney,57.7
+2019-04-07,Australia/South Pacific,Australia,,Sydney,65.6
+2019-04-08,Australia/South Pacific,Australia,,Sydney,61.7
+2019-04-09,Australia/South Pacific,Australia,,Sydney,52.0
+2019-04-10,Australia/South Pacific,Australia,,Sydney,55.6
+2019-04-11,Australia/South Pacific,Australia,,Sydney,52.6
+2019-04-12,Australia/South Pacific,Australia,,Sydney,61.5
+2019-04-13,Australia/South Pacific,Australia,,Sydney,59.8
+2019-04-14,Australia/South Pacific,Australia,,Sydney,62.7
+2019-04-15,Australia/South Pacific,Australia,,Sydney,72.3
+2019-04-16,Australia/South Pacific,Australia,,Sydney,76.6
+2019-04-17,Australia/South Pacific,Australia,,Sydney,69.7
+2019-04-18,Australia/South Pacific,Australia,,Sydney,55.9
+2019-04-19,Australia/South Pacific,Australia,,Sydney,59.1
+2019-04-20,Australia/South Pacific,Australia,,Sydney,73.9
+2019-04-21,Australia/South Pacific,Australia,,Sydney,67.0
+2019-04-22,Australia/South Pacific,Australia,,Sydney,55.4
+2019-04-23,Australia/South Pacific,Australia,,Sydney,60.0
+2019-04-24,Australia/South Pacific,Australia,,Sydney,-99
+2019-04-25,Australia/South Pacific,Australia,,Sydney,60.9
+2019-04-26,Australia/South Pacific,Australia,,Sydney,49.9
+2019-04-27,Australia/South Pacific,Australia,,Sydney,56.6
+2019-04-28,Australia/South Pacific,Australia,,Sydney,54.0
+2019-04-29,Australia/South Pacific,Australia,,Sydney,54.2
+2019-04-30,Australia/South Pacific,Australia,,Sydney,65.7
+2019-05-01,Australia/South Pacific,Australia,,Sydney,66.1
+2019-05-02,Australia/South Pacific,Australia,,Sydney,59.8
+2019-05-03,Australia/South Pacific,Australia,,Sydney,59.5
+2019-05-04,Australia/South Pacific,Australia,,Sydney,54.4
+2019-05-05,Australia/South Pacific,Australia,,Sydney,53.3
+2019-05-06,Australia/South Pacific,Australia,,Sydney,51.8
+2019-05-07,Australia/South Pacific,Australia,,Sydney,56.2
+2019-05-08,Australia/South Pacific,Australia,,Sydney,53.6
+2019-05-09,Australia/South Pacific,Australia,,Sydney,53.9
+2019-05-10,Australia/South Pacific,Australia,,Sydney,50.8
+2019-05-11,Australia/South Pacific,Australia,,Sydney,55.0
+2019-05-12,Australia/South Pacific,Australia,,Sydney,57.0
+2019-05-13,Australia/South Pacific,Australia,,Sydney,55.2
+2019-05-14,Australia/South Pacific,Australia,,Sydney,57.7
+2019-05-15,Australia/South Pacific,Australia,,Sydney,52.8
+2019-05-16,Australia/South Pacific,Australia,,Sydney,-99
+2019-05-17,Australia/South Pacific,Australia,,Sydney,-99
+2019-05-18,Australia/South Pacific,Australia,,Sydney,-99
+2019-05-19,Australia/South Pacific,Australia,,Sydney,-99
+2019-05-20,Australia/South Pacific,Australia,,Sydney,56.5
+2019-05-21,Australia/South Pacific,Australia,,Sydney,57.9
+2019-05-22,Australia/South Pacific,Australia,,Sydney,59.6
+2019-05-23,Australia/South Pacific,Australia,,Sydney,61.8
+2019-05-24,Australia/South Pacific,Australia,,Sydney,58.6
+2019-05-25,Australia/South Pacific,Australia,,Sydney,55.5
+2019-05-26,Australia/South Pacific,Australia,,Sydney,50.6
+2019-05-27,Australia/South Pacific,Australia,,Sydney,48.4
+2019-05-28,Australia/South Pacific,Australia,,Sydney,51.6
+2019-05-29,Australia/South Pacific,Australia,,Sydney,43.9
+2019-05-30,Australia/South Pacific,Australia,,Sydney,51.0
+2019-05-31,Australia/South Pacific,Australia,,Sydney,52.3
+2019-06-01,Australia/South Pacific,Australia,,Sydney,52.6
+2019-06-02,Australia/South Pacific,Australia,,Sydney,49.1
+2019-06-03,Australia/South Pacific,Australia,,Sydney,46.6
+2019-06-04,Australia/South Pacific,Australia,,Sydney,48.3
+2019-06-05,Australia/South Pacific,Australia,,Sydney,50.9
+2019-06-06,Australia/South Pacific,Australia,,Sydney,53.3
+2019-06-07,Australia/South Pacific,Australia,,Sydney,50.2
+2019-06-08,Australia/South Pacific,Australia,,Sydney,54.1
+2019-06-09,Australia/South Pacific,Australia,,Sydney,57.3
+2019-06-10,Australia/South Pacific,Australia,,Sydney,54.6
+2019-06-11,Australia/South Pacific,Australia,,Sydney,57.8
+2019-06-12,Australia/South Pacific,Australia,,Sydney,53.6
+2019-06-13,Australia/South Pacific,Australia,,Sydney,53.8
+2019-06-14,Australia/South Pacific,Australia,,Sydney,52.9
+2019-06-15,Australia/South Pacific,Australia,,Sydney,51.3
+2019-06-16,Australia/South Pacific,Australia,,Sydney,50.8
+2019-06-17,Australia/South Pacific,Australia,,Sydney,53.2
+2019-06-18,Australia/South Pacific,Australia,,Sydney,45.0
+2019-06-19,Australia/South Pacific,Australia,,Sydney,45.8
+2019-06-20,Australia/South Pacific,Australia,,Sydney,44.2
+2019-06-21,Australia/South Pacific,Australia,,Sydney,45.8
+2019-06-22,Australia/South Pacific,Australia,,Sydney,43.3
+2019-06-23,Australia/South Pacific,Australia,,Sydney,43.5
+2019-06-24,Australia/South Pacific,Australia,,Sydney,45.6
+2019-06-25,Australia/South Pacific,Australia,,Sydney,49.4
+2019-06-26,Australia/South Pacific,Australia,,Sydney,51.6
+2019-06-27,Australia/South Pacific,Australia,,Sydney,54.4
+2019-06-28,Australia/South Pacific,Australia,,Sydney,57.6
+2019-06-29,Australia/South Pacific,Australia,,Sydney,50.3
+2019-06-30,Australia/South Pacific,Australia,,Sydney,50.0
+2019-07-01,Australia/South Pacific,Australia,,Sydney,49.3
+2019-07-02,Australia/South Pacific,Australia,,Sydney,51.8
+2019-07-03,Australia/South Pacific,Australia,,Sydney,47.8
+2019-07-04,Australia/South Pacific,Australia,,Sydney,45.0
+2019-07-05,Australia/South Pacific,Australia,,Sydney,51.0
+2019-07-06,Australia/South Pacific,Australia,,Sydney,54.7
+2019-07-07,Australia/South Pacific,Australia,,Sydney,54.2
+2019-07-08,Australia/South Pacific,Australia,,Sydney,50.0
+2019-07-09,Australia/South Pacific,Australia,,Sydney,51.3
+2019-07-10,Australia/South Pacific,Australia,,Sydney,51.6
+2019-07-11,Australia/South Pacific,Australia,,Sydney,52.5
+2019-07-12,Australia/South Pacific,Australia,,Sydney,48.2
+2019-07-13,Australia/South Pacific,Australia,,Sydney,45.6
+2019-07-14,Australia/South Pacific,Australia,,Sydney,49.7
+2019-07-15,Australia/South Pacific,Australia,,Sydney,52.5
+2019-07-16,Australia/South Pacific,Australia,,Sydney,51.3
+2019-07-17,Australia/South Pacific,Australia,,Sydney,49.4
+2019-07-18,Australia/South Pacific,Australia,,Sydney,50.9
+2019-07-19,Australia/South Pacific,Australia,,Sydney,50.5
+2019-07-20,Australia/South Pacific,Australia,,Sydney,53.6
+2019-07-21,Australia/South Pacific,Australia,,Sydney,49.9
+2019-07-22,Australia/South Pacific,Australia,,Sydney,52.8
+2019-07-23,Australia/South Pacific,Australia,,Sydney,48.6
+2019-07-24,Australia/South Pacific,Australia,,Sydney,51.2
+2019-07-25,Australia/South Pacific,Australia,,Sydney,52.6
+2019-07-26,Australia/South Pacific,Australia,,Sydney,49.8
+2019-07-27,Australia/South Pacific,Australia,,Sydney,49.0
+2019-07-28,Australia/South Pacific,Australia,,Sydney,51.0
+2019-07-29,Australia/South Pacific,Australia,,Sydney,50.3
+2019-07-30,Australia/South Pacific,Australia,,Sydney,42.5
+2019-07-31,Australia/South Pacific,Australia,,Sydney,48.1
+2019-08-01,Australia/South Pacific,Australia,,Sydney,49.6
+2019-08-02,Australia/South Pacific,Australia,,Sydney,50.9
+2019-08-03,Australia/South Pacific,Australia,,Sydney,50.2
+2019-08-04,Australia/South Pacific,Australia,,Sydney,50.0
+2019-08-05,Australia/South Pacific,Australia,,Sydney,50.6
+2019-08-06,Australia/South Pacific,Australia,,Sydney,50.5
+2019-08-07,Australia/South Pacific,Australia,,Sydney,48.1
+2019-08-08,Australia/South Pacific,Australia,,Sydney,48.2
+2019-08-09,Australia/South Pacific,Australia,,Sydney,42.3
+2019-08-10,Australia/South Pacific,Australia,,Sydney,44.2
+2019-08-11,Australia/South Pacific,Australia,,Sydney,47.9
+2019-08-12,Australia/South Pacific,Australia,,Sydney,47.8
+2019-08-13,Australia/South Pacific,Australia,,Sydney,50.2
+2019-08-14,Australia/South Pacific,Australia,,Sydney,48.4
+2019-08-15,Australia/South Pacific,Australia,,Sydney,53.4
+2019-08-16,Australia/South Pacific,Australia,,Sydney,47.9
+2019-08-17,Australia/South Pacific,Australia,,Sydney,52.4
+2019-08-18,Australia/South Pacific,Australia,,Sydney,48.4
+2019-08-19,Australia/South Pacific,Australia,,Sydney,47.8
+2019-08-20,Australia/South Pacific,Australia,,Sydney,55.2
+2019-08-21,Australia/South Pacific,Australia,,Sydney,53.6
+2019-08-22,Australia/South Pacific,Australia,,Sydney,44.7
+2019-08-23,Australia/South Pacific,Australia,,Sydney,50.5
+2019-08-24,Australia/South Pacific,Australia,,Sydney,50.3
+2019-08-25,Australia/South Pacific,Australia,,Sydney,46.4
+2019-08-26,Australia/South Pacific,Australia,,Sydney,47.7
+2019-08-27,Australia/South Pacific,Australia,,Sydney,50.5
+2019-08-28,Australia/South Pacific,Australia,,Sydney,45.0
+2019-08-29,Australia/South Pacific,Australia,,Sydney,43.5
+2019-08-30,Australia/South Pacific,Australia,,Sydney,49.0
+2019-08-31,Australia/South Pacific,Australia,,Sydney,55.2
+2019-09-01,Australia/South Pacific,Australia,,Sydney,52.3
+2019-09-02,Australia/South Pacific,Australia,,Sydney,56.6
+2019-09-03,Australia/South Pacific,Australia,,Sydney,53.8
+2019-09-04,Australia/South Pacific,Australia,,Sydney,55.1
+2019-09-05,Australia/South Pacific,Australia,,Sydney,57.0
+2019-09-06,Australia/South Pacific,Australia,,Sydney,50.4
+2019-09-07,Australia/South Pacific,Australia,,Sydney,47.2
+2019-09-08,Australia/South Pacific,Australia,,Sydney,47.5
+2019-09-09,Australia/South Pacific,Australia,,Sydney,47.3
+2019-09-10,Australia/South Pacific,Australia,,Sydney,47.3
+2019-09-11,Australia/South Pacific,Australia,,Sydney,57.7
+2019-09-12,Australia/South Pacific,Australia,,Sydney,54.7
+2019-09-13,Australia/South Pacific,Australia,,Sydney,53.5
+2019-09-14,Australia/South Pacific,Australia,,Sydney,59.2
+2019-09-15,Australia/South Pacific,Australia,,Sydney,56.0
+2019-09-16,Australia/South Pacific,Australia,,Sydney,45.2
+2019-09-17,Australia/South Pacific,Australia,,Sydney,46.1
+2019-09-18,Australia/South Pacific,Australia,,Sydney,54.4
+2019-09-19,Australia/South Pacific,Australia,,Sydney,66.8
+2019-09-20,Australia/South Pacific,Australia,,Sydney,68.9
+2019-09-21,Australia/South Pacific,Australia,,Sydney,52.1
+2019-09-22,Australia/South Pacific,Australia,,Sydney,51.5
+2019-09-23,Australia/South Pacific,Australia,,Sydney,48.5
+2019-09-24,Australia/South Pacific,Australia,,Sydney,50.7
+2019-09-25,Australia/South Pacific,Australia,,Sydney,51.1
+2019-09-26,Australia/South Pacific,Australia,,Sydney,57.1
+2019-09-27,Australia/South Pacific,Australia,,Sydney,49.2
+2019-09-28,Australia/South Pacific,Australia,,Sydney,49.3
+2019-09-29,Australia/South Pacific,Australia,,Sydney,50.5
+2019-09-30,Australia/South Pacific,Australia,,Sydney,46.6
+2019-10-01,Australia/South Pacific,Australia,,Sydney,58.2
+2019-10-02,Australia/South Pacific,Australia,,Sydney,69.4
+2019-10-03,Australia/South Pacific,Australia,,Sydney,62.4
+2019-10-04,Australia/South Pacific,Australia,,Sydney,51.5
+2019-10-05,Australia/South Pacific,Australia,,Sydney,66.5
+2019-10-06,Australia/South Pacific,Australia,,Sydney,60.7
+2019-10-07,Australia/South Pacific,Australia,,Sydney,54.5
+2019-10-08,Australia/South Pacific,Australia,,Sydney,48.1
+2019-10-09,Australia/South Pacific,Australia,,Sydney,50.6
+2019-10-10,Australia/South Pacific,Australia,,Sydney,51.5
+2019-10-11,Australia/South Pacific,Australia,,Sydney,53.4
+2019-10-12,Australia/South Pacific,Australia,,Sydney,56.1
+2019-10-13,Australia/South Pacific,Australia,,Sydney,62.8
+2019-10-14,Australia/South Pacific,Australia,,Sydney,60.2
+2019-10-15,Australia/South Pacific,Australia,,Sydney,56.8
+2019-10-16,Australia/South Pacific,Australia,,Sydney,54.8
+2019-10-17,Australia/South Pacific,Australia,,Sydney,50.2
+2019-10-18,Australia/South Pacific,Australia,,Sydney,56.3
+2019-10-19,Australia/South Pacific,Australia,,Sydney,50.4
+2019-10-20,Australia/South Pacific,Australia,,Sydney,54.5
+2019-10-21,Australia/South Pacific,Australia,,Sydney,55.0
+2019-10-22,Australia/South Pacific,Australia,,Sydney,57.6
+2019-10-23,Australia/South Pacific,Australia,,Sydney,69.3
+2019-10-24,Australia/South Pacific,Australia,,Sydney,79.1
+2019-10-25,Australia/South Pacific,Australia,,Sydney,59.8
+2019-10-26,Australia/South Pacific,Australia,,Sydney,52.1
+2019-10-27,Australia/South Pacific,Australia,,Sydney,52.5
+2019-10-28,Australia/South Pacific,Australia,,Sydney,59.8
+2019-10-29,Australia/South Pacific,Australia,,Sydney,70.0
+2019-10-30,Australia/South Pacific,Australia,,Sydney,71.7
+2019-10-31,Australia/South Pacific,Australia,,Sydney,78.4
+2019-11-01,Australia/South Pacific,Australia,,Sydney,75.8
+2019-11-02,Australia/South Pacific,Australia,,Sydney,60.6
+2019-11-03,Australia/South Pacific,Australia,,Sydney,55.7
+2019-11-04,Australia/South Pacific,Australia,,Sydney,49.1
+2019-11-05,Australia/South Pacific,Australia,,Sydney,59.2
+2019-11-06,Australia/South Pacific,Australia,,Sydney,60.7
+2019-11-07,Australia/South Pacific,Australia,,Sydney,57.2
+2019-11-08,Australia/South Pacific,Australia,,Sydney,48.1
+2019-11-09,Australia/South Pacific,Australia,,Sydney,53.4
+2019-11-10,Australia/South Pacific,Australia,,Sydney,56.9
+2019-11-11,Australia/South Pacific,Australia,,Sydney,70.7
+2019-11-12,Australia/South Pacific,Australia,,Sydney,51.1
+2019-11-13,Australia/South Pacific,Australia,,Sydney,56.4
+2019-11-14,Australia/South Pacific,Australia,,Sydney,61.0
+2019-11-15,Australia/South Pacific,Australia,,Sydney,54.2
+2019-11-16,Australia/South Pacific,Australia,,Sydney,55.5
+2019-11-17,Australia/South Pacific,Australia,,Sydney,53.3
+2019-11-18,Australia/South Pacific,Australia,,Sydney,64.5
+2019-11-19,Australia/South Pacific,Australia,,Sydney,57.9
+2019-11-20,Australia/South Pacific,Australia,,Sydney,84.2
+2019-11-21,Australia/South Pacific,Australia,,Sydney,68.0
+2019-11-22,Australia/South Pacific,Australia,,Sydney,57.0
+2019-11-23,Australia/South Pacific,Australia,,Sydney,60.7
+2019-11-24,Australia/South Pacific,Australia,,Sydney,62.3
+2019-11-25,Australia/South Pacific,Australia,,Sydney,67.0
+2019-11-26,Australia/South Pacific,Australia,,Sydney,49.8
+2019-11-27,Australia/South Pacific,Australia,,Sydney,61.1
+2019-11-28,Australia/South Pacific,Australia,,Sydney,61.4
+2019-11-29,Australia/South Pacific,Australia,,Sydney,58.0
+2019-11-30,Australia/South Pacific,Australia,,Sydney,55.6
+2019-12-01,Australia/South Pacific,Australia,,Sydney,53.4
+2019-12-02,Australia/South Pacific,Australia,,Sydney,54.0
+2019-12-03,Australia/South Pacific,Australia,,Sydney,60.9
+2019-12-04,Australia/South Pacific,Australia,,Sydney,59.9
+2019-12-05,Australia/South Pacific,Australia,,Sydney,62.3
+2019-12-06,Australia/South Pacific,Australia,,Sydney,57.4
+2019-12-07,Australia/South Pacific,Australia,,Sydney,60.7
+2019-12-08,Australia/South Pacific,Australia,,Sydney,70.1
+2019-12-09,Australia/South Pacific,Australia,,Sydney,73.9
+2019-12-10,Australia/South Pacific,Australia,,Sydney,57.8
+2019-12-11,Australia/South Pacific,Australia,,Sydney,59.2
+2019-12-12,Australia/South Pacific,Australia,,Sydney,57.2
+2019-12-13,Australia/South Pacific,Australia,,Sydney,62.5
+2019-12-14,Australia/South Pacific,Australia,,Sydney,61.8
+2019-12-15,Australia/South Pacific,Australia,,Sydney,62.1
+2019-12-16,Australia/South Pacific,Australia,,Sydney,62.0
+2019-12-17,Australia/South Pacific,Australia,,Sydney,73.5
+2019-12-18,Australia/South Pacific,Australia,,Sydney,82.7
+2019-12-19,Australia/South Pacific,Australia,,Sydney,66.5
+2019-12-20,Australia/South Pacific,Australia,,Sydney,89.8
+2019-12-21,Australia/South Pacific,Australia,,Sydney,59.6
+2019-12-22,Australia/South Pacific,Australia,,Sydney,60.5
+2019-12-23,Australia/South Pacific,Australia,,Sydney,62.3
+2019-12-24,Australia/South Pacific,Australia,,Sydney,66.6
+2019-12-25,Australia/South Pacific,Australia,,Sydney,71.0
+2019-12-26,Australia/South Pacific,Australia,,Sydney,62.6
+2019-12-27,Australia/South Pacific,Australia,,Sydney,74.7
+2019-12-28,Australia/South Pacific,Australia,,Sydney,74.4
+2019-12-29,Australia/South Pacific,Australia,,Sydney,81.1
+2019-12-30,Australia/South Pacific,Australia,,Sydney,78.8
+2019-12-31,Australia/South Pacific,Australia,,Sydney,60.9
+2019-01-01,Europe,Austria,,Vienna,41.4
+2019-01-02,Europe,Austria,,Vienna,36.3
+2019-01-03,Europe,Austria,,Vienna,29.8
+2019-01-04,Europe,Austria,,Vienna,29.9
+2019-01-05,Europe,Austria,,Vienna,35.8
+2019-01-06,Europe,Austria,,Vienna,35.6
+2019-01-07,Europe,Austria,,Vienna,28.8
+2019-01-08,Europe,Austria,,Vienna,36.0
+2019-01-09,Europe,Austria,,Vienna,36.9
+2019-01-10,Europe,Austria,,Vienna,33.5
+2019-01-11,Europe,Austria,,Vienna,31.5
+2019-01-12,Europe,Austria,,Vienna,38.3
+2019-01-13,Europe,Austria,,Vienna,41.9
+2019-01-14,Europe,Austria,,Vienna,39.3
+2019-01-15,Europe,Austria,,Vienna,37.2
+2019-01-16,Europe,Austria,,Vienna,41.1
+2019-01-17,Europe,Austria,,Vienna,37.2
+2019-01-18,Europe,Austria,,Vienna,36.5
+2019-01-19,Europe,Austria,,Vienna,26.7
+2019-01-20,Europe,Austria,,Vienna,29.9
+2019-01-21,Europe,Austria,,Vienna,25.4
+2019-01-22,Europe,Austria,,Vienna,20.1
+2019-01-23,Europe,Austria,,Vienna,22.6
+2019-01-24,Europe,Austria,,Vienna,26.6
+2019-01-25,Europe,Austria,,Vienna,28.5
+2019-01-26,Europe,Austria,,Vienna,35.2
+2019-01-27,Europe,Austria,,Vienna,31.2
+2019-01-28,Europe,Austria,,Vienna,35.1
+2019-01-29,Europe,Austria,,Vienna,35.7
+2019-01-30,Europe,Austria,,Vienna,30.2
+2019-01-31,Europe,Austria,,Vienna,29.1
+2019-02-01,Europe,Austria,,Vienna,35.9
+2019-02-02,Europe,Austria,,Vienna,49.5
+2019-02-03,Europe,Austria,,Vienna,41.7
+2019-02-04,Europe,Austria,,Vienna,35.4
+2019-02-05,Europe,Austria,,Vienna,30.9
+2019-02-06,Europe,Austria,,Vienna,30.2
+2019-02-07,Europe,Austria,,Vienna,32.2
+2019-02-08,Europe,Austria,,Vienna,36.0
+2019-02-09,Europe,Austria,,Vienna,36.1
+2019-02-10,Europe,Austria,,Vienna,36.7
+2019-02-11,Europe,Austria,,Vienna,43.7
+2019-02-12,Europe,Austria,,Vienna,37.7
+2019-02-13,Europe,Austria,,Vienna,41.1
+2019-02-14,Europe,Austria,,Vienna,44.8
+2019-02-15,Europe,Austria,,Vienna,39.6
+2019-02-16,Europe,Austria,,Vienna,38.4
+2019-02-17,Europe,Austria,,Vienna,38.2
+2019-02-18,Europe,Austria,,Vienna,39.7
+2019-02-19,Europe,Austria,,Vienna,43.4
+2019-02-20,Europe,Austria,,Vienna,45.8
+2019-02-21,Europe,Austria,,Vienna,47.0
+2019-02-22,Europe,Austria,,Vienna,40.7
+2019-02-23,Europe,Austria,,Vienna,27.7
+2019-02-24,Europe,Austria,,Vienna,31.5
+2019-02-25,Europe,Austria,,Vienna,47.9
+2019-02-26,Europe,Austria,,Vienna,52.8
+2019-02-27,Europe,Austria,,Vienna,46.4
+2019-02-28,Europe,Austria,,Vienna,53.0
+2019-03-01,Europe,Austria,,Vienna,52.2
+2019-03-02,Europe,Austria,,Vienna,40.2
+2019-03-03,Europe,Austria,,Vienna,48.5
+2019-03-04,Europe,Austria,,Vienna,51.9
+2019-03-05,Europe,Austria,,Vienna,48.6
+2019-03-06,Europe,Austria,,Vienna,47.6
+2019-03-07,Europe,Austria,,Vienna,51.4
+2019-03-08,Europe,Austria,,Vienna,51.6
+2019-03-09,Europe,Austria,,Vienna,49.8
+2019-03-10,Europe,Austria,,Vienna,50.6
+2019-03-11,Europe,Austria,,Vienna,44.3
+2019-03-12,Europe,Austria,,Vienna,40.1
+2019-03-13,Europe,Austria,,Vienna,41.5
+2019-03-14,Europe,Austria,,Vienna,46.0
+2019-03-15,Europe,Austria,,Vienna,48.3
+2019-03-16,Europe,Austria,,Vienna,46.8
+2019-03-17,Europe,Austria,,Vienna,50.1
+2019-03-18,Europe,Austria,,Vienna,45.2
+2019-03-19,Europe,Austria,,Vienna,42.8
+2019-03-20,Europe,Austria,,Vienna,40.5
+2019-03-21,Europe,Austria,,Vienna,41.2
+2019-03-22,Europe,Austria,,Vienna,48.0
+2019-03-23,Europe,Austria,,Vienna,51.3
+2019-03-24,Europe,Austria,,Vienna,53.2
+2019-03-25,Europe,Austria,,Vienna,48.1
+2019-03-26,Europe,Austria,,Vienna,44.9
+2019-03-27,Europe,Austria,,Vienna,44.6
+2019-03-28,Europe,Austria,,Vienna,48.5
+2019-03-29,Europe,Austria,,Vienna,48.5
+2019-03-30,Europe,Austria,,Vienna,49.3
+2019-03-31,Europe,Austria,,Vienna,53.4
+2019-04-01,Europe,Austria,,Vienna,50.4
+2019-04-02,Europe,Austria,,Vienna,51.9
+2019-04-03,Europe,Austria,,Vienna,55.5
+2019-04-04,Europe,Austria,,Vienna,56.2
+2019-04-05,Europe,Austria,,Vienna,52.0
+2019-04-06,Europe,Austria,,Vienna,49.6
+2019-04-07,Europe,Austria,,Vienna,54.1
+2019-04-08,Europe,Austria,,Vienna,56.5
+2019-04-09,Europe,Austria,,Vienna,58.0
+2019-04-10,Europe,Austria,,Vienna,47.9
+2019-04-11,Europe,Austria,,Vienna,44.9
+2019-04-12,Europe,Austria,,Vienna,44.1
+2019-04-13,Europe,Austria,,Vienna,42.2
+2019-04-14,Europe,Austria,,Vienna,44.2
+2019-04-15,Europe,Austria,,Vienna,50.4
+2019-04-16,Europe,Austria,,Vienna,47.7
+2019-04-17,Europe,Austria,,Vienna,50.8
+2019-04-18,Europe,Austria,,Vienna,54.8
+2019-04-19,Europe,Austria,,Vienna,56.8
+2019-04-20,Europe,Austria,,Vienna,56.8
+2019-04-21,Europe,Austria,,Vienna,56.3
+2019-04-22,Europe,Austria,,Vienna,56.5
+2019-04-23,Europe,Austria,,Vienna,50.9
+2019-04-24,Europe,Austria,,Vienna,-99
+2019-04-25,Europe,Austria,,Vienna,67.0
+2019-04-26,Europe,Austria,,Vienna,65.4
+2019-04-27,Europe,Austria,,Vienna,55.8
+2019-04-28,Europe,Austria,,Vienna,53.9
+2019-04-29,Europe,Austria,,Vienna,48.9
+2019-04-30,Europe,Austria,,Vienna,49.5
+2019-05-01,Europe,Austria,,Vienna,57.5
+2019-05-02,Europe,Austria,,Vienna,61.8
+2019-05-03,Europe,Austria,,Vienna,53.8
+2019-05-04,Europe,Austria,,Vienna,51.1
+2019-05-05,Europe,Austria,,Vienna,40.3
+2019-05-06,Europe,Austria,,Vienna,46.0
+2019-05-07,Europe,Austria,,Vienna,48.4
+2019-05-08,Europe,Austria,,Vienna,53.1
+2019-05-09,Europe,Austria,,Vienna,52.5
+2019-05-10,Europe,Austria,,Vienna,59.8
+2019-05-11,Europe,Austria,,Vienna,56.6
+2019-05-12,Europe,Austria,,Vienna,50.4
+2019-05-13,Europe,Austria,,Vienna,49.3
+2019-05-14,Europe,Austria,,Vienna,45.3
+2019-05-15,Europe,Austria,,Vienna,44.0
+2019-05-16,Europe,Austria,,Vienna,-99
+2019-05-17,Europe,Austria,,Vienna,-99
+2019-05-18,Europe,Austria,,Vienna,-99
+2019-05-19,Europe,Austria,,Vienna,-99
+2019-05-20,Europe,Austria,,Vienna,58.9
+2019-05-21,Europe,Austria,,Vienna,56.7
+2019-05-22,Europe,Austria,,Vienna,57.8
+2019-05-23,Europe,Austria,,Vienna,56.0
+2019-05-24,Europe,Austria,,Vienna,61.5
+2019-05-25,Europe,Austria,,Vienna,63.6
+2019-05-26,Europe,Austria,,Vienna,67.7
+2019-05-27,Europe,Austria,,Vienna,62.5
+2019-05-28,Europe,Austria,,Vienna,60.5
+2019-05-29,Europe,Austria,,Vienna,55.0
+2019-05-30,Europe,Austria,,Vienna,52.6
+2019-05-31,Europe,Austria,,Vienna,62.3
+2019-06-01,Europe,Austria,,Vienna,68.5
+2019-06-02,Europe,Austria,,Vienna,71.7
+2019-06-03,Europe,Austria,,Vienna,71.1
+2019-06-04,Europe,Austria,,Vienna,71.9
+2019-06-05,Europe,Austria,,Vienna,72.1
+2019-06-06,Europe,Austria,,Vienna,67.8
+2019-06-07,Europe,Austria,,Vienna,70.2
+2019-06-08,Europe,Austria,,Vienna,69.5
+2019-06-09,Europe,Austria,,Vienna,70.5
+2019-06-10,Europe,Austria,,Vienna,75.6
+2019-06-11,Europe,Austria,,Vienna,78.6
+2019-06-12,Europe,Austria,,Vienna,78.2
+2019-06-13,Europe,Austria,,Vienna,77.5
+2019-06-14,Europe,Austria,,Vienna,78.8
+2019-06-15,Europe,Austria,,Vienna,80.5
+2019-06-16,Europe,Austria,,Vienna,73.1
+2019-06-17,Europe,Austria,,Vienna,71.4
+2019-06-18,Europe,Austria,,Vienna,72.1
+2019-06-19,Europe,Austria,,Vienna,73.9
+2019-06-20,Europe,Austria,,Vienna,71.9
+2019-06-21,Europe,Austria,,Vienna,74.1
+2019-06-22,Europe,Austria,,Vienna,70.1
+2019-06-23,Europe,Austria,,Vienna,67.6
+2019-06-24,Europe,Austria,,Vienna,73.4
+2019-06-25,Europe,Austria,,Vienna,77.4
+2019-06-26,Europe,Austria,,Vienna,82.3
+2019-06-27,Europe,Austria,,Vienna,81.5
+2019-06-28,Europe,Austria,,Vienna,71.8
+2019-06-29,Europe,Austria,,Vienna,70.7
+2019-06-30,Europe,Austria,,Vienna,78.0
+2019-07-01,Europe,Austria,,Vienna,79.5
+2019-07-02,Europe,Austria,,Vienna,74.3
+2019-07-03,Europe,Austria,,Vienna,70.0
+2019-07-04,Europe,Austria,,Vienna,68.9
+2019-07-05,Europe,Austria,,Vienna,73.7
+2019-07-06,Europe,Austria,,Vienna,79.7
+2019-07-07,Europe,Austria,,Vienna,73.2
+2019-07-08,Europe,Austria,,Vienna,67.0
+2019-07-09,Europe,Austria,,Vienna,64.6
+2019-07-10,Europe,Austria,,Vienna,64.4
+2019-07-11,Europe,Austria,,Vienna,68.3
+2019-07-12,Europe,Austria,,Vienna,66.4
+2019-07-13,Europe,Austria,,Vienna,61.9
+2019-07-14,Europe,Austria,,Vienna,64.2
+2019-07-15,Europe,Austria,,Vienna,66.5
+2019-07-16,Europe,Austria,,Vienna,68.2
+2019-07-17,Europe,Austria,,Vienna,69.1
+2019-07-18,Europe,Austria,,Vienna,70.1
+2019-07-19,Europe,Austria,,Vienna,72.1
+2019-07-20,Europe,Austria,,Vienna,76.1
+2019-07-21,Europe,Austria,,Vienna,74.2
+2019-07-22,Europe,Austria,,Vienna,75.8
+2019-07-23,Europe,Austria,,Vienna,79.1
+2019-07-24,Europe,Austria,,Vienna,77.7
+2019-07-25,Europe,Austria,,Vienna,80.1
+2019-07-26,Europe,Austria,,Vienna,81.3
+2019-07-27,Europe,Austria,,Vienna,69.4
+2019-07-28,Europe,Austria,,Vienna,71.0
+2019-07-29,Europe,Austria,,Vienna,72.3
+2019-07-30,Europe,Austria,,Vienna,77.1
+2019-07-31,Europe,Austria,,Vienna,77.1
+2019-08-01,Europe,Austria,,Vienna,74.6
+2019-08-02,Europe,Austria,,Vienna,71.5
+2019-08-03,Europe,Austria,,Vienna,67.7
+2019-08-04,Europe,Austria,,Vienna,69.3
+2019-08-05,Europe,Austria,,Vienna,73.2
+2019-08-06,Europe,Austria,,Vienna,73.2
+2019-08-07,Europe,Austria,,Vienna,76.0
+2019-08-08,Europe,Austria,,Vienna,72.9
+2019-08-09,Europe,Austria,,Vienna,75.4
+2019-08-10,Europe,Austria,,Vienna,77.0
+2019-08-11,Europe,Austria,,Vienna,74.8
+2019-08-12,Europe,Austria,,Vienna,76.5
+2019-08-13,Europe,Austria,,Vienna,68.4
+2019-08-14,Europe,Austria,,Vienna,66.4
+2019-08-15,Europe,Austria,,Vienna,67.3
+2019-08-16,Europe,Austria,,Vienna,68.2
+2019-08-17,Europe,Austria,,Vienna,68.5
+2019-08-18,Europe,Austria,,Vienna,77.0
+2019-08-19,Europe,Austria,,Vienna,77.7
+2019-08-20,Europe,Austria,,Vienna,77.0
+2019-08-21,Europe,Austria,,Vienna,66.4
+2019-08-22,Europe,Austria,,Vienna,67.1
+2019-08-23,Europe,Austria,,Vienna,71.5
+2019-08-24,Europe,Austria,,Vienna,74.2
+2019-08-25,Europe,Austria,,Vienna,70.8
+2019-08-26,Europe,Austria,,Vienna,70.3
+2019-08-27,Europe,Austria,,Vienna,74.9
+2019-08-28,Europe,Austria,,Vienna,77.3
+2019-08-29,Europe,Austria,,Vienna,76.9
+2019-08-30,Europe,Austria,,Vienna,75.0
+2019-08-31,Europe,Austria,,Vienna,75.0
+2019-09-01,Europe,Austria,,Vienna,74.5
+2019-09-02,Europe,Austria,,Vienna,65.3
+2019-09-03,Europe,Austria,,Vienna,63.2
+2019-09-04,Europe,Austria,,Vienna,63.5
+2019-09-05,Europe,Austria,,Vienna,67.4
+2019-09-06,Europe,Austria,,Vienna,62.8
+2019-09-07,Europe,Austria,,Vienna,58.8
+2019-09-08,Europe,Austria,,Vienna,60.3
+2019-09-09,Europe,Austria,,Vienna,59.4
+2019-09-10,Europe,Austria,,Vienna,59.9
+2019-09-11,Europe,Austria,,Vienna,63.0
+2019-09-12,Europe,Austria,,Vienna,66.5
+2019-09-13,Europe,Austria,,Vienna,67.8
+2019-09-14,Europe,Austria,,Vienna,63.0
+2019-09-15,Europe,Austria,,Vienna,62.1
+2019-09-16,Europe,Austria,,Vienna,69.1
+2019-09-17,Europe,Austria,,Vienna,64.0
+2019-09-18,Europe,Austria,,Vienna,56.5
+2019-09-19,Europe,Austria,,Vienna,52.1
+2019-09-20,Europe,Austria,,Vienna,51.5
+2019-09-21,Europe,Austria,,Vienna,53.7
+2019-09-22,Europe,Austria,,Vienna,59.1
+2019-09-23,Europe,Austria,,Vienna,61.1
+2019-09-24,Europe,Austria,,Vienna,63.4
+2019-09-25,Europe,Austria,,Vienna,61.7
+2019-09-26,Europe,Austria,,Vienna,61.7
+2019-09-27,Europe,Austria,,Vienna,63.1
+2019-09-28,Europe,Austria,,Vienna,61.4
+2019-09-29,Europe,Austria,,Vienna,62.9
+2019-09-30,Europe,Austria,,Vienna,67.5
+2019-10-01,Europe,Austria,,Vienna,63.8
+2019-10-02,Europe,Austria,,Vienna,56.9
+2019-10-03,Europe,Austria,,Vienna,51.3
+2019-10-04,Europe,Austria,,Vienna,53.6
+2019-10-05,Europe,Austria,,Vienna,52.9
+2019-10-06,Europe,Austria,,Vienna,48.0
+2019-10-07,Europe,Austria,,Vienna,44.6
+2019-10-08,Europe,Austria,,Vienna,48.6
+2019-10-09,Europe,Austria,,Vienna,55.1
+2019-10-10,Europe,Austria,,Vienna,56.6
+2019-10-11,Europe,Austria,,Vienna,55.0
+2019-10-12,Europe,Austria,,Vienna,50.4
+2019-10-13,Europe,Austria,,Vienna,51.2
+2019-10-14,Europe,Austria,,Vienna,56.9
+2019-10-15,Europe,Austria,,Vienna,62.2
+2019-10-16,Europe,Austria,,Vienna,56.2
+2019-10-17,Europe,Austria,,Vienna,53.7
+2019-10-18,Europe,Austria,,Vienna,52.8
+2019-10-19,Europe,Austria,,Vienna,51.2
+2019-10-20,Europe,Austria,,Vienna,55.3
+2019-10-21,Europe,Austria,,Vienna,56.6
+2019-10-22,Europe,Austria,,Vienna,56.7
+2019-10-23,Europe,Austria,,Vienna,59.1
+2019-10-24,Europe,Austria,,Vienna,63.5
+2019-10-25,Europe,Austria,,Vienna,58.8
+2019-10-26,Europe,Austria,,Vienna,52.5
+2019-10-27,Europe,Austria,,Vienna,56.1
+2019-10-28,Europe,Austria,,Vienna,50.6
+2019-10-29,Europe,Austria,,Vienna,46.1
+2019-10-30,Europe,Austria,,Vienna,40.8
+2019-10-31,Europe,Austria,,Vienna,37.5
+2019-11-01,Europe,Austria,,Vienna,42.7
+2019-11-02,Europe,Austria,,Vienna,46.2
+2019-11-03,Europe,Austria,,Vienna,59.2
+2019-11-04,Europe,Austria,,Vienna,55.1
+2019-11-05,Europe,Austria,,Vienna,46.9
+2019-11-06,Europe,Austria,,Vienna,49.0
+2019-11-07,Europe,Austria,,Vienna,48.2
+2019-11-08,Europe,Austria,,Vienna,48.7
+2019-11-09,Europe,Austria,,Vienna,45.7
+2019-11-10,Europe,Austria,,Vienna,41.0
+2019-11-11,Europe,Austria,,Vienna,40.4
+2019-11-12,Europe,Austria,,Vienna,42.9
+2019-11-13,Europe,Austria,,Vienna,39.4
+2019-11-14,Europe,Austria,,Vienna,41.3
+2019-11-15,Europe,Austria,,Vienna,47.0
+2019-11-16,Europe,Austria,,Vienna,52.2
+2019-11-17,Europe,Austria,,Vienna,53.2
+2019-11-18,Europe,Austria,,Vienna,49.1
+2019-11-19,Europe,Austria,,Vienna,49.1
+2019-11-20,Europe,Austria,,Vienna,46.9
+2019-11-21,Europe,Austria,,Vienna,49.7
+2019-11-22,Europe,Austria,,Vienna,47.8
+2019-11-23,Europe,Austria,,Vienna,42.9
+2019-11-24,Europe,Austria,,Vienna,42.3
+2019-11-25,Europe,Austria,,Vienna,40.5
+2019-11-26,Europe,Austria,,Vienna,42.5
+2019-11-27,Europe,Austria,,Vienna,43.4
+2019-11-28,Europe,Austria,,Vienna,46.7
+2019-11-29,Europe,Austria,,Vienna,50.1
+2019-11-30,Europe,Austria,,Vienna,38.3
+2019-12-01,Europe,Austria,,Vienna,33.9
+2019-12-02,Europe,Austria,,Vienna,35.5
+2019-12-03,Europe,Austria,,Vienna,35.8
+2019-12-04,Europe,Austria,,Vienna,29.8
+2019-12-05,Europe,Austria,,Vienna,30.2
+2019-12-06,Europe,Austria,,Vienna,30.7
+2019-12-07,Europe,Austria,,Vienna,37.4
+2019-12-08,Europe,Austria,,Vienna,39.2
+2019-12-09,Europe,Austria,,Vienna,36.6
+2019-12-10,Europe,Austria,,Vienna,40.1
+2019-12-11,Europe,Austria,,Vienna,30.7
+2019-12-12,Europe,Austria,,Vienna,29.5
+2019-12-13,Europe,Austria,,Vienna,32.8
+2019-12-14,Europe,Austria,,Vienna,40.4
+2019-12-15,Europe,Austria,,Vienna,38.4
+2019-12-16,Europe,Austria,,Vienna,36.7
+2019-12-17,Europe,Austria,,Vienna,37.4
+2019-12-18,Europe,Austria,,Vienna,38.4
+2019-12-19,Europe,Austria,,Vienna,46.4
+2019-12-20,Europe,Austria,,Vienna,50.0
+2019-12-21,Europe,Austria,,Vienna,49.5
+2019-12-22,Europe,Austria,,Vienna,39.0
+2019-12-23,Europe,Austria,,Vienna,44.8
+2019-12-24,Europe,Austria,,Vienna,45.0
+2019-12-25,Europe,Austria,,Vienna,46.4
+2019-12-26,Europe,Austria,,Vienna,41.4
+2019-12-27,Europe,Austria,,Vienna,40.2
+2019-12-28,Europe,Austria,,Vienna,35.0
+2019-12-29,Europe,Austria,,Vienna,32.9
+2019-12-30,Europe,Austria,,Vienna,29.6
+2019-12-31,Europe,Austria,,Vienna,38.0
+2019-01-01,Europe,Spain,,Barcelona,49.6
+2019-01-02,Europe,Spain,,Barcelona,46.2
+2019-01-03,Europe,Spain,,Barcelona,44.1
+2019-01-04,Europe,Spain,,Barcelona,43.1
+2019-01-05,Europe,Spain,,Barcelona,45.5
+2019-01-06,Europe,Spain,,Barcelona,50.6
+2019-01-07,Europe,Spain,,Barcelona,47.4
+2019-01-08,Europe,Spain,,Barcelona,44.3
+2019-01-09,Europe,Spain,,Barcelona,48.8
+2019-01-10,Europe,Spain,,Barcelona,44.7
+2019-01-11,Europe,Spain,,Barcelona,40.6
+2019-01-12,Europe,Spain,,Barcelona,43.1
+2019-01-13,Europe,Spain,,Barcelona,46.7
+2019-01-14,Europe,Spain,,Barcelona,52.2
+2019-01-15,Europe,Spain,,Barcelona,47.9
+2019-01-16,Europe,Spain,,Barcelona,48.8
+2019-01-17,Europe,Spain,,Barcelona,49.9
+2019-01-18,Europe,Spain,,Barcelona,45.2
+2019-01-19,Europe,Spain,,Barcelona,44.4
+2019-01-20,Europe,Spain,,Barcelona,45.9
+2019-01-21,Europe,Spain,,Barcelona,44.5
+2019-01-22,Europe,Spain,,Barcelona,42.5
+2019-01-23,Europe,Spain,,Barcelona,-99
+2019-01-24,Europe,Spain,,Barcelona,46.1
+2019-01-25,Europe,Spain,,Barcelona,45.2
+2019-01-26,Europe,Spain,,Barcelona,49.8
+2019-01-27,Europe,Spain,,Barcelona,50.4
+2019-01-28,Europe,Spain,,Barcelona,49.9
+2019-01-29,Europe,Spain,,Barcelona,46.3
+2019-01-30,Europe,Spain,,Barcelona,49.6
+2019-01-31,Europe,Spain,,Barcelona,52.1
+2019-02-01,Europe,Spain,,Barcelona,55.4
+2019-02-02,Europe,Spain,,Barcelona,49.2
+2019-02-03,Europe,Spain,,Barcelona,47.7
+2019-02-04,Europe,Spain,,Barcelona,45.3
+2019-02-05,Europe,Spain,,Barcelona,49.6
+2019-02-06,Europe,Spain,,Barcelona,50.8
+2019-02-07,Europe,Spain,,Barcelona,49.7
+2019-02-08,Europe,Spain,,Barcelona,50.4
+2019-02-09,Europe,Spain,,Barcelona,50.6
+2019-02-10,Europe,Spain,,Barcelona,54.1
+2019-02-11,Europe,Spain,,Barcelona,53.1
+2019-02-12,Europe,Spain,,Barcelona,49.2
+2019-02-13,Europe,Spain,,Barcelona,47.8
+2019-02-14,Europe,Spain,,Barcelona,46.9
+2019-02-15,Europe,Spain,,Barcelona,46.8
+2019-02-16,Europe,Spain,,Barcelona,47.7
+2019-02-17,Europe,Spain,,Barcelona,47.2
+2019-02-18,Europe,Spain,,Barcelona,50.3
+2019-02-19,Europe,Spain,,Barcelona,51.5
+2019-02-20,Europe,Spain,,Barcelona,52.5
+2019-02-21,Europe,Spain,,Barcelona,49.0
+2019-02-22,Europe,Spain,,Barcelona,54.1
+2019-02-23,Europe,Spain,,Barcelona,55.3
+2019-02-24,Europe,Spain,,Barcelona,51.8
+2019-02-25,Europe,Spain,,Barcelona,50.5
+2019-02-26,Europe,Spain,,Barcelona,53.8
+2019-02-27,Europe,Spain,,Barcelona,52.9
+2019-02-28,Europe,Spain,,Barcelona,54.6
+2019-03-01,Europe,Spain,,Barcelona,53.2
+2019-03-02,Europe,Spain,,Barcelona,54.5
+2019-03-03,Europe,Spain,,Barcelona,54.9
+2019-03-04,Europe,Spain,,Barcelona,60.4
+2019-03-05,Europe,Spain,,Barcelona,55.2
+2019-03-06,Europe,Spain,,Barcelona,54.9
+2019-03-07,Europe,Spain,,Barcelona,57.0
+2019-03-08,Europe,Spain,,Barcelona,53.5
+2019-03-09,Europe,Spain,,Barcelona,54.0
+2019-03-10,Europe,Spain,,Barcelona,56.5
+2019-03-11,Europe,Spain,,Barcelona,56.1
+2019-03-12,Europe,Spain,,Barcelona,56.0
+2019-03-13,Europe,Spain,,Barcelona,53.0
+2019-03-14,Europe,Spain,,Barcelona,53.5
+2019-03-15,Europe,Spain,,Barcelona,56.4
+2019-03-16,Europe,Spain,,Barcelona,55.5
+2019-03-17,Europe,Spain,,Barcelona,54.8
+2019-03-18,Europe,Spain,,Barcelona,52.6
+2019-03-19,Europe,Spain,,Barcelona,53.4
+2019-03-20,Europe,Spain,,Barcelona,52.6
+2019-03-21,Europe,Spain,,Barcelona,52.1
+2019-03-22,Europe,Spain,,Barcelona,55.8
+2019-03-23,Europe,Spain,,Barcelona,57.9
+2019-03-24,Europe,Spain,,Barcelona,60.0
+2019-03-25,Europe,Spain,,Barcelona,59.2
+2019-03-26,Europe,Spain,,Barcelona,56.8
+2019-03-27,Europe,Spain,,Barcelona,52.4
+2019-03-28,Europe,Spain,,Barcelona,53.5
+2019-03-29,Europe,Spain,,Barcelona,54.0
+2019-03-30,Europe,Spain,,Barcelona,53.2
+2019-03-31,Europe,Spain,,Barcelona,55.4
+2019-04-01,Europe,Spain,,Barcelona,56.9
+2019-04-02,Europe,Spain,,Barcelona,57.1
+2019-04-03,Europe,Spain,,Barcelona,56.8
+2019-04-04,Europe,Spain,,Barcelona,51.5
+2019-04-05,Europe,Spain,,Barcelona,53.1
+2019-04-06,Europe,Spain,,Barcelona,54.8
+2019-04-07,Europe,Spain,,Barcelona,52.9
+2019-04-08,Europe,Spain,,Barcelona,54.7
+2019-04-09,Europe,Spain,,Barcelona,54.7
+2019-04-10,Europe,Spain,,Barcelona,54.7
+2019-04-11,Europe,Spain,,Barcelona,57.9
+2019-04-12,Europe,Spain,,Barcelona,58.2
+2019-04-13,Europe,Spain,,Barcelona,57.3
+2019-04-14,Europe,Spain,,Barcelona,55.3
+2019-04-15,Europe,Spain,,Barcelona,56.6
+2019-04-16,Europe,Spain,,Barcelona,57.0
+2019-04-17,Europe,Spain,,Barcelona,57.4
+2019-04-18,Europe,Spain,,Barcelona,60.0
+2019-04-19,Europe,Spain,,Barcelona,62.8
+2019-04-20,Europe,Spain,,Barcelona,62.3
+2019-04-21,Europe,Spain,,Barcelona,61.8
+2019-04-22,Europe,Spain,,Barcelona,61.8
+2019-04-23,Europe,Spain,,Barcelona,59.8
+2019-04-24,Europe,Spain,,Barcelona,-99
+2019-04-25,Europe,Spain,,Barcelona,60.3
+2019-04-26,Europe,Spain,,Barcelona,62.1
+2019-04-27,Europe,Spain,,Barcelona,58.4
+2019-04-28,Europe,Spain,,Barcelona,57.1
+2019-04-29,Europe,Spain,,Barcelona,59.7
+2019-04-30,Europe,Spain,,Barcelona,61.0
+2019-05-01,Europe,Spain,,Barcelona,60.3
+2019-05-02,Europe,Spain,,Barcelona,59.8
+2019-05-03,Europe,Spain,,Barcelona,55.8
+2019-05-04,Europe,Spain,,Barcelona,57.4
+2019-05-05,Europe,Spain,,Barcelona,60.6
+2019-05-06,Europe,Spain,,Barcelona,57.7
+2019-05-07,Europe,Spain,,Barcelona,58.1
+2019-05-08,Europe,Spain,,Barcelona,62.4
+2019-05-09,Europe,Spain,,Barcelona,62.1
+2019-05-10,Europe,Spain,,Barcelona,63.4
+2019-05-11,Europe,Spain,,Barcelona,63.2
+2019-05-12,Europe,Spain,,Barcelona,60.9
+2019-05-13,Europe,Spain,,Barcelona,60.7
+2019-05-14,Europe,Spain,,Barcelona,60.6
+2019-05-15,Europe,Spain,,Barcelona,60.1
+2019-05-16,Europe,Spain,,Barcelona,-99
+2019-05-17,Europe,Spain,,Barcelona,-99
+2019-05-18,Europe,Spain,,Barcelona,-99
+2019-05-19,Europe,Spain,,Barcelona,-99
+2019-05-20,Europe,Spain,,Barcelona,59.5
+2019-05-21,Europe,Spain,,Barcelona,61.7
+2019-05-22,Europe,Spain,,Barcelona,63.2
+2019-05-23,Europe,Spain,,Barcelona,63.9
+2019-05-24,Europe,Spain,,Barcelona,60.3
+2019-05-25,Europe,Spain,,Barcelona,63.5
+2019-05-26,Europe,Spain,,Barcelona,66.0
+2019-05-27,Europe,Spain,,Barcelona,64.9
+2019-05-28,Europe,Spain,,Barcelona,63.7
+2019-05-29,Europe,Spain,,Barcelona,64.1
+2019-05-30,Europe,Spain,,Barcelona,63.1
+2019-05-31,Europe,Spain,,Barcelona,66.6
+2019-06-01,Europe,Spain,,Barcelona,67.5
+2019-06-02,Europe,Spain,,Barcelona,67.5
+2019-06-03,Europe,Spain,,Barcelona,68.1
+2019-06-04,Europe,Spain,,Barcelona,68.0
+2019-06-05,Europe,Spain,,Barcelona,68.8
+2019-06-06,Europe,Spain,,Barcelona,65.8
+2019-06-07,Europe,Spain,,Barcelona,69.0
+2019-06-08,Europe,Spain,,Barcelona,67.6
+2019-06-09,Europe,Spain,,Barcelona,69.0
+2019-06-10,Europe,Spain,,Barcelona,70.3
+2019-06-11,Europe,Spain,,Barcelona,59.7
+2019-06-12,Europe,Spain,,Barcelona,60.7
+2019-06-13,Europe,Spain,,Barcelona,64.1
+2019-06-14,Europe,Spain,,Barcelona,69.4
+2019-06-15,Europe,Spain,,Barcelona,67.6
+2019-06-16,Europe,Spain,,Barcelona,67.8
+2019-06-17,Europe,Spain,,Barcelona,68.9
+2019-06-18,Europe,Spain,,Barcelona,70.0
+2019-06-19,Europe,Spain,,Barcelona,69.5
+2019-06-20,Europe,Spain,,Barcelona,70.6
+2019-06-21,Europe,Spain,,Barcelona,71.5
+2019-06-22,Europe,Spain,,Barcelona,72.3
+2019-06-23,Europe,Spain,,Barcelona,72.6
+2019-06-24,Europe,Spain,,Barcelona,74.0
+2019-06-25,Europe,Spain,,Barcelona,76.0
+2019-06-26,Europe,Spain,,Barcelona,80.3
+2019-06-27,Europe,Spain,,Barcelona,79.0
+2019-06-28,Europe,Spain,,Barcelona,80.9
+2019-06-29,Europe,Spain,,Barcelona,81.9
+2019-06-30,Europe,Spain,,Barcelona,76.3
+2019-07-01,Europe,Spain,,Barcelona,76.8
+2019-07-02,Europe,Spain,,Barcelona,77.9
+2019-07-03,Europe,Spain,,Barcelona,78.6
+2019-07-04,Europe,Spain,,Barcelona,79.1
+2019-07-05,Europe,Spain,,Barcelona,79.0
+2019-07-06,Europe,Spain,,Barcelona,78.9
+2019-07-07,Europe,Spain,,Barcelona,80.1
+2019-07-08,Europe,Spain,,Barcelona,78.6
+2019-07-09,Europe,Spain,,Barcelona,77.7
+2019-07-10,Europe,Spain,,Barcelona,76.6
+2019-07-11,Europe,Spain,,Barcelona,77.5
+2019-07-12,Europe,Spain,,Barcelona,77.6
+2019-07-13,Europe,Spain,,Barcelona,78.6
+2019-07-14,Europe,Spain,,Barcelona,77.3
+2019-07-15,Europe,Spain,,Barcelona,78.0
+2019-07-16,Europe,Spain,,Barcelona,77.3
+2019-07-17,Europe,Spain,,Barcelona,76.2
+2019-07-18,Europe,Spain,,Barcelona,76.9
+2019-07-19,Europe,Spain,,Barcelona,78.0
+2019-07-20,Europe,Spain,,Barcelona,78.6
+2019-07-21,Europe,Spain,,Barcelona,78.9
+2019-07-22,Europe,Spain,,Barcelona,79.7
+2019-07-23,Europe,Spain,,Barcelona,80.7
+2019-07-24,Europe,Spain,,Barcelona,80.0
+2019-07-25,Europe,Spain,,Barcelona,79.7
+2019-07-26,Europe,Spain,,Barcelona,81.0
+2019-07-27,Europe,Spain,,Barcelona,76.3
+2019-07-28,Europe,Spain,,Barcelona,75.2
+2019-07-29,Europe,Spain,,Barcelona,76.6
+2019-07-30,Europe,Spain,,Barcelona,78.8
+2019-07-31,Europe,Spain,,Barcelona,77.0
+2019-08-01,Europe,Spain,,Barcelona,78.1
+2019-08-02,Europe,Spain,,Barcelona,78.6
+2019-08-03,Europe,Spain,,Barcelona,78.7
+2019-08-04,Europe,Spain,,Barcelona,78.8
+2019-08-05,Europe,Spain,,Barcelona,80.4
+2019-08-06,Europe,Spain,,Barcelona,79.8
+2019-08-07,Europe,Spain,,Barcelona,79.9
+2019-08-08,Europe,Spain,,Barcelona,81.1
+2019-08-09,Europe,Spain,,Barcelona,81.2
+2019-08-10,Europe,Spain,,Barcelona,81.0
+2019-08-11,Europe,Spain,,Barcelona,79.8
+2019-08-12,Europe,Spain,,Barcelona,76.7
+2019-08-13,Europe,Spain,,Barcelona,74.4
+2019-08-14,Europe,Spain,,Barcelona,75.4
+2019-08-15,Europe,Spain,,Barcelona,77.8
+2019-08-16,Europe,Spain,,Barcelona,76.7
+2019-08-17,Europe,Spain,,Barcelona,77.8
+2019-08-18,Europe,Spain,,Barcelona,78.7
+2019-08-19,Europe,Spain,,Barcelona,78.7
+2019-08-20,Europe,Spain,,Barcelona,78.0
+2019-08-21,Europe,Spain,,Barcelona,75.6
+2019-08-22,Europe,Spain,,Barcelona,78.1
+2019-08-23,Europe,Spain,,Barcelona,76.5
+2019-08-24,Europe,Spain,,Barcelona,77.2
+2019-08-25,Europe,Spain,,Barcelona,78.0
+2019-08-26,Europe,Spain,,Barcelona,76.8
+2019-08-27,Europe,Spain,,Barcelona,76.1
+2019-08-28,Europe,Spain,,Barcelona,77.2
+2019-08-29,Europe,Spain,,Barcelona,78.6
+2019-08-30,Europe,Spain,,Barcelona,79.6
+2019-08-31,Europe,Spain,,Barcelona,79.6
+2019-09-01,Europe,Spain,,Barcelona,77.6
+2019-09-02,Europe,Spain,,Barcelona,77.4
+2019-09-03,Europe,Spain,,Barcelona,74.9
+2019-09-04,Europe,Spain,,Barcelona,74.7
+2019-09-05,Europe,Spain,,Barcelona,73.8
+2019-09-06,Europe,Spain,,Barcelona,72.5
+2019-09-07,Europe,Spain,,Barcelona,70.6
+2019-09-08,Europe,Spain,,Barcelona,71.2
+2019-09-09,Europe,Spain,,Barcelona,72.1
+2019-09-10,Europe,Spain,,Barcelona,64.0
+2019-09-11,Europe,Spain,,Barcelona,69.7
+2019-09-12,Europe,Spain,,Barcelona,72.4
+2019-09-13,Europe,Spain,,Barcelona,71.8
+2019-09-14,Europe,Spain,,Barcelona,74.4
+2019-09-15,Europe,Spain,,Barcelona,75.1
+2019-09-16,Europe,Spain,,Barcelona,73.5
+2019-09-17,Europe,Spain,,Barcelona,72.6
+2019-09-18,Europe,Spain,,Barcelona,74.3
+2019-09-19,Europe,Spain,,Barcelona,72.9
+2019-09-20,Europe,Spain,,Barcelona,71.9
+2019-09-21,Europe,Spain,,Barcelona,71.5
+2019-09-22,Europe,Spain,,Barcelona,72.1
+2019-09-23,Europe,Spain,,Barcelona,71.0
+2019-09-24,Europe,Spain,,Barcelona,72.3
+2019-09-25,Europe,Spain,,Barcelona,72.2
+2019-09-26,Europe,Spain,,Barcelona,72.1
+2019-09-27,Europe,Spain,,Barcelona,72.6
+2019-09-28,Europe,Spain,,Barcelona,72.9
+2019-09-29,Europe,Spain,,Barcelona,72.5
+2019-09-30,Europe,Spain,,Barcelona,72.3
+2019-10-01,Europe,Spain,,Barcelona,72.2
+2019-10-02,Europe,Spain,,Barcelona,72.0
+2019-10-03,Europe,Spain,,Barcelona,68.2
+2019-10-04,Europe,Spain,,Barcelona,69.1
+2019-10-05,Europe,Spain,,Barcelona,68.4
+2019-10-06,Europe,Spain,,Barcelona,69.5
+2019-10-07,Europe,Spain,,Barcelona,68.6
+2019-10-08,Europe,Spain,,Barcelona,69.3
+2019-10-09,Europe,Spain,,Barcelona,69.4
+2019-10-10,Europe,Spain,,Barcelona,67.3
+2019-10-11,Europe,Spain,,Barcelona,69.3
+2019-10-12,Europe,Spain,,Barcelona,70.4
+2019-10-13,Europe,Spain,,Barcelona,72.5
+2019-10-14,Europe,Spain,,Barcelona,71.4
+2019-10-15,Europe,Spain,,Barcelona,64.5
+2019-10-16,Europe,Spain,,Barcelona,63.5
+2019-10-17,Europe,Spain,,Barcelona,65.5
+2019-10-18,Europe,Spain,,Barcelona,66.4
+2019-10-19,Europe,Spain,,Barcelona,68.3
+2019-10-20,Europe,Spain,,Barcelona,70.6
+2019-10-21,Europe,Spain,,Barcelona,61.7
+2019-10-22,Europe,Spain,,Barcelona,64.6
+2019-10-23,Europe,Spain,,Barcelona,63.5
+2019-10-24,Europe,Spain,,Barcelona,60.6
+2019-10-25,Europe,Spain,,Barcelona,61.0
+2019-10-26,Europe,Spain,,Barcelona,61.5
+2019-10-27,Europe,Spain,,Barcelona,62.2
+2019-10-28,Europe,Spain,,Barcelona,62.7
+2019-10-29,Europe,Spain,,Barcelona,62.6
+2019-10-30,Europe,Spain,,Barcelona,64.2
+2019-10-31,Europe,Spain,,Barcelona,64.4
+2019-11-01,Europe,Spain,,Barcelona,62.4
+2019-11-02,Europe,Spain,,Barcelona,65.8
+2019-11-03,Europe,Spain,,Barcelona,65.2
+2019-11-04,Europe,Spain,,Barcelona,65.7
+2019-11-05,Europe,Spain,,Barcelona,61.7
+2019-11-06,Europe,Spain,,Barcelona,58.3
+2019-11-07,Europe,Spain,,Barcelona,55.6
+2019-11-08,Europe,Spain,,Barcelona,53.1
+2019-11-09,Europe,Spain,,Barcelona,53.8
+2019-11-10,Europe,Spain,,Barcelona,52.8
+2019-11-11,Europe,Spain,,Barcelona,50.5
+2019-11-12,Europe,Spain,,Barcelona,54.8
+2019-11-13,Europe,Spain,,Barcelona,51.0
+2019-11-14,Europe,Spain,,Barcelona,49.7
+2019-11-15,Europe,Spain,,Barcelona,46.9
+2019-11-16,Europe,Spain,,Barcelona,47.3
+2019-11-17,Europe,Spain,,Barcelona,48.6
+2019-11-18,Europe,Spain,,Barcelona,50.8
+2019-11-19,Europe,Spain,,Barcelona,46.7
+2019-11-20,Europe,Spain,,Barcelona,46.0
+2019-11-21,Europe,Spain,,Barcelona,50.5
+2019-11-22,Europe,Spain,,Barcelona,54.2
+2019-11-23,Europe,Spain,,Barcelona,56.7
+2019-11-24,Europe,Spain,,Barcelona,54.2
+2019-11-25,Europe,Spain,,Barcelona,53.0
+2019-11-26,Europe,Spain,,Barcelona,55.2
+2019-11-27,Europe,Spain,,Barcelona,60.2
+2019-11-28,Europe,Spain,,Barcelona,59.2
+2019-11-29,Europe,Spain,,Barcelona,58.1
+2019-11-30,Europe,Spain,,Barcelona,56.0
+2019-12-01,Europe,Spain,,Barcelona,56.5
+2019-12-02,Europe,Spain,,Barcelona,51.4
+2019-12-03,Europe,Spain,,Barcelona,51.5
+2019-12-04,Europe,Spain,,Barcelona,54.9
+2019-12-05,Europe,Spain,,Barcelona,54.5
+2019-12-06,Europe,Spain,,Barcelona,54.2
+2019-12-07,Europe,Spain,,Barcelona,52.4
+2019-12-08,Europe,Spain,,Barcelona,49.3
+2019-12-09,Europe,Spain,,Barcelona,54.2
+2019-12-10,Europe,Spain,,Barcelona,49.6
+2019-12-11,Europe,Spain,,Barcelona,48.7
+2019-12-12,Europe,Spain,,Barcelona,52.7
+2019-12-13,Europe,Spain,,Barcelona,62.3
+2019-12-14,Europe,Spain,,Barcelona,61.1
+2019-12-15,Europe,Spain,,Barcelona,53.7
+2019-12-16,Europe,Spain,,Barcelona,52.0
+2019-12-17,Europe,Spain,,Barcelona,57.0
+2019-12-18,Europe,Spain,,Barcelona,56.5
+2019-12-19,Europe,Spain,,Barcelona,53.6
+2019-12-20,Europe,Spain,,Barcelona,58.8
+2019-12-21,Europe,Spain,,Barcelona,60.2
+2019-12-22,Europe,Spain,,Barcelona,62.0
+2019-12-23,Europe,Spain,,Barcelona,56.0
+2019-12-24,Europe,Spain,,Barcelona,53.0
+2019-12-25,Europe,Spain,,Barcelona,53.9
+2019-12-26,Europe,Spain,,Barcelona,53.4
+2019-12-27,Europe,Spain,,Barcelona,50.1
+2019-12-28,Europe,Spain,,Barcelona,48.3
+2019-12-29,Europe,Spain,,Barcelona,50.7
+2019-12-30,Europe,Spain,,Barcelona,50.9
+2019-12-31,Europe,Spain,,Barcelona,47.9
+2019-01-01,Europe,United Kingdom,,London,47.3
+2019-01-02,Europe,United Kingdom,,London,41.4
+2019-01-03,Europe,United Kingdom,,London,40.7
+2019-01-04,Europe,United Kingdom,,London,37.5
+2019-01-05,Europe,United Kingdom,,London,40.2
+2019-01-06,Europe,United Kingdom,,London,46.0
+2019-01-07,Europe,United Kingdom,,London,48.6
+2019-01-08,Europe,United Kingdom,,London,44.8
+2019-01-09,Europe,United Kingdom,,London,39.6
+2019-01-10,Europe,United Kingdom,,London,37.9
+2019-01-11,Europe,United Kingdom,,London,45.5
+2019-01-12,Europe,United Kingdom,,London,48.1
+2019-01-13,Europe,United Kingdom,,London,50.9
+2019-01-14,Europe,United Kingdom,,London,46.6
+2019-01-15,Europe,United Kingdom,,London,43.8
+2019-01-16,Europe,United Kingdom,,London,45.6
+2019-01-17,Europe,United Kingdom,,London,38.3
+2019-01-18,Europe,United Kingdom,,London,36.1
+2019-01-19,Europe,United Kingdom,,London,39.4
+2019-01-20,Europe,United Kingdom,,London,35.6
+2019-01-21,Europe,United Kingdom,,London,35.3
+2019-01-22,Europe,United Kingdom,,London,38.4
+2019-01-23,Europe,United Kingdom,,London,-99
+2019-01-24,Europe,United Kingdom,,London,34.3
+2019-01-25,Europe,United Kingdom,,London,44.9
+2019-01-26,Europe,United Kingdom,,London,47.0
+2019-01-27,Europe,United Kingdom,,London,42.4
+2019-01-28,Europe,United Kingdom,,London,37.3
+2019-01-29,Europe,United Kingdom,,London,35.4
+2019-01-30,Europe,United Kingdom,,London,34.5
+2019-01-31,Europe,United Kingdom,,London,31.4
+2019-02-01,Europe,United Kingdom,,London,34.7
+2019-02-02,Europe,United Kingdom,,London,36.9
+2019-02-03,Europe,United Kingdom,,London,35.5
+2019-02-04,Europe,United Kingdom,,London,44.7
+2019-02-05,Europe,United Kingdom,,London,43.7
+2019-02-06,Europe,United Kingdom,,London,48.4
+2019-02-07,Europe,United Kingdom,,London,46.4
+2019-02-08,Europe,United Kingdom,,London,48.6
+2019-02-09,Europe,United Kingdom,,London,47.0
+2019-02-10,Europe,United Kingdom,,London,42.5
+2019-02-11,Europe,United Kingdom,,London,42.8
+2019-02-12,Europe,United Kingdom,,London,43.7
+2019-02-13,Europe,United Kingdom,,London,45.7
+2019-02-14,Europe,United Kingdom,,London,43.2
+2019-02-15,Europe,United Kingdom,,London,44.3
+2019-02-16,Europe,United Kingdom,,London,47.4
+2019-02-17,Europe,United Kingdom,,London,49.0
+2019-02-18,Europe,United Kingdom,,London,46.6
+2019-02-19,Europe,United Kingdom,,London,44.6
+2019-02-20,Europe,United Kingdom,,London,47.7
+2019-02-21,Europe,United Kingdom,,London,50.2
+2019-02-22,Europe,United Kingdom,,London,47.7
+2019-02-23,Europe,United Kingdom,,London,49.7
+2019-02-24,Europe,United Kingdom,,London,47.8
+2019-02-25,Europe,United Kingdom,,London,48.8
+2019-02-26,Europe,United Kingdom,,London,51.0
+2019-02-27,Europe,United Kingdom,,London,51.0
+2019-02-28,Europe,United Kingdom,,London,48.8
+2019-03-01,Europe,United Kingdom,,London,49.1
+2019-03-02,Europe,United Kingdom,,London,51.3
+2019-03-03,Europe,United Kingdom,,London,51.6
+2019-03-04,Europe,United Kingdom,,London,44.1
+2019-03-05,Europe,United Kingdom,,London,45.8
+2019-03-06,Europe,United Kingdom,,London,50.7
+2019-03-07,Europe,United Kingdom,,London,46.8
+2019-03-08,Europe,United Kingdom,,London,45.6
+2019-03-09,Europe,United Kingdom,,London,49.0
+2019-03-10,Europe,United Kingdom,,London,45.2
+2019-03-11,Europe,United Kingdom,,London,44.5
+2019-03-12,Europe,United Kingdom,,London,45.0
+2019-03-13,Europe,United Kingdom,,London,47.7
+2019-03-14,Europe,United Kingdom,,London,50.7
+2019-03-15,Europe,United Kingdom,,London,54.1
+2019-03-16,Europe,United Kingdom,,London,52.0
+2019-03-17,Europe,United Kingdom,,London,44.2
+2019-03-18,Europe,United Kingdom,,London,44.8
+2019-03-19,Europe,United Kingdom,,London,48.9
+2019-03-20,Europe,United Kingdom,,London,51.5
+2019-03-21,Europe,United Kingdom,,London,52.5
+2019-03-22,Europe,United Kingdom,,London,50.1
+2019-03-23,Europe,United Kingdom,,London,50.2
+2019-03-24,Europe,United Kingdom,,London,47.5
+2019-03-25,Europe,United Kingdom,,London,48.3
+2019-03-26,Europe,United Kingdom,,London,46.2
+2019-03-27,Europe,United Kingdom,,London,49.5
+2019-03-28,Europe,United Kingdom,,London,51.3
+2019-03-29,Europe,United Kingdom,,London,51.6
+2019-03-30,Europe,United Kingdom,,London,54.6
+2019-03-31,Europe,United Kingdom,,London,49.0
+2019-04-01,Europe,United Kingdom,,London,47.0
+2019-04-02,Europe,United Kingdom,,London,42.6
+2019-04-03,Europe,United Kingdom,,London,39.6
+2019-04-04,Europe,United Kingdom,,London,42.1
+2019-04-05,Europe,United Kingdom,,London,49.0
+2019-04-06,Europe,United Kingdom,,London,47.4
+2019-04-07,Europe,United Kingdom,,London,48.2
+2019-04-08,Europe,United Kingdom,,London,49.5
+2019-04-09,Europe,United Kingdom,,London,48.3
+2019-04-10,Europe,United Kingdom,,London,46.8
+2019-04-11,Europe,United Kingdom,,London,43.8
+2019-04-12,Europe,United Kingdom,,London,43.4
+2019-04-13,Europe,United Kingdom,,London,41.1
+2019-04-14,Europe,United Kingdom,,London,41.1
+2019-04-15,Europe,United Kingdom,,London,48.1
+2019-04-16,Europe,United Kingdom,,London,51.5
+2019-04-17,Europe,United Kingdom,,London,54.4
+2019-04-18,Europe,United Kingdom,,London,57.4
+2019-04-19,Europe,United Kingdom,,London,60.4
+2019-04-20,Europe,United Kingdom,,London,62.0
+2019-04-21,Europe,United Kingdom,,London,59.6
+2019-04-22,Europe,United Kingdom,,London,62.3
+2019-04-23,Europe,United Kingdom,,London,60.8
+2019-04-24,Europe,United Kingdom,,London,-99
+2019-04-25,Europe,United Kingdom,,London,54.1
+2019-04-26,Europe,United Kingdom,,London,52.2
+2019-04-27,Europe,United Kingdom,,London,49.4
+2019-04-28,Europe,United Kingdom,,London,51.1
+2019-04-29,Europe,United Kingdom,,London,51.0
+2019-04-30,Europe,United Kingdom,,London,53.5
+2019-05-01,Europe,United Kingdom,,London,53.3
+2019-05-02,Europe,United Kingdom,,London,52.6
+2019-05-03,Europe,United Kingdom,,London,49.4
+2019-05-04,Europe,United Kingdom,,London,45.6
+2019-05-05,Europe,United Kingdom,,London,46.6
+2019-05-06,Europe,United Kingdom,,London,48.1
+2019-05-07,Europe,United Kingdom,,London,52.1
+2019-05-08,Europe,United Kingdom,,London,51.4
+2019-05-09,Europe,United Kingdom,,London,50.3
+2019-05-10,Europe,United Kingdom,,London,50.9
+2019-05-11,Europe,United Kingdom,,London,53.2
+2019-05-12,Europe,United Kingdom,,London,52.5
+2019-05-13,Europe,United Kingdom,,London,52.9
+2019-05-14,Europe,United Kingdom,,London,55.0
+2019-05-15,Europe,United Kingdom,,London,56.9
+2019-05-16,Europe,United Kingdom,,London,-99
+2019-05-17,Europe,United Kingdom,,London,-99
+2019-05-18,Europe,United Kingdom,,London,-99
+2019-05-19,Europe,United Kingdom,,London,-99
+2019-05-20,Europe,United Kingdom,,London,60.4
+2019-05-21,Europe,United Kingdom,,London,60.3
+2019-05-22,Europe,United Kingdom,,London,61.2
+2019-05-23,Europe,United Kingdom,,London,62.5
+2019-05-24,Europe,United Kingdom,,London,62.4
+2019-05-25,Europe,United Kingdom,,London,65.4
+2019-05-26,Europe,United Kingdom,,London,63.0
+2019-05-27,Europe,United Kingdom,,London,57.6
+2019-05-28,Europe,United Kingdom,,London,55.1
+2019-05-29,Europe,United Kingdom,,London,54.7
+2019-05-30,Europe,United Kingdom,,London,65.5
+2019-05-31,Europe,United Kingdom,,London,62.5
+2019-06-01,Europe,United Kingdom,,London,66.6
+2019-06-02,Europe,United Kingdom,,London,67.5
+2019-06-03,Europe,United Kingdom,,London,60.6
+2019-06-04,Europe,United Kingdom,,London,57.7
+2019-06-05,Europe,United Kingdom,,London,59.4
+2019-06-06,Europe,United Kingdom,,London,58.3
+2019-06-07,Europe,United Kingdom,,London,57.7
+2019-06-08,Europe,United Kingdom,,London,58.4
+2019-06-09,Europe,United Kingdom,,London,57.8
+2019-06-10,Europe,United Kingdom,,London,52.6
+2019-06-11,Europe,United Kingdom,,London,55.8
+2019-06-12,Europe,United Kingdom,,London,55.0
+2019-06-13,Europe,United Kingdom,,London,54.8
+2019-06-14,Europe,United Kingdom,,London,59.6
+2019-06-15,Europe,United Kingdom,,London,58.6
+2019-06-16,Europe,United Kingdom,,London,59.3
+2019-06-17,Europe,United Kingdom,,London,62.3
+2019-06-18,Europe,United Kingdom,,London,60.1
+2019-06-19,Europe,United Kingdom,,London,61.9
+2019-06-20,Europe,United Kingdom,,London,61.0
+2019-06-21,Europe,United Kingdom,,London,61.0
+2019-06-22,Europe,United Kingdom,,London,62.8
+2019-06-23,Europe,United Kingdom,,London,65.7
+2019-06-24,Europe,United Kingdom,,London,69.9
+2019-06-25,Europe,United Kingdom,,London,67.9
+2019-06-26,Europe,United Kingdom,,London,63.3
+2019-06-27,Europe,United Kingdom,,London,63.5
+2019-06-28,Europe,United Kingdom,,London,64.3
+2019-06-29,Europe,United Kingdom,,London,75.9
+2019-06-30,Europe,United Kingdom,,London,67.1
+2019-07-01,Europe,United Kingdom,,London,64.6
+2019-07-02,Europe,United Kingdom,,London,62.8
+2019-07-03,Europe,United Kingdom,,London,65.0
+2019-07-04,Europe,United Kingdom,,London,68.0
+2019-07-05,Europe,United Kingdom,,London,70.7
+2019-07-06,Europe,United Kingdom,,London,67.4
+2019-07-07,Europe,United Kingdom,,London,63.4
+2019-07-08,Europe,United Kingdom,,London,65.0
+2019-07-09,Europe,United Kingdom,,London,67.3
+2019-07-10,Europe,United Kingdom,,London,69.8
+2019-07-11,Europe,United Kingdom,,London,69.8
+2019-07-12,Europe,United Kingdom,,London,69.5
+2019-07-13,Europe,United Kingdom,,London,66.8
+2019-07-14,Europe,United Kingdom,,London,63.6
+2019-07-15,Europe,United Kingdom,,London,62.8
+2019-07-16,Europe,United Kingdom,,London,67.7
+2019-07-17,Europe,United Kingdom,,London,68.7
+2019-07-18,Europe,United Kingdom,,London,66.3
+2019-07-19,Europe,United Kingdom,,London,62.1
+2019-07-20,Europe,United Kingdom,,London,67.3
+2019-07-21,Europe,United Kingdom,,London,65.5
+2019-07-22,Europe,United Kingdom,,London,70.8
+2019-07-23,Europe,United Kingdom,,London,77.9
+2019-07-24,Europe,United Kingdom,,London,78.7
+2019-07-25,Europe,United Kingdom,,London,83.4
+2019-07-26,Europe,United Kingdom,,London,71.7
+2019-07-27,Europe,United Kingdom,,London,64.2
+2019-07-28,Europe,United Kingdom,,London,66.2
+2019-07-29,Europe,United Kingdom,,London,68.2
+2019-07-30,Europe,United Kingdom,,London,64.7
+2019-07-31,Europe,United Kingdom,,London,67.4
+2019-08-01,Europe,United Kingdom,,London,68.1
+2019-08-02,Europe,United Kingdom,,London,69.0
+2019-08-03,Europe,United Kingdom,,London,67.7
+2019-08-04,Europe,United Kingdom,,London,68.6
+2019-08-05,Europe,United Kingdom,,London,67.9
+2019-08-06,Europe,United Kingdom,,London,66.6
+2019-08-07,Europe,United Kingdom,,London,65.5
+2019-08-08,Europe,United Kingdom,,London,66.8
+2019-08-09,Europe,United Kingdom,,London,68.4
+2019-08-10,Europe,United Kingdom,,London,66.0
+2019-08-11,Europe,United Kingdom,,London,65.8
+2019-08-12,Europe,United Kingdom,,London,60.1
+2019-08-13,Europe,United Kingdom,,London,62.1
+2019-08-14,Europe,United Kingdom,,London,60.4
+2019-08-15,Europe,United Kingdom,,London,65.6
+2019-08-16,Europe,United Kingdom,,London,61.0
+2019-08-17,Europe,United Kingdom,,London,65.4
+2019-08-18,Europe,United Kingdom,,London,62.3
+2019-08-19,Europe,United Kingdom,,London,61.8
+2019-08-20,Europe,United Kingdom,,London,61.3
+2019-08-21,Europe,United Kingdom,,London,61.9
+2019-08-22,Europe,United Kingdom,,London,64.8
+2019-08-23,Europe,United Kingdom,,London,68.1
+2019-08-24,Europe,United Kingdom,,London,71.2
+2019-08-25,Europe,United Kingdom,,London,76.8
+2019-08-26,Europe,United Kingdom,,London,76.6
+2019-08-27,Europe,United Kingdom,,London,76.3
+2019-08-28,Europe,United Kingdom,,London,68.4
+2019-08-29,Europe,United Kingdom,,London,63.7
+2019-08-30,Europe,United Kingdom,,London,64.7
+2019-08-31,Europe,United Kingdom,,London,62.5
+2019-09-01,Europe,United Kingdom,,London,60.6
+2019-09-02,Europe,United Kingdom,,London,60.8
+2019-09-03,Europe,United Kingdom,,London,64.2
+2019-09-04,Europe,United Kingdom,,London,63.0
+2019-09-05,Europe,United Kingdom,,London,58.6
+2019-09-06,Europe,United Kingdom,,London,56.7
+2019-09-07,Europe,United Kingdom,,London,58.1
+2019-09-08,Europe,United Kingdom,,London,55.0
+2019-09-09,Europe,United Kingdom,,London,56.6
+2019-09-10,Europe,United Kingdom,,London,60.0
+2019-09-11,Europe,United Kingdom,,London,63.5
+2019-09-12,Europe,United Kingdom,,London,65.2
+2019-09-13,Europe,United Kingdom,,London,63.3
+2019-09-14,Europe,United Kingdom,,London,61.8
+2019-09-15,Europe,United Kingdom,,London,65.2
+2019-09-16,Europe,United Kingdom,,London,62.7
+2019-09-17,Europe,United Kingdom,,London,58.8
+2019-09-18,Europe,United Kingdom,,London,57.1
+2019-09-19,Europe,United Kingdom,,London,58.6
+2019-09-20,Europe,United Kingdom,,London,59.8
+2019-09-21,Europe,United Kingdom,,London,64.8
+2019-09-22,Europe,United Kingdom,,London,64.0
+2019-09-23,Europe,United Kingdom,,London,60.7
+2019-09-24,Europe,United Kingdom,,London,62.3
+2019-09-25,Europe,United Kingdom,,London,62.8
+2019-09-26,Europe,United Kingdom,,London,62.1
+2019-09-27,Europe,United Kingdom,,London,59.4
+2019-09-28,Europe,United Kingdom,,London,59.6
+2019-09-29,Europe,United Kingdom,,London,60.8
+2019-09-30,Europe,United Kingdom,,London,57.4
+2019-10-01,Europe,United Kingdom,,London,60.2
+2019-10-02,Europe,United Kingdom,,London,50.7
+2019-10-03,Europe,United Kingdom,,London,48.9
+2019-10-04,Europe,United Kingdom,,London,56.2
+2019-10-05,Europe,United Kingdom,,London,56.4
+2019-10-06,Europe,United Kingdom,,London,58.0
+2019-10-07,Europe,United Kingdom,,London,55.7
+2019-10-08,Europe,United Kingdom,,London,56.7
+2019-10-09,Europe,United Kingdom,,London,54.1
+2019-10-10,Europe,United Kingdom,,London,56.1
+2019-10-11,Europe,United Kingdom,,London,59.8
+2019-10-12,Europe,United Kingdom,,London,52.8
+2019-10-13,Europe,United Kingdom,,London,56.6
+2019-10-14,Europe,United Kingdom,,London,55.1
+2019-10-15,Europe,United Kingdom,,London,55.0
+2019-10-16,Europe,United Kingdom,,London,55.2
+2019-10-17,Europe,United Kingdom,,London,52.7
+2019-10-18,Europe,United Kingdom,,London,53.2
+2019-10-19,Europe,United Kingdom,,London,52.3
+2019-10-20,Europe,United Kingdom,,London,48.4
+2019-10-21,Europe,United Kingdom,,London,53.0
+2019-10-22,Europe,United Kingdom,,London,50.4
+2019-10-23,Europe,United Kingdom,,London,50.1
+2019-10-24,Europe,United Kingdom,,London,53.3
+2019-10-25,Europe,United Kingdom,,London,56.2
+2019-10-26,Europe,United Kingdom,,London,56.7
+2019-10-27,Europe,United Kingdom,,London,45.7
+2019-10-28,Europe,United Kingdom,,London,43.6
+2019-10-29,Europe,United Kingdom,,London,47.9
+2019-10-30,Europe,United Kingdom,,London,48.5
+2019-10-31,Europe,United Kingdom,,London,47.0
+2019-11-01,Europe,United Kingdom,,London,55.6
+2019-11-02,Europe,United Kingdom,,London,53.5
+2019-11-03,Europe,United Kingdom,,London,48.3
+2019-11-04,Europe,United Kingdom,,London,48.2
+2019-11-05,Europe,United Kingdom,,London,49.3
+2019-11-06,Europe,United Kingdom,,London,44.6
+2019-11-07,Europe,United Kingdom,,London,45.6
+2019-11-08,Europe,United Kingdom,,London,40.7
+2019-11-09,Europe,United Kingdom,,London,40.4
+2019-11-10,Europe,United Kingdom,,London,45.5
+2019-11-11,Europe,United Kingdom,,London,45.0
+2019-11-12,Europe,United Kingdom,,London,43.5
+2019-11-13,Europe,United Kingdom,,London,42.9
+2019-11-14,Europe,United Kingdom,,London,42.7
+2019-11-15,Europe,United Kingdom,,London,43.1
+2019-11-16,Europe,United Kingdom,,London,43.1
+2019-11-17,Europe,United Kingdom,,London,41.8
+2019-11-18,Europe,United Kingdom,,London,44.1
+2019-11-19,Europe,United Kingdom,,London,36.4
+2019-11-20,Europe,United Kingdom,,London,40.7
+2019-11-21,Europe,United Kingdom,,London,40.2
+2019-11-22,Europe,United Kingdom,,London,46.1
+2019-11-23,Europe,United Kingdom,,London,48.7
+2019-11-24,Europe,United Kingdom,,London,48.9
+2019-11-25,Europe,United Kingdom,,London,50.7
+2019-11-26,Europe,United Kingdom,,London,52.5
+2019-11-27,Europe,United Kingdom,,London,50.4
+2019-11-28,Europe,United Kingdom,,London,47.8
+2019-11-29,Europe,United Kingdom,,London,40.8
+2019-11-30,Europe,United Kingdom,,London,38.3
+2019-12-01,Europe,United Kingdom,,London,39.1
+2019-12-02,Europe,United Kingdom,,London,36.8
+2019-12-03,Europe,United Kingdom,,London,41.0
+2019-12-04,Europe,United Kingdom,,London,38.9
+2019-12-05,Europe,United Kingdom,,London,40.2
+2019-12-06,Europe,United Kingdom,,London,52.0
+2019-12-07,Europe,United Kingdom,,London,49.2
+2019-12-08,Europe,United Kingdom,,London,49.0
+2019-12-09,Europe,United Kingdom,,London,45.7
+2019-12-10,Europe,United Kingdom,,London,44.4
+2019-12-11,Europe,United Kingdom,,London,41.8
+2019-12-12,Europe,United Kingdom,,London,41.7
+2019-12-13,Europe,United Kingdom,,London,44.8
+2019-12-14,Europe,United Kingdom,,London,43.6
+2019-12-15,Europe,United Kingdom,,London,45.4
+2019-12-16,Europe,United Kingdom,,London,45.0
+2019-12-17,Europe,United Kingdom,,London,44.1
+2019-12-18,Europe,United Kingdom,,London,43.7
+2019-12-19,Europe,United Kingdom,,London,53.1
+2019-12-20,Europe,United Kingdom,,London,46.8
+2019-12-21,Europe,United Kingdom,,London,46.8
+2019-12-22,Europe,United Kingdom,,London,46.5
+2019-12-23,Europe,United Kingdom,,London,46.9
+2019-12-24,Europe,United Kingdom,,London,48.9
+2019-12-25,Europe,United Kingdom,,London,41.6
+2019-12-26,Europe,United Kingdom,,London,44.6
+2019-12-27,Europe,United Kingdom,,London,45.1
+2019-12-28,Europe,United Kingdom,,London,46.4
+2019-12-29,Europe,United Kingdom,,London,45.1
+2019-12-30,Europe,United Kingdom,,London,43.7
+2019-12-31,Europe,United Kingdom,,London,45.1
+2019-01-01,South/Central America & Carribean,Argentina,,Buenos Aires,78.4
+2019-01-02,South/Central America & Carribean,Argentina,,Buenos Aires,79.1
+2019-01-03,South/Central America & Carribean,Argentina,,Buenos Aires,69.4
+2019-01-04,South/Central America & Carribean,Argentina,,Buenos Aires,72.6
+2019-01-05,South/Central America & Carribean,Argentina,,Buenos Aires,76.8
+2019-01-06,South/Central America & Carribean,Argentina,,Buenos Aires,74.9
+2019-01-07,South/Central America & Carribean,Argentina,,Buenos Aires,74.1
+2019-01-08,South/Central America & Carribean,Argentina,,Buenos Aires,79.0
+2019-01-09,South/Central America & Carribean,Argentina,,Buenos Aires,77.5
+2019-01-10,South/Central America & Carribean,Argentina,,Buenos Aires,68.5
+2019-01-11,South/Central America & Carribean,Argentina,,Buenos Aires,63.8
+2019-01-12,South/Central America & Carribean,Argentina,,Buenos Aires,72.4
+2019-01-13,South/Central America & Carribean,Argentina,,Buenos Aires,74.0
+2019-01-14,South/Central America & Carribean,Argentina,,Buenos Aires,74.5
+2019-01-15,South/Central America & Carribean,Argentina,,Buenos Aires,70.6
+2019-01-16,South/Central America & Carribean,Argentina,,Buenos Aires,72.4
+2019-01-17,South/Central America & Carribean,Argentina,,Buenos Aires,69.5
+2019-01-18,South/Central America & Carribean,Argentina,,Buenos Aires,64.2
+2019-01-19,South/Central America & Carribean,Argentina,,Buenos Aires,66.5
+2019-01-20,South/Central America & Carribean,Argentina,,Buenos Aires,71.5
+2019-01-21,South/Central America & Carribean,Argentina,,Buenos Aires,75.3
+2019-01-22,South/Central America & Carribean,Argentina,,Buenos Aires,81.3
+2019-01-23,South/Central America & Carribean,Argentina,,Buenos Aires,-99
+2019-01-24,South/Central America & Carribean,Argentina,,Buenos Aires,78.7
+2019-01-25,South/Central America & Carribean,Argentina,,Buenos Aires,74.8
+2019-01-26,South/Central America & Carribean,Argentina,,Buenos Aires,78.3
+2019-01-27,South/Central America & Carribean,Argentina,,Buenos Aires,81.2
+2019-01-28,South/Central America & Carribean,Argentina,,Buenos Aires,85.6
+2019-01-29,South/Central America & Carribean,Argentina,,Buenos Aires,87.4
+2019-01-30,South/Central America & Carribean,Argentina,,Buenos Aires,78.2
+2019-01-31,South/Central America & Carribean,Argentina,,Buenos Aires,75.1
+2019-02-01,South/Central America & Carribean,Argentina,,Buenos Aires,81.0
+2019-02-02,South/Central America & Carribean,Argentina,,Buenos Aires,72.9
+2019-02-03,South/Central America & Carribean,Argentina,,Buenos Aires,65.4
+2019-02-04,South/Central America & Carribean,Argentina,,Buenos Aires,67.2
+2019-02-05,South/Central America & Carribean,Argentina,,Buenos Aires,71.7
+2019-02-06,South/Central America & Carribean,Argentina,,Buenos Aires,74.1
+2019-02-07,South/Central America & Carribean,Argentina,,Buenos Aires,77.0
+2019-02-08,South/Central America & Carribean,Argentina,,Buenos Aires,81.1
+2019-02-09,South/Central America & Carribean,Argentina,,Buenos Aires,77.9
+2019-02-10,South/Central America & Carribean,Argentina,,Buenos Aires,80.6
+2019-02-11,South/Central America & Carribean,Argentina,,Buenos Aires,72.0
+2019-02-12,South/Central America & Carribean,Argentina,,Buenos Aires,61.3
+2019-02-13,South/Central America & Carribean,Argentina,,Buenos Aires,62.9
+2019-02-14,South/Central America & Carribean,Argentina,,Buenos Aires,67.0
+2019-02-15,South/Central America & Carribean,Argentina,,Buenos Aires,68.2
+2019-02-16,South/Central America & Carribean,Argentina,,Buenos Aires,72.0
+2019-02-17,South/Central America & Carribean,Argentina,,Buenos Aires,77.5
+2019-02-18,South/Central America & Carribean,Argentina,,Buenos Aires,79.9
+2019-02-19,South/Central America & Carribean,Argentina,,Buenos Aires,83.4
+2019-02-20,South/Central America & Carribean,Argentina,,Buenos Aires,85.0
+2019-02-21,South/Central America & Carribean,Argentina,,Buenos Aires,82.7
+2019-02-22,South/Central America & Carribean,Argentina,,Buenos Aires,82.8
+2019-02-23,South/Central America & Carribean,Argentina,,Buenos Aires,73.7
+2019-02-24,South/Central America & Carribean,Argentina,,Buenos Aires,68.9
+2019-02-25,South/Central America & Carribean,Argentina,,Buenos Aires,62.8
+2019-02-26,South/Central America & Carribean,Argentina,,Buenos Aires,58.5
+2019-02-27,South/Central America & Carribean,Argentina,,Buenos Aires,67.0
+2019-02-28,South/Central America & Carribean,Argentina,,Buenos Aires,66.2
+2019-03-01,South/Central America & Carribean,Argentina,,Buenos Aires,74.3
+2019-03-02,South/Central America & Carribean,Argentina,,Buenos Aires,70.2
+2019-03-03,South/Central America & Carribean,Argentina,,Buenos Aires,68.8
+2019-03-04,South/Central America & Carribean,Argentina,,Buenos Aires,70.8
+2019-03-05,South/Central America & Carribean,Argentina,,Buenos Aires,71.1
+2019-03-06,South/Central America & Carribean,Argentina,,Buenos Aires,78.0
+2019-03-07,South/Central America & Carribean,Argentina,,Buenos Aires,81.2
+2019-03-08,South/Central America & Carribean,Argentina,,Buenos Aires,66.2
+2019-03-09,South/Central America & Carribean,Argentina,,Buenos Aires,59.8
+2019-03-10,South/Central America & Carribean,Argentina,,Buenos Aires,63.9
+2019-03-11,South/Central America & Carribean,Argentina,,Buenos Aires,67.1
+2019-03-12,South/Central America & Carribean,Argentina,,Buenos Aires,66.7
+2019-03-13,South/Central America & Carribean,Argentina,,Buenos Aires,66.1
+2019-03-14,South/Central America & Carribean,Argentina,,Buenos Aires,66.8
+2019-03-15,South/Central America & Carribean,Argentina,,Buenos Aires,70.6
+2019-03-16,South/Central America & Carribean,Argentina,,Buenos Aires,74.1
+2019-03-17,South/Central America & Carribean,Argentina,,Buenos Aires,74.4
+2019-03-18,South/Central America & Carribean,Argentina,,Buenos Aires,73.0
+2019-03-19,South/Central America & Carribean,Argentina,,Buenos Aires,62.3
+2019-03-20,South/Central America & Carribean,Argentina,,Buenos Aires,57.9
+2019-03-21,South/Central America & Carribean,Argentina,,Buenos Aires,57.4
+2019-03-22,South/Central America & Carribean,Argentina,,Buenos Aires,62.3
+2019-03-23,South/Central America & Carribean,Argentina,,Buenos Aires,65.2
+2019-03-24,South/Central America & Carribean,Argentina,,Buenos Aires,64.8
+2019-03-25,South/Central America & Carribean,Argentina,,Buenos Aires,58.0
+2019-03-26,South/Central America & Carribean,Argentina,,Buenos Aires,60.1
+2019-03-27,South/Central America & Carribean,Argentina,,Buenos Aires,60.9
+2019-03-28,South/Central America & Carribean,Argentina,,Buenos Aires,66.4
+2019-03-29,South/Central America & Carribean,Argentina,,Buenos Aires,70.0
+2019-03-30,South/Central America & Carribean,Argentina,,Buenos Aires,74.3
+2019-03-31,South/Central America & Carribean,Argentina,,Buenos Aires,73.8
+2019-04-01,South/Central America & Carribean,Argentina,,Buenos Aires,71.9
+2019-04-02,South/Central America & Carribean,Argentina,,Buenos Aires,76.4
+2019-04-03,South/Central America & Carribean,Argentina,,Buenos Aires,67.9
+2019-04-04,South/Central America & Carribean,Argentina,,Buenos Aires,68.2
+2019-04-05,South/Central America & Carribean,Argentina,,Buenos Aires,60.6
+2019-04-06,South/Central America & Carribean,Argentina,,Buenos Aires,58.8
+2019-04-07,South/Central America & Carribean,Argentina,,Buenos Aires,64.3
+2019-04-08,South/Central America & Carribean,Argentina,,Buenos Aires,67.1
+2019-04-09,South/Central America & Carribean,Argentina,,Buenos Aires,70.6
+2019-04-10,South/Central America & Carribean,Argentina,,Buenos Aires,70.4
+2019-04-11,South/Central America & Carribean,Argentina,,Buenos Aires,61.3
+2019-04-12,South/Central America & Carribean,Argentina,,Buenos Aires,56.2
+2019-04-13,South/Central America & Carribean,Argentina,,Buenos Aires,66.2
+2019-04-14,South/Central America & Carribean,Argentina,,Buenos Aires,69.8
+2019-04-15,South/Central America & Carribean,Argentina,,Buenos Aires,61.9
+2019-04-16,South/Central America & Carribean,Argentina,,Buenos Aires,59.0
+2019-04-17,South/Central America & Carribean,Argentina,,Buenos Aires,65.5
+2019-04-18,South/Central America & Carribean,Argentina,,Buenos Aires,69.1
+2019-04-19,South/Central America & Carribean,Argentina,,Buenos Aires,71.8
+2019-04-20,South/Central America & Carribean,Argentina,,Buenos Aires,65.4
+2019-04-21,South/Central America & Carribean,Argentina,,Buenos Aires,57.4
+2019-04-22,South/Central America & Carribean,Argentina,,Buenos Aires,56.3
+2019-04-23,South/Central America & Carribean,Argentina,,Buenos Aires,57.7
+2019-04-24,South/Central America & Carribean,Argentina,,Buenos Aires,-99
+2019-04-25,South/Central America & Carribean,Argentina,,Buenos Aires,63.0
+2019-04-26,South/Central America & Carribean,Argentina,,Buenos Aires,63.0
+2019-04-27,South/Central America & Carribean,Argentina,,Buenos Aires,63.4
+2019-04-28,South/Central America & Carribean,Argentina,,Buenos Aires,64.4
+2019-04-29,South/Central America & Carribean,Argentina,,Buenos Aires,64.0
+2019-04-30,South/Central America & Carribean,Argentina,,Buenos Aires,54.4
+2019-05-01,South/Central America & Carribean,Argentina,,Buenos Aires,53.6
+2019-05-02,South/Central America & Carribean,Argentina,,Buenos Aires,65.9
+2019-05-03,South/Central America & Carribean,Argentina,,Buenos Aires,66.5
+2019-05-04,South/Central America & Carribean,Argentina,,Buenos Aires,63.5
+2019-05-05,South/Central America & Carribean,Argentina,,Buenos Aires,65.2
+2019-05-06,South/Central America & Carribean,Argentina,,Buenos Aires,60.1
+2019-05-07,South/Central America & Carribean,Argentina,,Buenos Aires,55.0
+2019-05-08,South/Central America & Carribean,Argentina,,Buenos Aires,61.0
+2019-05-09,South/Central America & Carribean,Argentina,,Buenos Aires,60.0
+2019-05-10,South/Central America & Carribean,Argentina,,Buenos Aires,60.8
+2019-05-11,South/Central America & Carribean,Argentina,,Buenos Aires,56.8
+2019-05-12,South/Central America & Carribean,Argentina,,Buenos Aires,61.0
+2019-05-13,South/Central America & Carribean,Argentina,,Buenos Aires,61.4
+2019-05-14,South/Central America & Carribean,Argentina,,Buenos Aires,52.9
+2019-05-15,South/Central America & Carribean,Argentina,,Buenos Aires,53.9
+2019-05-16,South/Central America & Carribean,Argentina,,Buenos Aires,-99
+2019-05-17,South/Central America & Carribean,Argentina,,Buenos Aires,-99
+2019-05-18,South/Central America & Carribean,Argentina,,Buenos Aires,-99
+2019-05-19,South/Central America & Carribean,Argentina,,Buenos Aires,-99
+2019-05-20,South/Central America & Carribean,Argentina,,Buenos Aires,53.8
+2019-05-21,South/Central America & Carribean,Argentina,,Buenos Aires,56.1
+2019-05-22,South/Central America & Carribean,Argentina,,Buenos Aires,52.2
+2019-05-23,South/Central America & Carribean,Argentina,,Buenos Aires,49.1
+2019-05-24,South/Central America & Carribean,Argentina,,Buenos Aires,54.1
+2019-05-25,South/Central America & Carribean,Argentina,,Buenos Aires,57.1
+2019-05-26,South/Central America & Carribean,Argentina,,Buenos Aires,60.2
+2019-05-27,South/Central America & Carribean,Argentina,,Buenos Aires,56.9
+2019-05-28,South/Central America & Carribean,Argentina,,Buenos Aires,52.1
+2019-05-29,South/Central America & Carribean,Argentina,,Buenos Aires,47.6
+2019-05-30,South/Central America & Carribean,Argentina,,Buenos Aires,50.1
+2019-05-31,South/Central America & Carribean,Argentina,,Buenos Aires,53.0
+2019-06-01,South/Central America & Carribean,Argentina,,Buenos Aires,56.6
+2019-06-02,South/Central America & Carribean,Argentina,,Buenos Aires,54.7
+2019-06-03,South/Central America & Carribean,Argentina,,Buenos Aires,57.3
+2019-06-04,South/Central America & Carribean,Argentina,,Buenos Aires,56.8
+2019-06-05,South/Central America & Carribean,Argentina,,Buenos Aires,60.9
+2019-06-06,South/Central America & Carribean,Argentina,,Buenos Aires,63.1
+2019-06-07,South/Central America & Carribean,Argentina,,Buenos Aires,57.4
+2019-06-08,South/Central America & Carribean,Argentina,,Buenos Aires,52.5
+2019-06-09,South/Central America & Carribean,Argentina,,Buenos Aires,57.9
+2019-06-10,South/Central America & Carribean,Argentina,,Buenos Aires,62.3
+2019-06-11,South/Central America & Carribean,Argentina,,Buenos Aires,55.9
+2019-06-12,South/Central America & Carribean,Argentina,,Buenos Aires,65.1
+2019-06-13,South/Central America & Carribean,Argentina,,Buenos Aires,62.1
+2019-06-14,South/Central America & Carribean,Argentina,,Buenos Aires,58.8
+2019-06-15,South/Central America & Carribean,Argentina,,Buenos Aires,53.5
+2019-06-16,South/Central America & Carribean,Argentina,,Buenos Aires,59.0
+2019-06-17,South/Central America & Carribean,Argentina,,Buenos Aires,61.8
+2019-06-18,South/Central America & Carribean,Argentina,,Buenos Aires,53.2
+2019-06-19,South/Central America & Carribean,Argentina,,Buenos Aires,54.8
+2019-06-20,South/Central America & Carribean,Argentina,,Buenos Aires,50.5
+2019-06-21,South/Central America & Carribean,Argentina,,Buenos Aires,54.2
+2019-06-22,South/Central America & Carribean,Argentina,,Buenos Aires,60.9
+2019-06-23,South/Central America & Carribean,Argentina,,Buenos Aires,60.4
+2019-06-24,South/Central America & Carribean,Argentina,,Buenos Aires,53.5
+2019-06-25,South/Central America & Carribean,Argentina,,Buenos Aires,50.9
+2019-06-26,South/Central America & Carribean,Argentina,,Buenos Aires,45.5
+2019-06-27,South/Central America & Carribean,Argentina,,Buenos Aires,51.4
+2019-06-28,South/Central America & Carribean,Argentina,,Buenos Aires,54.2
+2019-06-29,South/Central America & Carribean,Argentina,,Buenos Aires,54.1
+2019-06-30,South/Central America & Carribean,Argentina,,Buenos Aires,48.9
+2019-07-01,South/Central America & Carribean,Argentina,,Buenos Aires,41.9
+2019-07-02,South/Central America & Carribean,Argentina,,Buenos Aires,50.5
+2019-07-03,South/Central America & Carribean,Argentina,,Buenos Aires,42.8
+2019-07-04,South/Central America & Carribean,Argentina,,Buenos Aires,39.4
+2019-07-05,South/Central America & Carribean,Argentina,,Buenos Aires,39.4
+2019-07-06,South/Central America & Carribean,Argentina,,Buenos Aires,39.0
+2019-07-07,South/Central America & Carribean,Argentina,,Buenos Aires,45.1
+2019-07-08,South/Central America & Carribean,Argentina,,Buenos Aires,49.7
+2019-07-09,South/Central America & Carribean,Argentina,,Buenos Aires,54.0
+2019-07-10,South/Central America & Carribean,Argentina,,Buenos Aires,53.8
+2019-07-11,South/Central America & Carribean,Argentina,,Buenos Aires,51.6
+2019-07-12,South/Central America & Carribean,Argentina,,Buenos Aires,55.9
+2019-07-13,South/Central America & Carribean,Argentina,,Buenos Aires,46.2
+2019-07-14,South/Central America & Carribean,Argentina,,Buenos Aires,44.1
+2019-07-15,South/Central America & Carribean,Argentina,,Buenos Aires,51.0
+2019-07-16,South/Central America & Carribean,Argentina,,Buenos Aires,47.6
+2019-07-17,South/Central America & Carribean,Argentina,,Buenos Aires,54.2
+2019-07-18,South/Central America & Carribean,Argentina,,Buenos Aires,56.7
+2019-07-19,South/Central America & Carribean,Argentina,,Buenos Aires,53.6
+2019-07-20,South/Central America & Carribean,Argentina,,Buenos Aires,59.6
+2019-07-21,South/Central America & Carribean,Argentina,,Buenos Aires,70.4
+2019-07-22,South/Central America & Carribean,Argentina,,Buenos Aires,52.1
+2019-07-23,South/Central America & Carribean,Argentina,,Buenos Aires,46.6
+2019-07-24,South/Central America & Carribean,Argentina,,Buenos Aires,46.0
+2019-07-25,South/Central America & Carribean,Argentina,,Buenos Aires,47.1
+2019-07-26,South/Central America & Carribean,Argentina,,Buenos Aires,52.9
+2019-07-27,South/Central America & Carribean,Argentina,,Buenos Aires,51.8
+2019-07-28,South/Central America & Carribean,Argentina,,Buenos Aires,51.3
+2019-07-29,South/Central America & Carribean,Argentina,,Buenos Aires,54.2
+2019-07-30,South/Central America & Carribean,Argentina,,Buenos Aires,50.6
+2019-07-31,South/Central America & Carribean,Argentina,,Buenos Aires,58.1
+2019-08-01,South/Central America & Carribean,Argentina,,Buenos Aires,54.5
+2019-08-02,South/Central America & Carribean,Argentina,,Buenos Aires,47.6
+2019-08-03,South/Central America & Carribean,Argentina,,Buenos Aires,46.7
+2019-08-04,South/Central America & Carribean,Argentina,,Buenos Aires,52.4
+2019-08-05,South/Central America & Carribean,Argentina,,Buenos Aires,56.8
+2019-08-06,South/Central America & Carribean,Argentina,,Buenos Aires,61.4
+2019-08-07,South/Central America & Carribean,Argentina,,Buenos Aires,54.4
+2019-08-08,South/Central America & Carribean,Argentina,,Buenos Aires,47.1
+2019-08-09,South/Central America & Carribean,Argentina,,Buenos Aires,46.7
+2019-08-10,South/Central America & Carribean,Argentina,,Buenos Aires,47.5
+2019-08-11,South/Central America & Carribean,Argentina,,Buenos Aires,53.7
+2019-08-12,South/Central America & Carribean,Argentina,,Buenos Aires,50.8
+2019-08-13,South/Central America & Carribean,Argentina,,Buenos Aires,41.8
+2019-08-14,South/Central America & Carribean,Argentina,,Buenos Aires,39.8
+2019-08-15,South/Central America & Carribean,Argentina,,Buenos Aires,50.4
+2019-08-16,South/Central America & Carribean,Argentina,,Buenos Aires,56.7
+2019-08-17,South/Central America & Carribean,Argentina,,Buenos Aires,56.6
+2019-08-18,South/Central America & Carribean,Argentina,,Buenos Aires,47.2
+2019-08-19,South/Central America & Carribean,Argentina,,Buenos Aires,39.5
+2019-08-20,South/Central America & Carribean,Argentina,,Buenos Aires,44.1
+2019-08-21,South/Central America & Carribean,Argentina,,Buenos Aires,45.6
+2019-08-22,South/Central America & Carribean,Argentina,,Buenos Aires,49.6
+2019-08-23,South/Central America & Carribean,Argentina,,Buenos Aires,49.8
+2019-08-24,South/Central America & Carribean,Argentina,,Buenos Aires,54.3
+2019-08-25,South/Central America & Carribean,Argentina,,Buenos Aires,57.3
+2019-08-26,South/Central America & Carribean,Argentina,,Buenos Aires,61.7
+2019-08-27,South/Central America & Carribean,Argentina,,Buenos Aires,63.2
+2019-08-28,South/Central America & Carribean,Argentina,,Buenos Aires,69.8
+2019-08-29,South/Central America & Carribean,Argentina,,Buenos Aires,68.9
+2019-08-30,South/Central America & Carribean,Argentina,,Buenos Aires,52.8
+2019-08-31,South/Central America & Carribean,Argentina,,Buenos Aires,50.3
+2019-09-01,South/Central America & Carribean,Argentina,,Buenos Aires,48.1
+2019-09-02,South/Central America & Carribean,Argentina,,Buenos Aires,46.0
+2019-09-03,South/Central America & Carribean,Argentina,,Buenos Aires,42.9
+2019-09-04,South/Central America & Carribean,Argentina,,Buenos Aires,43.2
+2019-09-05,South/Central America & Carribean,Argentina,,Buenos Aires,45.0
+2019-09-06,South/Central America & Carribean,Argentina,,Buenos Aires,51.6
+2019-09-07,South/Central America & Carribean,Argentina,,Buenos Aires,56.1
+2019-09-08,South/Central America & Carribean,Argentina,,Buenos Aires,55.3
+2019-09-09,South/Central America & Carribean,Argentina,,Buenos Aires,55.6
+2019-09-10,South/Central America & Carribean,Argentina,,Buenos Aires,55.1
+2019-09-11,South/Central America & Carribean,Argentina,,Buenos Aires,53.1
+2019-09-12,South/Central America & Carribean,Argentina,,Buenos Aires,53.3
+2019-09-13,South/Central America & Carribean,Argentina,,Buenos Aires,54.9
+2019-09-14,South/Central America & Carribean,Argentina,,Buenos Aires,58.2
+2019-09-15,South/Central America & Carribean,Argentina,,Buenos Aires,61.6
+2019-09-16,South/Central America & Carribean,Argentina,,Buenos Aires,58.3
+2019-09-17,South/Central America & Carribean,Argentina,,Buenos Aires,57.0
+2019-09-18,South/Central America & Carribean,Argentina,,Buenos Aires,58.3
+2019-09-19,South/Central America & Carribean,Argentina,,Buenos Aires,60.8
+2019-09-20,South/Central America & Carribean,Argentina,,Buenos Aires,53.1
+2019-09-21,South/Central America & Carribean,Argentina,,Buenos Aires,58.6
+2019-09-22,South/Central America & Carribean,Argentina,,Buenos Aires,53.7
+2019-09-23,South/Central America & Carribean,Argentina,,Buenos Aires,58.0
+2019-09-24,South/Central America & Carribean,Argentina,,Buenos Aires,64.9
+2019-09-25,South/Central America & Carribean,Argentina,,Buenos Aires,69.6
+2019-09-26,South/Central America & Carribean,Argentina,,Buenos Aires,66.6
+2019-09-27,South/Central America & Carribean,Argentina,,Buenos Aires,58.0
+2019-09-28,South/Central America & Carribean,Argentina,,Buenos Aires,63.1
+2019-09-29,South/Central America & Carribean,Argentina,,Buenos Aires,68.6
+2019-09-30,South/Central America & Carribean,Argentina,,Buenos Aires,73.8
+2019-10-01,South/Central America & Carribean,Argentina,,Buenos Aires,57.1
+2019-10-02,South/Central America & Carribean,Argentina,,Buenos Aires,55.4
+2019-10-03,South/Central America & Carribean,Argentina,,Buenos Aires,49.5
+2019-10-04,South/Central America & Carribean,Argentina,,Buenos Aires,55.0
+2019-10-05,South/Central America & Carribean,Argentina,,Buenos Aires,57.2
+2019-10-06,South/Central America & Carribean,Argentina,,Buenos Aires,58.7
+2019-10-07,South/Central America & Carribean,Argentina,,Buenos Aires,64.9
+2019-10-08,South/Central America & Carribean,Argentina,,Buenos Aires,62.5
+2019-10-09,South/Central America & Carribean,Argentina,,Buenos Aires,65.5
+2019-10-10,South/Central America & Carribean,Argentina,,Buenos Aires,71.0
+2019-10-11,South/Central America & Carribean,Argentina,,Buenos Aires,69.8
+2019-10-12,South/Central America & Carribean,Argentina,,Buenos Aires,64.6
+2019-10-13,South/Central America & Carribean,Argentina,,Buenos Aires,61.5
+2019-10-14,South/Central America & Carribean,Argentina,,Buenos Aires,50.1
+2019-10-15,South/Central America & Carribean,Argentina,,Buenos Aires,50.0
+2019-10-16,South/Central America & Carribean,Argentina,,Buenos Aires,57.3
+2019-10-17,South/Central America & Carribean,Argentina,,Buenos Aires,61.6
+2019-10-18,South/Central America & Carribean,Argentina,,Buenos Aires,62.8
+2019-10-19,South/Central America & Carribean,Argentina,,Buenos Aires,60.2
+2019-10-20,South/Central America & Carribean,Argentina,,Buenos Aires,57.4
+2019-10-21,South/Central America & Carribean,Argentina,,Buenos Aires,58.4
+2019-10-22,South/Central America & Carribean,Argentina,,Buenos Aires,60.2
+2019-10-23,South/Central America & Carribean,Argentina,,Buenos Aires,59.1
+2019-10-24,South/Central America & Carribean,Argentina,,Buenos Aires,61.5
+2019-10-25,South/Central America & Carribean,Argentina,,Buenos Aires,70.6
+2019-10-26,South/Central America & Carribean,Argentina,,Buenos Aires,75.6
+2019-10-27,South/Central America & Carribean,Argentina,,Buenos Aires,70.3
+2019-10-28,South/Central America & Carribean,Argentina,,Buenos Aires,65.2
+2019-10-29,South/Central America & Carribean,Argentina,,Buenos Aires,61.2
+2019-10-30,South/Central America & Carribean,Argentina,,Buenos Aires,62.1
+2019-10-31,South/Central America & Carribean,Argentina,,Buenos Aires,63.4
+2019-11-01,South/Central America & Carribean,Argentina,,Buenos Aires,65.7
+2019-11-02,South/Central America & Carribean,Argentina,,Buenos Aires,70.9
+2019-11-03,South/Central America & Carribean,Argentina,,Buenos Aires,64.4
+2019-11-04,South/Central America & Carribean,Argentina,,Buenos Aires,69.1
+2019-11-05,South/Central America & Carribean,Argentina,,Buenos Aires,66.8
+2019-11-06,South/Central America & Carribean,Argentina,,Buenos Aires,67.0
+2019-11-07,South/Central America & Carribean,Argentina,,Buenos Aires,70.8
+2019-11-08,South/Central America & Carribean,Argentina,,Buenos Aires,65.0
+2019-11-09,South/Central America & Carribean,Argentina,,Buenos Aires,66.7
+2019-11-10,South/Central America & Carribean,Argentina,,Buenos Aires,66.0
+2019-11-11,South/Central America & Carribean,Argentina,,Buenos Aires,68.7
+2019-11-12,South/Central America & Carribean,Argentina,,Buenos Aires,72.9
+2019-11-13,South/Central America & Carribean,Argentina,,Buenos Aires,75.3
+2019-11-14,South/Central America & Carribean,Argentina,,Buenos Aires,73.3
+2019-11-15,South/Central America & Carribean,Argentina,,Buenos Aires,73.7
+2019-11-16,South/Central America & Carribean,Argentina,,Buenos Aires,71.8
+2019-11-17,South/Central America & Carribean,Argentina,,Buenos Aires,75.8
+2019-11-18,South/Central America & Carribean,Argentina,,Buenos Aires,78.4
+2019-11-19,South/Central America & Carribean,Argentina,,Buenos Aires,76.8
+2019-11-20,South/Central America & Carribean,Argentina,,Buenos Aires,82.9
+2019-11-21,South/Central America & Carribean,Argentina,,Buenos Aires,77.9
+2019-11-22,South/Central America & Carribean,Argentina,,Buenos Aires,68.9
+2019-11-23,South/Central America & Carribean,Argentina,,Buenos Aires,62.4
+2019-11-24,South/Central America & Carribean,Argentina,,Buenos Aires,68.6
+2019-11-25,South/Central America & Carribean,Argentina,,Buenos Aires,67.0
+2019-11-26,South/Central America & Carribean,Argentina,,Buenos Aires,69.4
+2019-11-27,South/Central America & Carribean,Argentina,,Buenos Aires,67.9
+2019-11-28,South/Central America & Carribean,Argentina,,Buenos Aires,72.2
+2019-11-29,South/Central America & Carribean,Argentina,,Buenos Aires,75.9
+2019-11-30,South/Central America & Carribean,Argentina,,Buenos Aires,70.8
+2019-12-01,South/Central America & Carribean,Argentina,,Buenos Aires,65.3
+2019-12-02,South/Central America & Carribean,Argentina,,Buenos Aires,64.4
+2019-12-03,South/Central America & Carribean,Argentina,,Buenos Aires,69.1
+2019-12-04,South/Central America & Carribean,Argentina,,Buenos Aires,64.9
+2019-12-05,South/Central America & Carribean,Argentina,,Buenos Aires,61.9
+2019-12-06,South/Central America & Carribean,Argentina,,Buenos Aires,73.6
+2019-12-07,South/Central America & Carribean,Argentina,,Buenos Aires,68.0
+2019-12-08,South/Central America & Carribean,Argentina,,Buenos Aires,77.3
+2019-12-09,South/Central America & Carribean,Argentina,,Buenos Aires,80.8
+2019-12-10,South/Central America & Carribean,Argentina,,Buenos Aires,86.6
+2019-12-11,South/Central America & Carribean,Argentina,,Buenos Aires,83.7
+2019-12-12,South/Central America & Carribean,Argentina,,Buenos Aires,71.5
+2019-12-13,South/Central America & Carribean,Argentina,,Buenos Aires,65.2
+2019-12-14,South/Central America & Carribean,Argentina,,Buenos Aires,75.4
+2019-12-15,South/Central America & Carribean,Argentina,,Buenos Aires,71.7
+2019-12-16,South/Central America & Carribean,Argentina,,Buenos Aires,69.9
+2019-12-17,South/Central America & Carribean,Argentina,,Buenos Aires,72.3
+2019-12-18,South/Central America & Carribean,Argentina,,Buenos Aires,79.2
+2019-12-19,South/Central America & Carribean,Argentina,,Buenos Aires,83.0
+2019-12-20,South/Central America & Carribean,Argentina,,Buenos Aires,71.3
+2019-12-21,South/Central America & Carribean,Argentina,,Buenos Aires,64.6
+2019-12-22,South/Central America & Carribean,Argentina,,Buenos Aires,63.1
+2019-12-23,South/Central America & Carribean,Argentina,,Buenos Aires,72.5
+2019-12-24,South/Central America & Carribean,Argentina,,Buenos Aires,80.3
+2019-12-25,South/Central America & Carribean,Argentina,,Buenos Aires,69.9
+2019-12-26,South/Central America & Carribean,Argentina,,Buenos Aires,68.2
+2019-12-27,South/Central America & Carribean,Argentina,,Buenos Aires,78.7
+2019-12-28,South/Central America & Carribean,Argentina,,Buenos Aires,81.0
+2019-12-29,South/Central America & Carribean,Argentina,,Buenos Aires,82.1
+2019-12-30,South/Central America & Carribean,Argentina,,Buenos Aires,74.2
+2019-12-31,South/Central America & Carribean,Argentina,,Buenos Aires,74.7
+2019-01-01,North America,US,New York,New York City,51.1
+2019-01-02,North America,US,New York,New York City,38.7
+2019-01-03,North America,US,New York,New York City,41.4
+2019-01-04,North America,US,New York,New York City,40.9
+2019-01-05,North America,US,New York,New York City,44.4
+2019-01-06,North America,US,New York,New York City,44.8
+2019-01-07,North America,US,New York,New York City,30.5
+2019-01-08,North America,US,New York,New York City,39.5
+2019-01-09,North America,US,New York,New York City,44.1
+2019-01-10,North America,US,New York,New York City,34.5
+2019-01-11,North America,US,New York,New York City,28.1
+2019-01-12,North America,US,New York,New York City,26.5
+2019-01-13,North America,US,New York,New York City,29.7
+2019-01-14,North America,US,New York,New York City,27.7
+2019-01-15,North America,US,New York,New York City,30.4
+2019-01-16,North America,US,New York,New York City,32.0
+2019-01-17,North America,US,New York,New York City,31.1
+2019-01-18,North America,US,New York,New York City,33.3
+2019-01-19,North America,US,New York,New York City,35.8
+2019-01-20,North America,US,New York,New York City,34.9
+2019-01-21,North America,US,New York,New York City,12.6
+2019-01-22,North America,US,New York,New York City,19.3
+2019-01-23,North America,US,New York,New York City,34.8
+2019-01-24,North America,US,New York,New York City,49.6
+2019-01-25,North America,US,New York,New York City,36.9
+2019-01-26,North America,US,New York,New York City,29.8
+2019-01-27,North America,US,New York,New York City,38.3
+2019-01-28,North America,US,New York,New York City,33.1
+2019-01-29,North America,US,New York,New York City,32.1
+2019-01-30,North America,US,New York,New York City,29.8
+2019-01-31,North America,US,New York,New York City,9.4
+2019-02-01,North America,US,New York,New York City,15.8
+2019-02-02,North America,US,New York,New York City,23.7
+2019-02-03,North America,US,New York,New York City,38.6
+2019-02-04,North America,US,New York,New York City,45.6
+2019-02-05,North America,US,New York,New York City,49.1
+2019-02-06,North America,US,New York,New York City,42.5
+2019-02-07,North America,US,New York,New York City,40.8
+2019-02-08,North America,US,New York,New York City,45.0
+2019-02-09,North America,US,New York,New York City,30.7
+2019-02-10,North America,US,New York,New York City,28.8
+2019-02-11,North America,US,New York,New York City,34.0
+2019-02-12,North America,US,New York,New York City,34.0
+2019-02-13,North America,US,New York,New York City,36.7
+2019-02-14,North America,US,New York,New York City,36.9
+2019-02-15,North America,US,New York,New York City,45.9
+2019-02-16,North America,US,New York,New York City,42.1
+2019-02-17,North America,US,New York,New York City,32.1
+2019-02-18,North America,US,New York,New York City,35.6
+2019-02-19,North America,US,New York,New York City,28.8
+2019-02-20,North America,US,New York,New York City,28.9
+2019-02-21,North America,US,New York,New York City,38.1
+2019-02-22,North America,US,New York,New York City,41.9
+2019-02-23,North America,US,New York,New York City,36.1
+2019-02-24,North America,US,New York,New York City,39.1
+2019-02-25,North America,US,New York,New York City,41.0
+2019-02-26,North America,US,New York,New York City,30.2
+2019-02-27,North America,US,New York,New York City,26.0
+2019-02-28,North America,US,New York,New York City,30.1
+2019-03-01,North America,US,New York,New York City,29.7
+2019-03-02,North America,US,New York,New York City,34.1
+2019-03-03,North America,US,New York,New York City,38.3
+2019-03-04,North America,US,New York,New York City,34.4
+2019-03-05,North America,US,New York,New York City,27.4
+2019-03-06,North America,US,New York,New York City,24.1
+2019-03-07,North America,US,New York,New York City,24.0
+2019-03-08,North America,US,New York,New York City,30.1
+2019-03-09,North America,US,New York,New York City,38.7
+2019-03-10,North America,US,New York,New York City,37.7
+2019-03-11,North America,US,New York,New York City,45.5
+2019-03-12,North America,US,New York,New York City,40.0
+2019-03-13,North America,US,New York,New York City,37.7
+2019-03-14,North America,US,New York,New York City,45.9
+2019-03-15,North America,US,New York,New York City,54.6
+2019-03-16,North America,US,New York,New York City,50.9
+2019-03-17,North America,US,New York,New York City,38.9
+2019-03-18,North America,US,New York,New York City,38.4
+2019-03-19,North America,US,New York,New York City,41.5
+2019-03-20,North America,US,New York,New York City,43.7
+2019-03-21,North America,US,New York,New York City,42.5
+2019-03-22,North America,US,New York,New York City,43.2
+2019-03-23,North America,US,New York,New York City,40.6
+2019-03-24,North America,US,New York,New York City,46.8
+2019-03-25,North America,US,New York,New York City,52.6
+2019-03-26,North America,US,New York,New York City,41.9
+2019-03-27,North America,US,New York,New York City,40.2
+2019-03-28,North America,US,New York,New York City,41.8
+2019-03-29,North America,US,New York,New York City,50.9
+2019-03-30,North America,US,New York,New York City,55.4
+2019-03-31,North America,US,New York,New York City,52.3
+2019-04-01,North America,US,New York,New York City,40.0
+2019-04-02,North America,US,New York,New York City,43.4
+2019-04-03,North America,US,New York,New York City,50.4
+2019-04-04,North America,US,New York,New York City,51.9
+2019-04-05,North America,US,New York,New York City,42.2
+2019-04-06,North America,US,New York,New York City,47.4
+2019-04-07,North America,US,New York,New York City,55.6
+2019-04-08,North America,US,New York,New York City,61.6
+2019-04-09,North America,US,New York,New York City,48.7
+2019-04-10,North America,US,New York,New York City,50.7
+2019-04-11,North America,US,New York,New York City,45.4
+2019-04-12,North America,US,New York,New York City,50.6
+2019-04-13,North America,US,New York,New York City,63.1
+2019-04-14,North America,US,New York,New York City,63.5
+2019-04-15,North America,US,New York,New York City,56.5
+2019-04-16,North America,US,New York,New York City,50.5
+2019-04-17,North America,US,New York,New York City,53.5
+2019-04-18,North America,US,New York,New York City,54.4
+2019-04-19,North America,US,New York,New York City,61.8
+2019-04-20,North America,US,New York,New York City,60.1
+2019-04-21,North America,US,New York,New York City,56.5
+2019-04-22,North America,US,New York,New York City,55.1
+2019-04-23,North America,US,New York,New York City,56.6
+2019-04-24,North America,US,New York,New York City,63.8
+2019-04-25,North America,US,New York,New York City,55.9
+2019-04-26,North America,US,New York,New York City,52.8
+2019-04-27,North America,US,New York,New York City,54.8
+2019-04-28,North America,US,New York,New York City,49.8
+2019-04-29,North America,US,New York,New York City,49.8
+2019-04-30,North America,US,New York,New York City,50.6
+2019-05-01,North America,US,New York,New York City,52.3
+2019-05-02,North America,US,New York,New York City,54.6
+2019-05-03,North America,US,New York,New York City,50.7
+2019-05-04,North America,US,New York,New York City,54.6
+2019-05-05,North America,US,New York,New York City,52.6
+2019-05-06,North America,US,New York,New York City,55.1
+2019-05-07,North America,US,New York,New York City,54.2
+2019-05-08,North America,US,New York,New York City,59.6
+2019-05-09,North America,US,New York,New York City,55.5
+2019-05-10,North America,US,New York,New York City,61.9
+2019-05-11,North America,US,New York,New York City,64.7
+2019-05-12,North America,US,New York,New York City,52.6
+2019-05-13,North America,US,New York,New York City,46.4
+2019-05-14,North America,US,New York,New York City,47.1
+2019-05-15,North America,US,New York,New York City,53.8
+2019-05-16,North America,US,New York,New York City,63.8
+2019-05-17,North America,US,New York,New York City,69.1
+2019-05-18,North America,US,New York,New York City,66.1
+2019-05-19,North America,US,New York,New York City,60.4
+2019-05-20,North America,US,New York,New York City,75.5
+2019-05-21,North America,US,New York,New York City,67.7
+2019-05-22,North America,US,New York,New York City,65.4
+2019-05-23,North America,US,New York,New York City,66.5
+2019-05-24,North America,US,New York,New York City,69.9
+2019-05-25,North America,US,New York,New York City,64.0
+2019-05-26,North America,US,New York,New York City,71.6
+2019-05-27,North America,US,New York,New York City,73.6
+2019-05-28,North America,US,New York,New York City,68.4
+2019-05-29,North America,US,New York,New York City,63.2
+2019-05-30,North America,US,New York,New York City,60.4
+2019-05-31,North America,US,New York,New York City,69.6
+2019-06-01,North America,US,New York,New York City,70.8
+2019-06-02,North America,US,New York,New York City,71.2
+2019-06-03,North America,US,New York,New York City,66.8
+2019-06-04,North America,US,New York,New York City,64.3
+2019-06-05,North America,US,New York,New York City,72.0
+2019-06-06,North America,US,New York,New York City,76.3
+2019-06-07,North America,US,New York,New York City,72.3
+2019-06-08,North America,US,New York,New York City,71.1
+2019-06-09,North America,US,New York,New York City,67.9
+2019-06-10,North America,US,New York,New York City,63.4
+2019-06-11,North America,US,New York,New York City,69.5
+2019-06-12,North America,US,New York,New York City,68.2
+2019-06-13,North America,US,New York,New York City,63.3
+2019-06-14,North America,US,New York,New York City,65.3
+2019-06-15,North America,US,New York,New York City,73.4
+2019-06-16,North America,US,New York,New York City,75.3
+2019-06-17,North America,US,New York,New York City,73.8
+2019-06-18,North America,US,New York,New York City,70.4
+2019-06-19,North America,US,New York,New York City,67.6
+2019-06-20,North America,US,New York,New York City,67.3
+2019-06-21,North America,US,New York,New York City,71.0
+2019-06-22,North America,US,New York,New York City,71.6
+2019-06-23,North America,US,New York,New York City,75.3
+2019-06-24,North America,US,New York,New York City,78.8
+2019-06-25,North America,US,New York,New York City,76.7
+2019-06-26,North America,US,New York,New York City,79.1
+2019-06-27,North America,US,New York,New York City,82.1
+2019-06-28,North America,US,New York,New York City,82.5
+2019-06-29,North America,US,New York,New York City,83.4
+2019-06-30,North America,US,New York,New York City,78.0
+2019-07-01,North America,US,New York,New York City,76.0
+2019-07-02,North America,US,New York,New York City,79.7
+2019-07-03,North America,US,New York,New York City,81.2
+2019-07-04,North America,US,New York,New York City,81.6
+2019-07-05,North America,US,New York,New York City,78.3
+2019-07-06,North America,US,New York,New York City,83.1
+2019-07-07,North America,US,New York,New York City,79.2
+2019-07-08,North America,US,New York,New York City,74.4
+2019-07-09,North America,US,New York,New York City,79.5
+2019-07-10,North America,US,New York,New York City,82.8
+2019-07-11,North America,US,New York,New York City,81.0
+2019-07-12,North America,US,New York,New York City,79.3
+2019-07-13,North America,US,New York,New York City,79.3
+2019-07-14,North America,US,New York,New York City,84.6
+2019-07-15,North America,US,New York,New York City,80.3
+2019-07-16,North America,US,New York,New York City,79.6
+2019-07-17,North America,US,New York,New York City,87.4
+2019-07-18,North America,US,New York,New York City,75.8
+2019-07-19,North America,US,New York,New York City,78.8
+2019-07-20,North America,US,New York,New York City,91.1
+2019-07-21,North America,US,New York,New York City,92.2
+2019-07-22,North America,US,New York,New York City,83.8
+2019-07-23,North America,US,New York,New York City,73.1
+2019-07-24,North America,US,New York,New York City,75.0
+2019-07-25,North America,US,New York,New York City,78.4
+2019-07-26,North America,US,New York,New York City,79.5
+2019-07-27,North America,US,New York,New York City,80.2
+2019-07-28,North America,US,New York,New York City,82.5
+2019-07-29,North America,US,New York,New York City,85.0
+2019-07-30,North America,US,New York,New York City,87.6
+2019-07-31,North America,US,New York,New York City,82.2
+2019-08-01,North America,US,New York,New York City,78.6
+2019-08-02,North America,US,New York,New York City,79.2
+2019-08-03,North America,US,New York,New York City,79.8
+2019-08-04,North America,US,New York,New York City,78.6
+2019-08-05,North America,US,New York,New York City,77.0
+2019-08-06,North America,US,New York,New York City,76.0
+2019-08-07,North America,US,New York,New York City,78.1
+2019-08-08,North America,US,New York,New York City,77.4
+2019-08-09,North America,US,New York,New York City,77.3
+2019-08-10,North America,US,New York,New York City,76.9
+2019-08-11,North America,US,New York,New York City,74.4
+2019-08-12,North America,US,New York,New York City,79.7
+2019-08-13,North America,US,New York,New York City,78.4
+2019-08-14,North America,US,New York,New York City,76.4
+2019-08-15,North America,US,New York,New York City,76.5
+2019-08-16,North America,US,New York,New York City,74.4
+2019-08-17,North America,US,New York,New York City,77.5
+2019-08-18,North America,US,New York,New York City,80.0
+2019-08-19,North America,US,New York,New York City,81.4
+2019-08-20,North America,US,New York,New York City,81.8
+2019-08-21,North America,US,New York,New York City,82.1
+2019-08-22,North America,US,New York,New York City,82.9
+2019-08-23,North America,US,New York,New York City,73.2
+2019-08-24,North America,US,New York,New York City,70.9
+2019-08-25,North America,US,New York,New York City,70.9
+2019-08-26,North America,US,New York,New York City,66.7
+2019-08-27,North America,US,New York,New York City,69.6
+2019-08-28,North America,US,New York,New York City,70.4
+2019-08-29,North America,US,New York,New York City,75.2
+2019-08-30,North America,US,New York,New York City,78.2
+2019-08-31,North America,US,New York,New York City,77.7
+2019-09-01,North America,US,New York,New York City,72.1
+2019-09-02,North America,US,New York,New York City,73.0
+2019-09-03,North America,US,New York,New York City,75.0
+2019-09-04,North America,US,New York,New York City,76.9
+2019-09-05,North America,US,New York,New York City,72.1
+2019-09-06,North America,US,New York,New York City,66.8
+2019-09-07,North America,US,New York,New York City,65.8
+2019-09-08,North America,US,New York,New York City,71.9
+2019-09-09,North America,US,New York,New York City,71.1
+2019-09-10,North America,US,New York,New York City,69.8
+2019-09-11,North America,US,New York,New York City,77.5
+2019-09-12,North America,US,New York,New York City,78.9
+2019-09-13,North America,US,New York,New York City,65.5
+2019-09-14,North America,US,New York,New York City,68.9
+2019-09-15,North America,US,New York,New York City,76.0
+2019-09-16,North America,US,New York,New York City,74.5
+2019-09-17,North America,US,New York,New York City,70.7
+2019-09-18,North America,US,New York,New York City,65.8
+2019-09-19,North America,US,New York,New York City,61.5
+2019-09-20,North America,US,New York,New York City,67.6
+2019-09-21,North America,US,New York,New York City,74.1
+2019-09-22,North America,US,New York,New York City,76.2
+2019-09-23,North America,US,New York,New York City,80.1
+2019-09-24,North America,US,New York,New York City,79.1
+2019-09-25,North America,US,New York,New York City,70.1
+2019-09-26,North America,US,New York,New York City,72.2
+2019-09-27,North America,US,New York,New York City,68.6
+2019-09-28,North America,US,New York,New York City,71.9
+2019-09-29,North America,US,New York,New York City,75.4
+2019-09-30,North America,US,New York,New York City,66.1
+2019-10-01,North America,US,New York,New York City,70.3
+2019-10-02,North America,US,New York,New York City,80.4
+2019-10-03,North America,US,New York,New York City,61.1
+2019-10-04,North America,US,New York,New York City,61.2
+2019-10-05,North America,US,New York,New York City,53.2
+2019-10-06,North America,US,New York,New York City,64.0
+2019-10-07,North America,US,New York,New York City,72.3
+2019-10-08,North America,US,New York,New York City,62.9
+2019-10-09,North America,US,New York,New York City,58.1
+2019-10-10,North America,US,New York,New York City,59.3
+2019-10-11,North America,US,New York,New York City,60.5
+2019-10-12,North America,US,New York,New York City,60.4
+2019-10-13,North America,US,New York,New York City,61.6
+2019-10-14,North America,US,New York,New York City,64.1
+2019-10-15,North America,US,New York,New York City,60.9
+2019-10-16,North America,US,New York,New York City,60.4
+2019-10-17,North America,US,New York,New York City,56.8
+2019-10-18,North America,US,New York,New York City,54.9
+2019-10-19,North America,US,New York,New York City,52.5
+2019-10-20,North America,US,New York,New York City,55.7
+2019-10-21,North America,US,New York,New York City,57.3
+2019-10-22,North America,US,New York,New York City,58.4
+2019-10-23,North America,US,New York,New York City,61.6
+2019-10-24,North America,US,New York,New York City,59.4
+2019-10-25,North America,US,New York,New York City,59.0
+2019-10-26,North America,US,New York,New York City,60.0
+2019-10-27,North America,US,New York,New York City,60.6
+2019-10-28,North America,US,New York,New York City,59.3
+2019-10-29,North America,US,New York,New York City,55.4
+2019-10-30,North America,US,New York,New York City,58.3
+2019-10-31,North America,US,New York,New York City,62.4
+2019-11-01,North America,US,New York,New York City,54.1
+2019-11-02,North America,US,New York,New York City,45.0
+2019-11-03,North America,US,New York,New York City,47.8
+2019-11-04,North America,US,New York,New York City,48.9
+2019-11-05,North America,US,New York,New York City,52.9
+2019-11-06,North America,US,New York,New York City,52.5
+2019-11-07,North America,US,New York,New York City,52.8
+2019-11-08,North America,US,New York,New York City,40.1
+2019-11-09,North America,US,New York,New York City,34.5
+2019-11-10,North America,US,New York,New York City,44.4
+2019-11-11,North America,US,New York,New York City,53.3
+2019-11-12,North America,US,New York,New York City,48.4
+2019-11-13,North America,US,New York,New York City,29.4
+2019-11-14,North America,US,New York,New York City,35.1
+2019-11-15,North America,US,New York,New York City,44.7
+2019-11-16,North America,US,New York,New York City,41.0
+2019-11-17,North America,US,New York,New York City,36.8
+2019-11-18,North America,US,New York,New York City,40.2
+2019-11-19,North America,US,New York,New York City,44.2
+2019-11-20,North America,US,New York,New York City,44.1
+2019-11-21,North America,US,New York,New York City,45.3
+2019-11-22,North America,US,New York,New York City,50.2
+2019-11-23,North America,US,New York,New York City,40.9
+2019-11-24,North America,US,New York,New York City,43.9
+2019-11-25,North America,US,New York,New York City,45.8
+2019-11-26,North America,US,New York,New York City,52.1
+2019-11-27,North America,US,New York,New York City,52.6
+2019-11-28,North America,US,New York,New York City,50.5
+2019-11-29,North America,US,New York,New York City,37.5
+2019-11-30,North America,US,New York,New York City,37.3
+2019-12-01,North America,US,New York,New York City,34.0
+2019-12-02,North America,US,New York,New York City,37.6
+2019-12-03,North America,US,New York,New York City,34.1
+2019-12-04,North America,US,New York,New York City,36.7
+2019-12-05,North America,US,New York,New York City,40.0
+2019-12-06,North America,US,New York,New York City,41.1
+2019-12-07,North America,US,New York,New York City,38.3
+2019-12-08,North America,US,New York,New York City,34.3
+2019-12-09,North America,US,New York,New York City,46.8
+2019-12-10,North America,US,New York,New York City,56.2
+2019-12-11,North America,US,New York,New York City,39.2
+2019-12-12,North America,US,New York,New York City,32.5
+2019-12-13,North America,US,New York,New York City,38.1
+2019-12-14,North America,US,New York,New York City,49.6
+2019-12-15,North America,US,New York,New York City,46.2
+2019-12-16,North America,US,New York,New York City,36.7
+2019-12-17,North America,US,New York,New York City,34.8
+2019-12-18,North America,US,New York,New York City,34.6
+2019-12-19,North America,US,New York,New York City,23.1
+2019-12-20,North America,US,New York,New York City,26.9
+2019-12-21,North America,US,New York,New York City,28.3
+2019-12-22,North America,US,New York,New York City,36.9
+2019-12-23,North America,US,New York,New York City,46.2
+2019-12-24,North America,US,New York,New York City,45.6
+2019-12-25,North America,US,New York,New York City,37.5
+2019-12-26,North America,US,New York,New York City,38.5
+2019-12-27,North America,US,New York,New York City,48.3
+2019-12-28,North America,US,New York,New York City,48.6
+2019-12-29,North America,US,New York,New York City,42.2
+2019-12-30,North America,US,New York,New York City,40.8
+2019-12-31,North America,US,New York,New York City,40.4
